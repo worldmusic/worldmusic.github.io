@@ -8,7 +8,7 @@
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
+        gtag('config', '{{ site.google_analytics }}', { 'anonymize_ip': true });
       </script>
     {% endif %}
     <meta charset="UTF-8">
@@ -35,6 +35,11 @@
       <footer class="site-footer">
         <p>
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        </p>
+        <p>
+          <span class="site-footer-credits">
+            This page uses Google Analytics to measure usage, but anonymizes IP addresses and does not collect or share personally identifying information.
+          </span>
         </p>
         <p>
           <span class="site-footer-credits">
