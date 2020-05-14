@@ -20,6 +20,9 @@ This page will also include annotated collections of other resources that are av
 
 </center>
 
+![](assets/images/william-recinos-nola-violin-unsplash.jpg)
+<small>*"Musician busking" by William Recinos on [Unsplash](https://unsplash.com/@iwillbmm)*</small>
+
 ## Editorial team
 
 Some words here about the team and what they do, perhaps another link to the call for papers...
@@ -45,6 +48,9 @@ The editorial board:
 * Someone's name
 * Someone's name
 
+![](assets/images/paulo-infante-afaia-unsplash.jpg)
+<small>*["Afaia (maracatu drums)" by Paulo Infante on [Upsplash](https://unsplash.com/@pauloinfante)*</small>
+
 ## What should your ideal world music textbook do?
 
 With our aim to provide a collaborative and open free resource for instructors and students alike, we invite you to share any ideas about what you wish you had available for your students.
@@ -56,6 +62,9 @@ With our aim to provide a collaborative and open free resource for instructors a
 </center>
 
 If you would like to be involved, please contact the editors. For updates, join our mailing list by entering your email below. We will not sell or share your responses without your permission.
-
+a
 <input type="text" name="email" placeholder="sample@email.com">
 <a href="/" class="btn">Sign me up</a>
+
+![](assets/images/anthony-delanoix-concert-upsplash.jpg)
+<small>*"party fans raised their hands" by Anthony Delanoix on [Upstream](https://unsplash.com/@anthonydelanoix)*</small>
