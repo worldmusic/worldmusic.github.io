@@ -1,0 +1,71 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+main .btn {
+  color: $section-headings-color;
+  background-color: white;
+  border-color: $section-headings-color;
+  text-align: center;
+
+  &:hover {
+    color: $section-headings-color;
+    background-color: rgba(0, 0, 0, 0.08);
+    border-color: $section-headings-color;
+  }
+
+}
+
+textarea {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: $body-text-color;
+  border-color: $border-color;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+
+  @include large {
+    padding: 0.75rem 1rem;
+  }
+
+  @include medium {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
+  }
+
+  @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+  }
+}
+
+input {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: $body-text-color;
+  border-color: $border-color;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+
+  @include large {
+    padding: 0.75rem 1rem;
+  }
+
+  @include medium {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
+  }
+
+  @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+  }
+}
