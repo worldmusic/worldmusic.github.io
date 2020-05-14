@@ -49,7 +49,7 @@ The editorial board:
 * Someone's name
 
 ![](assets/images/paulo-infante-afaia-unsplash.jpg)
-<small>*["Afaia (maracatu drums)" by Paulo Infante on [Upsplash](https://unsplash.com/@pauloinfante)*</small>
+<small>*"Afaia (maracatu drums)" by Paulo Infante on [Upsplash](https://unsplash.com/@pauloinfante)*</small>
 
 ## What should your ideal world music textbook do?
 
@@ -62,9 +62,11 @@ With our aim to provide a collaborative and open free resource for instructors a
 </center>
 
 If you would like to be involved, please contact the editors. For updates, join our mailing list by entering your email below. We will not sell or share your responses without your permission.
-a
+
+<center>
 <input type="text" name="email" placeholder="sample@email.com">
 <a href="/" class="btn">Sign me up</a>
+</center>
 
 ![](assets/images/anthony-delanoix-concert-upsplash.jpg)
 <small>*"party fans raised their hands" by Anthony Delanoix on [Upstream](https://unsplash.com/@anthonydelanoix)*</small>
