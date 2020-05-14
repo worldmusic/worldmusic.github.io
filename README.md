@@ -6,4 +6,9 @@ This site serves as a temporary home page for the World Music Textbook.
 
 ## Next up
 
-* stylesheets are still not working when pushed to GH (probably related to baseurl)
+* edit text
+* create layout for articles
+* create pages for sample and call
+* build menu for other things that will be on the site
+* make email address
+* connect forms
