@@ -12,11 +12,7 @@ This page will also include annotated collections of other resources that are av
 
 <center>
 
-<a href="/" class="btn">"Communities and Identities in Danza Azteca" by Kristina Nielsen</a>
-
-<br />
-
-<a href="/" class="btn">"As yet unnamed second example" by whomever gets there first</a>
+<a href="pages/nielsen.html" class="btn">"Communities and Identities in Danza Azteca" by Kristina Nielsen</a>
 
 </center>
 
