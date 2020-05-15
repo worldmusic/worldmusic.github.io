@@ -29,22 +29,34 @@
 
     <main id="content" class="main-content" role="main">
 
-      <h1>{{ page.title }}</h1>
-      <h2>{{ page.author }}</h2>
-      <h3>
-        {% if page.job-title %}
-          {{ page.job-title }}
-        {% endif %}
+      <h1 class = "page-author">{{ page.title }}</h1>
+      <h2 class = "page-author">{{ page.author }}
+        <small class = "author-info">
+          {% if page.job-title %}
+            {{ page.job-title }}
+          {% endif %}
 
-        {% if page.job-title and page.affiliation%}
-          |
-        {% endif %}
+          {% if page.job-title and page.affiliation%}
+            |
+          {% endif %}
 
-        {% if page.affiliation %}
-          {{ page.affiliation }}
-        {% endif %}
+          {% if page.affiliation %}
+            {{ page.affiliation }}
+          {% endif %}
 
-      </h3>
+          {% if page.job-title or page.affiliation%}
+            |
+          {% endif %}
+
+          Published on {{ page.date | date: '%B %d, %Y' }}
+        </small>
+      </h2>
+
+      {% if page.tags %}
+        {% for tag in page.tags %}
+          <a href="/" class="btn tag">{{ tag }}</a>
+        {% endfor %}
+      {% endif %}
 
       {{ content }}
 

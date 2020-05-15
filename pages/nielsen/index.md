@@ -9,6 +9,7 @@ tags:
  - dance
  - identity
  - latin america
+ - some others
 ---
 
 In March 2016, I traveled from my home in Los Angeles, California, to
