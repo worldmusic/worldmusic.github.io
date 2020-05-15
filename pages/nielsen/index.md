@@ -1,7 +1,7 @@
 ---
 layout: essay
 author: Kristina Nielsen
-title: Communities and Identities in Danza Azteca
+title: Music and Identity in Danza Azteca
 affiliation: Southern Methodist University
 job-title: Assistant Professor of Musicology
 date: 2020-05-15
@@ -26,7 +26,7 @@ the sounds of rattles on their legs, known as *ayoyotes*, that are made
 out of seedpods. As they dance, copal—a fragrant, ceremonial tree
 sap—drifts through the air.
 
-![](nielsen-fig1.png)<br />
+![](nielsen-fig1.jpg)<br />
 <small>*Figure 1. Mexica New Year Ceremony in San Jose, California in March
 2016.*</small>
 
@@ -41,7 +41,7 @@ soldiers, often referred to as *conquistadores*, and on August 13^th^,
 the Spanish established present-day Mexico City as the new capital of
 the colony of New Spain.
 
-![](nielsen-fig2.png)<br />
+![](nielsen-fig2.jpg)<br />
 <small>*Figure 2. The excavated ruins of a pyramid in the central square with a colonial-era building behind it*</small>
 
 In the decades that followed the fall of Tenochtitlan, the Spanish
