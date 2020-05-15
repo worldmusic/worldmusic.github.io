@@ -4,6 +4,11 @@ author: Kristina Nielsen
 title: Communities and Identities in Danza Azteca
 affiliation: Southern Methodist University
 job-title: Assistant Professor of Musicology
+date: 2020-05-15
+tags:
+ - dance
+ - identity
+ - latin america
 ---
 
 In March 2016, I traveled from my home in Los Angeles, California, to
@@ -35,7 +40,7 @@ soldiers, often referred to as *conquistadores*, and on August 13^th^,
 the Spanish established present-day Mexico City as the new capital of
 the colony of New Spain.
 
-![](nielsen-fig1.png)<br />
+![](nielsen-fig2.png)<br />
 <small>*Figure 2. The excavated ruins of a pyramid in the central square with a colonial-era building behind it*</small>
 
 In the decades that followed the fall of Tenochtitlan, the Spanish
@@ -275,112 +280,63 @@ and the Choreography of Conquest.* Austin: University of Texas Press.
 
 ### Digital Resources
 
-*General History of the Things of New Spain by Fray Bernardino de
-Sahagún: The Florentine Codex*. World Digital Library.
-<https://www.wdl.org/en/item/10096/>
+*[General History of the Things of New Spain by Fray Bernardino de
+Sahagún: The Florentine Codex](https://www.wdl.org/en/item/10096/)*. World Digital Library.
 
-A digitized version of the Florentine Codex, which was drafted in the
+>A digitized version of the Florentine Codex, which was drafted in the
 1500s by Indigenous scribes and the monk Bernardino de Sahagún in the
 decades following the fall of Tenochtitlan. This book describes the
 religion, life, history, and songs of Nahua people of Central Mexico.
 
 ### Works Cited
 
-Alonso, Ana María. 2004. "Conforming Disconformity: 'Mestizaje,'
-Hybridity, and the Aesthetics of Mexican Nationalism." *Cultural
-Anthropology* 19(4): 459--90.
+Alonso, Ana María. 2004. "Conforming Disconformity: 'Mestizaje,' Hybridity, and the Aesthetics of Mexican Nationalism." *Cultural Anthropology* 19(4): 459-90.
 
-Brading, David A. 1988. "Manuel Gamio and Official Indigenismo in
-Mexico." *Bulletin of Latin American Research* 7(1): 75--89.
+Brading, David A. 1988. "Manuel Gamio and Official Indigenismo in Mexico." *Bulletin of Latin American Research* 7(1): 75-89.
 
-Clarke, John. 2015. "Stuart Hall and the Theory and Practice of
-Articulation." *Discourse: Studies in the Cultural Politics of
-Education* 36(2): 275--286.
+Clarke, John. 2015. "Stuart Hall and the Theory and Practice of Articulation." *Discourse: Studies in the Cultural Politics of Education* 36(2): 275-286.
 
-Comisión Nacional para el Desarrollo de los Pueblos Indígenas. 2006.
-"Informe sobre desarrollo Humana de los pueblos indígenas de México."
-Accessed 6 May 2020.
-<http://www.cdi.gob.mx/idh/informe_desarrollo_humano_pueblos_indigenas_mexico_2006.pdf>.
+Comisión Nacional para el Desarrollo de los Pueblos Indígenas. 2006. ["Informe sobre desarrollo Humana de los pueblos indígenas de México."](http://www.cdi.gob.mx/idh/informe_desarrollo_humano_pueblos_indigenas_mexico_2006.pdf) Accessed 6 May 2020.
 
-DeLuca, Kevin. 1999. "Articulation Theory: A Discursive Grounding for
-Rhetorical Practice." *Philosophy & Rhetoric* 32(4): 334--48.
+DeLuca, Kevin. 1999. "Articulation Theory: A Discursive Grounding for Rhetorical Practice." *Philosophy & Rhetoric* 32(4): 334-48.
 
-Gamio, Manuel. 2010. *Forjando Patria: Pro-*Nacionalismo, translated by
-Fernando Armstrong-Fumero. Boulder: University Press of Colorado.
+Gamio, Manuel. 2010. *Forjando Patria: Pro-*Nacionalismo, translated by Fernando Armstrong-Fumero. Boulder: University Press of Colorado.
 
-González Torres, Yólotl. 2005. *Danza Tu Palabra: La Danza de Los
-Concheros*. Mexico City: Conaculta-INAH.
+González Torres, Yólotl. 2005. *Danza Tu Palabra: La Danza de Los Concheros*. Mexico City: Conaculta-INAH.
 
-Grossberg, Lawrence. 1996. "On Postmodernism and Articulation: An
-Interview with Stuart Hall." In *Stuart Hall: Critical Dialogues in
-Cultural Studies*, edited by David Morley and Kuan-Hsing Chen, 131--51.
-New York: Routledge.
+Grossberg, Lawrence. 1996. "On Postmodernism and Articulation: An Interview with Stuart Hall." In *Stuart Hall: Critical Dialogues in Cultural Studies*, edited by David Morley and Kuan-Hsing Chen, 131-51. New York: Routledge.
 
-Hall, Stuart. 1986. "Gramsci's Relevance for the Study of Race and
-Ethnicity." *Journal of Communication Inquiry* 10(2): 5-27.
+Hall, Stuart. 1986. "Gramsci's Relevance for the Study of Race and Ethnicity." *Journal of Communication Inquiry* 10(2): 5-27.
 
-Hall, Stuart. 2002. "Race, Articulation and Societies Structured in
-Dominance." In *Race Critical Theories: Text and* Context, edited by
-Philomena Essed and David Theo Goldberg, 38-68. Oxford: Blackwell
-Publishers.
+Hall, Stuart. 2002. "Race, Articulation and Societies Structured in Dominance." In *Race Critical Theories: Text and* Context, edited by Philomena Essed and David Theo Goldberg, 38-68. Oxford: Blackwell Publishers.
 
-International Work Group for Indigenous Affairs. 2019. "Indigenous
-Peoples in Mexico." Accessed April 9, 2020.
-https://www.iwgia.org/en/mexico.html.
+International Work Group for Indigenous Affairs. 2019. ["Indigenous Peoples in Mexico."](https://www.iwgia.org/en/mexico.html) Accessed April 9, 2020.
 
-Instituto Nacional de Lenguas Indígenas Nacionales. 2008. "Catálogo de
-las Lenguas Indígenas Nacionales: Variantes Lingüísticas de México con
-sus Autodenominaciones y Referencias Geoestadísticas." *Diario Oficial*.
-Accessed April 9, 2020. https://www.inali.gob.mx/pdf/CLIN\_completo.pdf.
+Instituto Nacional de Lenguas Indígenas Nacionales. 2008. ["Catálogo de las Lenguas Indígenas Nacionales: Variantes Lingüísticas de México con sus Autodenominaciones y Referencias Geoestadísticas."](https://www.inali.gob.mx/pdf/CLIN\_completo.pdf) *Diario Oficial*. Accessed April 9, 2020
 
-Klor de Alva, J. Jorge. 1992. "Introduction: Nahua Studies, The Allure
-of the 'Aztecs,' and Miguel León-Portilla." In *The Aztec Image of Self
-and Society: An Introduction to Nahua Culture*, edited by J. Jorge Klor
-de Alva, vii-xxiii. Salt Lake City: University of Utah Press.
+Klor de Alva, J. Jorge. 1992. "Introduction: Nahua Studies, The Allure of the 'Aztecs,' and Miguel León-Portilla." In *The Aztec Image of Self and Society: An Introduction to Nahua Culture*, edited by J. Jorge Klor de Alva, vii-xxiii. Salt Lake City: University of Utah Press.
 
-Knight, Alan. 1990. "Racism, Revolution, and Indigenismo: Mexico,
-1910-1940." In *The Idea of Race in Latin America, 1870-1940*, edited by
-Richard Graham, 71--113. Austin: University of Texas Press.
+Knight, Alan. 1990. "Racism, Revolution, and Indigenismo: Mexico, 1910-1940." In *The Idea of Race in Latin America, 1870-1940*, edited by Richard Graham, 71-113. Austin: University of Texas Press.
 
-León-Portilla, Miguel. 1992. *Fifteen Poets of the Aztec World*. Norman:
-University of Oklahoma Press.
+León-Portilla, Miguel. 1992. *Fifteen Poets of the Aztec World*. Norman: University of Oklahoma Press.
 
-Nielsen, Kristina. 2014. "The Role of Interpretation in Determining
-Continuity in Danza Azteca History." *Ethnomusicology Review*. Accessed
-April 9, 2020.
-https://ethnomusicologyreview.ucla.edu/content/role-interpretation-determining-continuity-danza-azteca-history.
+Nielsen, Kristina. 2014. ["The Role of Interpretation in Determining Continuity in Danza Azteca History."](https://ethnomusicologyreview.ucla.edu/content/role-interpretation-determining-continuity-danza-azteca-history) *Ethnomusicology Review*. Accessed April 9, 2020
 
-Rostas, Susana. 1991. "The Concheros of Mexico: A Search for Ethnic
-Identity." *Dance Research: The Journal of the Society for Dance
-Research* 9(2): 3--17.
+Rostas, Susana. 1991. "The Concheros of Mexico: A Search for Ethnic Identity." *Dance Research: The Journal of the Society for Dance Research* 9(2): 3-17.
 
-­­­------. 2009. *Carrying the Word*. Boulder: University of
-Colorado Press.
+­­­------. 2009. *Carrying the Word*. Boulder: University of Colorado Press.
 
-------. 2002. "'Mexicanidad' The Resurgence of the Indian in
-Popular Mexican Nationalism." *The Cambridge Journal of Anthropology*
-23(1): 20--38.
+­­­------. 2002. "'Mexicanidad' The Resurgence of the Indian in Popular Mexican Nationalism." *The Cambridge Journal of Anthropology* 23(1): 20-38.
 
-Saavedra, Leonora. 2015. "Carlos Chávez and the Myth of the Aztec
-Renaissance." In *Carlos Chávez and His World*, edited by Leonora
-Saavedra, 134-165. Princeton: Princeton University Press.
+Saavedra, Leonora. 2015. "Carlos Chávez and the Myth of the Aztec Renaissance." In *Carlos Chávez and His World*, edited by Leonora Saavedra, 134-165. Princeton: Princeton University Press.
 
-Sahagún, Bernardino de. 1951 \[1540-1585\]. *Florentine Codex Book II*,
-translated by Arthur Anderson and Charles Dibble. Santa Fe: The School
-of American Research and the University of Utah.
+Sahagún, Bernardino de. 1951 \[1540-1585\]. *Florentine Codex Book II* translated by Arthur Anderson and Charles Dibble. Santa Fe: The School of American Research and the University of Utah.
 
-Tavárez, David. 2011. *The Invisible War: Indigenous Devotions,
-Discipline, and Dissent in Colonial Mexico*. Stanford: Stanford
-University Press.
+Tavárez, David. 2011. *The Invisible War: Indigenous Devotions, Discipline, and Dissent in Colonial Mexico*. Stanford: Stanfor University Press.
 
-Tuzi, Grazia. 2013. "The *Voladores* Dance: On the Use of Evidence from
-the Past to Interpret the Present." In *Flower World: Music Archaeology
-of the Americas* Volume 2, edited by Matthias Stöckli and Arnd Adje
-Both, 159-176. Berlin: Ekho Verlag.
+Tuzi, Grazia. 2013. "The *Voladores* Dance: On the Use of Evidence from the Past to Interpret the Present." In *Flower World: Music Archaeology of the Americas* Volume 2, edited by Matthias Stöckli and Arnd Adje Both, 159-176. Berlin: Ekho Verlag.
 
-United Nations Permanent Forum on Indigenous People. "Factsheet."
-Accessed April 9, 2020.
-https://www.un.org/esa/socdev/unpfii/documents/5session\_factsheet1.pdf.
+United Nations Permanent Forum on Indigenous People. ["Factsheet."](https://www.un.org/esa/socdev/unpfii/documents/5session\_factsheet1.pdf) Accessed April 9, 2020.
 
 Vasconcelos, José. 1979 \[1925\]. *The Cosmic Race: La raza cósmica*.
 Trans. Didier T. Jaén. Baltimore: John Hopkins University Press.
