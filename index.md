@@ -51,18 +51,25 @@ The editorial board:
 
 With our aim to provide a collaborative and open free resource for instructors and students alike, we invite you to share any ideas about what you wish you had available for your students.
 
-<textarea id="suggestions" rows="4"></textarea>
+<form
+  action = "https://formspree.io/chris.witulski@gmail.com"
+  method="POST">
 
-<center>
-<a href="/" class="btn">I have some thoughts</a>
-</center>
+  <textarea name="suggestions" rows="4" placeholder = "I have some thoughts"></textarea>
 
-If you would like to be involved, please contact the editors. For updates, join our mailing list by entering your email below. We will not sell or share your responses without your permission.
+  <p>
+    If you would like to be involved, please contact the editors. For updates, join our mailing list by entering your email below. We will not sell or share your responses without your permission.
+  </p>
 
-<center>
-<input type="text" name="email" placeholder="sample@email.com">
-<a href="/" class="btn">Sign me up</a>
-</center>
+  <center>
+    <input type="text" name="name" placeholder="Your name (optional)" size = "50">
+    <input type="text" name="email" placeholder="Your email (optional)" size = "50">
+    <br />
+
+    <input type = "submit" class="btn" value = "Send">
+  </center>
+</form>
+
 
 ![](assets/images/anthony-delanoix-concert-upsplash.jpg)
 <small>*"party fans raised their hands" by Anthony Delanoix on [Upstream](https://unsplash.com/@anthonydelanoix)*</small>
