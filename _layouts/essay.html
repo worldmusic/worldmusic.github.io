@@ -44,11 +44,14 @@
             {{ page.affiliation }}
           {% endif %}
 
-          {% if page.job-title or page.affiliation%}
-            |
+          {% if page.date %}
+            {% if page.job-title or page.affiliation %}
+              |
+            {% endif %}
+            Published on
+            {{ page.date | date: '%B %d, %Y' }}
           {% endif %}
 
-          Published on {{ page.date | date: '%B %d, %Y' }}
         </small>
       </h2>
 
