@@ -31,18 +31,7 @@ The World Music Textbook editors are:
 * Jessie Vallejo (Cal Poly Pomona)
 * Christopher Witulski (Bowling Green State University)
 
-The editorial board:
-
-* Someone's name
-* Someone's name
-* Someone's name
-* Someone's name
-* Someone's name
-* Someone's name
-* Someone's name
-* Someone's name
-* Someone's name
-* Someone's name
+The editorial board will be announced in the near future.
 
 ![](assets/images/paulo-infante-afaia-unsplash.jpg)
 <small>*"Afaia (maracatu drums)" by Paulo Infante on [Upsplash](https://unsplash.com/@pauloinfante)*</small>
