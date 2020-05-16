@@ -4,11 +4,11 @@
 
 layout: default
 ---
-Short description of the project, including reasons, features, and framing..
+Short description of the project, including reasons, features, and framing...
 
 While our project is still in development, we have two samples of the types of undergraduate- and general audience-focused writing that we intend to highlight. We also encourage submissions in other formats, including short documentary videos, interviews and oral histories, or interactive projects that take advantage of the opportunities of online delivery.
 
-This page will also include annotated collections of other resources that are available across the web. If you manage or know of a good resource, please contact the editors at [editors@worldmusictextbook.com](mailto:editors@worldmusictextbook.com) for consideration.
+This page will also include annotated collections of other resources that are available across the web. If you manage or know of a good resource, please contact the editors at [editors@worldmusictextbook.org](mailto:editors@worldmusictextbook.org) for consideration.
 
 <center>
 
@@ -23,7 +23,7 @@ This page will also include annotated collections of other resources that are av
 
 Some words here about the team and what they do, perhaps another link to the call for papers...
 
-If you have any questions about this project, using the resources, the submission or review process, or would like to learn how to be involved, please contact the editors at [editors@worldmusictextbook.com](mailto:editors@worldmusictextbook.com).
+If you have any questions about this project, using the resources, the submission or review process, or would like to learn how to be involved, please contact the editors at [editors@worldmusictextbook.org](mailto:editors@worldmusictextbook.org).
 
 The World Music Textbook editors are:
 
