@@ -4,7 +4,7 @@ title: Call for Contributions
 permalink: /call/
 ---
 
-You are invited to consider contributing to a new open world music textbook. *World Music Textbook* aims to assemble a collection of original writing and multimedia resources for use in the world music classroom while provide a public resource for other educational and research uses.
+You are invited to contribute to a new open world music textbook. *World Music Textbook* aims to assemble a collection of original writing and multimedia resources for use in musicology and ethnomusicology classrooms. We envision a resource that can also serve the public in other educational and research uses.
 
 ## Scope and style
 
