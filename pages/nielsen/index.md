@@ -36,7 +36,7 @@ Coast to the Caribbean. The Empire included Indigenous people of many
 different cultures who paid tribute (similar to taxes) to the Mexica.
 The Americas were forever changed with the arrival of Europeans in the
 late 1400s. In 1519, Hernán Cortés arrived in Tenochtitlan with his
-soldiers, often referred to as *conquistadores*, and on August 13^th^,
+soldiers, often referred to as *conquistadores*, and on August 13th,
 1521, they defeated Tenochtitlan. Upon the ruins of the former capital,
 the Spanish established present-day Mexico City as the new capital of
 the colony of New Spain.
