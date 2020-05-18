@@ -8,28 +8,31 @@ You are invited to contribute to a new open world music textbook. *World Music T
 
 ## Scope and style
 
-This project takes a broad view of "world music" that includes historical and theoretical writing as well as other formats. We welcome contributions of short documentary films, interview transcriptions, oral histories, interactive projects that take advantage of our online delivery.
+This project takes a broad view of "world music" that includes historical and theoretical writing as well as other formats. We welcome contributions of essays, short documentary films, interview transcriptions, oral histories, and interactive projects that take advantage of our online delivery.
 
 These materials will be:
 
 * Free and open to all
-* Short, accessible, and written for an undergraduate student or general readership
-* Flexible in a way that allows instructors to draw thematic connections between a variety of geographic and historical contexts
+* Short, accessible, and written for undergraduate students or general readership
+* Flexible to allow instructors to draw thematic connections between a variety of geographic and historical contexts
 
-We welcome writing of roughly 1,000 to 2,000 words or films and multimedia projects of a similar scope. We are interested in all types of content that is accessible to general audiences.
+We welcome writing of roughly 1,000 to 2,000 words or films and multimedia projects of a similar scope. We are interested in all types of content that are accessible to general audiences.
 
-Our hope is that these materials will derive from personal fieldwork experiences or work with primary sources (broadly defined) that illuminate significant ethnomusicological themes through compelling narratives.
+Our hope is that these materials will derive from teaching experiences, personal fieldwork experiences, or work with primary sources (broadly defined) that illuminate significant ethnomusicological themes through compelling narratives.
 
 ## Organization
 
-The *World Music Textbook* will live exclusively online and be in an open format. By highlighting focused contributions, it will serve as an adaptable educational resource. The site will use a tag system to link and filter contributions by both geographically and thematically.
+The *World Music Textbook* is in an open format and lives exclusively online. It will serve as an adaptable educational resource capable of meeting a variety of needs ranging from those of introductory world music courses to thematic or region-specific courses. To meet these various needs, the *World Music Textbook* will use a tag system to link and filter contributions both geographically and thematically.
+
 
 Examples of themes include (but are not limited to):
 
 * Analysis
+* Archives and preservation
 * Dance
 * Diaspora
 * Environment
+* Ethics
 * Fieldwork and analysis methods
 * Identity
 * Ideology
@@ -42,6 +45,7 @@ Examples of themes include (but are not limited to):
 * Memory/nostalgia
 * Modernity
 * Power
+* Race and ethnicity
 * Religion
 * Representation
 * Technology
@@ -49,7 +53,7 @@ Examples of themes include (but are not limited to):
 
 ## Submission information, ownership, and licensing
 
-If you have any questions about this project, about whether a potential contribution is suitable, or how your project can make use of this project's online delivery, contact the editors at [editors@worldmusictextbook.org](mailto:editors@worldmusictextbook.org).
+Please contact the editors at [editors@worldmusictextbook.org](mailto:editors@worldmusictextbook.org) with any questions about the *World Music Textbook*, whether a potential contribution is suitable, or how your submission can make use of this project's online delivery.
 
 Submissions should be roughly in line with the word counts listed above, or of a similar scope (a documentary short, for example, instead of a feature length film). Submit writing via email in a standard rich text format (RTF, Microsoft Word, or similar) and send any attachments (images, videos, etc.) as separate files along with a document that includes captions. [Email the editors](mailto:editors@worldmusictextbook.org) with any questions or for information about submitting code for interactive contributions.
 
