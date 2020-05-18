@@ -51,12 +51,17 @@
             Published on
             {{ page.date | date: '%B %d, %Y' }}
           {% endif %}
-
         </small>
       </h2>
+      <blockquote class = "bio">
+        {% if page.bio %}
+          {{ page.bio }}
+        {% endif %}
+      </blockquote>
 
       {% if page.tags %}
-        {% for tag in page.tags %}
+        {% assign tags = page.tags | sort %}
+        {% for tag in tags %}
           <a disabled class="btn tag">{{ tag }}</a>
         {% endfor %}
       {% endif %}
