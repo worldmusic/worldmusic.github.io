@@ -4,7 +4,9 @@
 
 layout: default
 ---
-Short description of the project, including reasons, features, and framing...
+The World Music Textbook is a new collaborative project that aims to create a free and broadly accessible resource for educators, students, and researchers alike. It will do so by developing and maintaining open collections of scholarly, peer-reviewed writing and multimedia materials that are created with undergraduate students and general readership in mind.
+
+This project’s vision is the creation of an adaptable free textbook. Its content will be created by researchers who address broad themes that are close to their own expertise and experience. Educators will be able to assign short-form materials to demonstrate theoretical, methodological, and geographic connections. Filtered listings, tags, curated collections, and sample educational materials will highlight diverse voices, histories, and forms of doing scholarship.
 
 While our project is still in development, we have two samples of the types of undergraduate- and general audience-focused writing that we intend to highlight. We also encourage submissions in other formats, including short documentary videos, interviews and oral histories, or interactive projects that take advantage of the opportunities of online delivery.
 
