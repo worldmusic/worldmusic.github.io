@@ -110,7 +110,9 @@ critical roles in shaping identities within Danza Azteca communities.
 
 ## Music at the Mexica New Year Ceremony
 
-***Insert Video Clip from the Mexica New Year Ceremony***
+<small>*Example of a dance from the 2016 Mexica New Year Ceremony in San Jose, California hosted by Calpulli Tonalehqueh*</small><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kb4O0rVHBhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 The music at the Mexica New Year ceremony meets many expectations
 listeners might have for what an ancient Aztec music should sound like.
@@ -181,7 +183,8 @@ interlocked line holding hands. Cuezalin then transitions this dance to
 a popular Mexican song "La Víbora" or "the snake" that uses the same
 rhythms and dance steps.
 
-***Insert video of Zan Yehuan performance at MNY celebration***
+<small>*Video of Cuezalin leading “Zan Yehuan” at the Mexica New Year Ceremony in San Jose, California*</small><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R920ZHGmt-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Danza and Articulation Theory
 
@@ -225,6 +228,9 @@ forge a relationship with the past. I interviewed Cuezalin about these
 songs, and he shared why this text is so meaningful to him:
 
 > I believe that their power is in the connection they establish to the words of the ancients. And when we pronounce the words that they pronounced, that for them were special, when we sing their songs we are transported to an ancient time—to a time that unites many of us that are descended from the Aztecs, so to speak, the people that spoke in those times. Even though our ancestors may not have been Nahuatl speakers at that time, these are words that were spoken in the time that our ancestors lived. Therefore, they transport us like a time capsule ... It is a gem, a physical thing that can be sung, that one can say. Someone might, for example, have a mask or a piece of old jade, but only one person can have that. A song is different. A song can belong to many people, and you can protect it and care for it. That is the power of the spoken word. (Personal Interview with Cuezalin 2015)
+
+<small>*Video of Cuezalin performing “Zan Yehuan” and discussing the origins of the song*</small><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SatasmBx0oM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 At the same time, the transition into "La Víbora" highlights a shared Mexican identity, using a song common in Mexican celebrations, such as weddings. For danzantes, these musical elements and their interwoven identities, both ethnic and national, are not exclusive: They exist simultaneously. Through music and dance, danzantes can emphasize one element and then another, using music to temporarily bring different aspects of their identities to the forefront while simultaneously celebrating all of them collectively.
 
