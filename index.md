@@ -8,7 +8,7 @@ The *World Music Textbook* is a new collaborative project that aims to create a 
 
 This project’s vision is the creation of an adaptable free textbook. Its content will be created by researchers and practitioners who address musical practices and broad themes that are close to their own expertise and experience. Educators will be able to assign short-form materials to demonstrate theoretical, methodological, and geographic connections. Filtered listings, tags, curated collections, and sample educational materials will highlight diverse voices, histories, and forms of doing scholarship.
 
-While our project is still in development, we have two samples of the types of undergraduate- and general audience-focused writing that we intend to highlight. We also encourage submissions in other formats, including short documentary videos, interviews and oral histories, or interactive projects that take advantage of the opportunities of online delivery.
+While our project is still in development, we have a sample of the type of undergraduate- and general audience-focused writing that we intend to highlight. We also encourage submissions in other formats, including short documentary videos, interviews and oral histories, or interactive projects that take advantage of the opportunities of online delivery.
 
 The *World Music Textbook* will also include annotated collections of other resources that are available across the web. If you manage or know of a good resource, please contact the editors at [editors@worldmusictextbook.org](mailto:editors@worldmusictextbook.org) for consideration.
 
@@ -22,8 +22,6 @@ The *World Music Textbook* will also include annotated collections of other reso
 <small>*"Musician busking" by William Recinos on [Unsplash](https://unsplash.com/@iwillbmm)*</small>
 
 ## Editorial team
-
-Some words here about the team and what they do, perhaps another link to the call for papers...
 
 If you have any questions about this project, using the resources, the submission or review process, or would like to learn how to be involved, please contact the editors at [editors@worldmusictextbook.org](mailto:editors@worldmusictextbook.org).
 
