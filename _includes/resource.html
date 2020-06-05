@@ -1,0 +1,72 @@
+<div class="collection">
+	<h4 id="bibliography-{{ bib.topic-no-space }}">{{ bib.topic }}
+		<span class="drop-down">&#9660;</span>
+	</h4>
+
+	<div class="collection-info" id="bibliography-info-{{ bib.topic-no-space }}">
+
+	{% if bib.description %}
+		<p class="description"><strong>
+			{{ bib.description }}
+		</strong></p>
+	{% endif %}
+
+	{% if bib.resources %}
+		<ul class="collection-indent">
+			{% assign sorted-pubs = (bib.resources | sort:'date' | reverse) %}
+			{% for pub in sorted-pubs %}
+
+				{% comment %} CHECKING FOR TYPES {% endcomment %}
+
+				{% if pub.type == "book" %}
+					{% if pub.link %}
+						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank"><em>{{ pub.title }}</em></a> ({{ pub.date }}), {{ pub.publication }}</li>
+						{% else %}
+							<li>{{ pub.author }}, <em>{{ pub.title }}</em> ({{ pub.date }}), {{ pub.publication }}</li>
+					{% endif %}
+				{% endif %}
+
+				{% if pub.type == "article" %}
+					{% if pub.link %}
+						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }},"</a> ({{ pub.date }}), <em>{{ pub.publication }}</em> {{ pub.issue }}</li>
+						{% else %}
+							<li>{{ pub.author }}, "{{ pub.title }}," ({{ pub.date }}), <em>{{ pub.publication }}</em> {{ pub.issue }}</li>
+					{% endif %}
+				{% endif %}
+
+				{% if pub.type == "url" %}
+					{% if pub.link %}
+						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }},"</a> ({{ pub.date }})</li>
+						{% else %}
+							<li>{{ pub.author }}, "{{ pub.title }}," ({{ pub.date }})</li>
+					{% endif %}
+				{% endif %}
+
+				{% if pub.type == "chapter" %}
+					{% if pub.link %}
+						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }},"</a>
+							({{ pub.date }}), in <em>{{ pub.publication }}</em>,
+							edited by {{ pub.editor }}
+							{% if pub.pages %}(pages {{ pub.pages }}){% endif %}</li>
+						{% else %}
+							<li>{{ pub.author }}, "{{ pub.title }},"
+								({{ pub.date }}), in <em>{{ pub.publication }}</em>,
+								edited by {{ pub.editor }}
+								{% if pub.pages %}(pages {{ pub.pages }}){% endif %}</li>
+
+					{% endif %}
+				{% endif %}
+
+			{% endfor %}
+		</ul>
+	{% endif %}
+
+	</div>
+
+	<script>
+		$("#bibliography-{{ bib.topic-no-space }}").click(function() {
+			$("#bibliography-info-{{ bib.topic-no-space }}").slideToggle()
+		})
+	</script>
+
+</div>

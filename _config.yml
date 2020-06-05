@@ -25,6 +25,8 @@ url: https://worldmusictextbook.org # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 google_analytics: UA-80548224-5
+collections:
+  - resources
 
 # Build settings
 markdown: kramdown
