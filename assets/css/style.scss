@@ -97,7 +97,7 @@ input {
 // for collections
 .drop-down {
   font-size: .6em;
-  color: $border-color;
+  color: $body-text-color;
   margin: 4px;
   padding: 2px 5px 2px 5px;
 //  border: 1px solid $grey-color;
@@ -116,7 +116,7 @@ input {
 .collection-info {
   padding-left: 24px;
   display: none;
-  color: $border-color;
+  color: $body-text-color;
 }
 
 .collection-indent {
