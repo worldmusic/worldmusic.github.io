@@ -30,15 +30,15 @@
 					{% if pub.link %}
 						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }},"</a> ({{ pub.date }}), <em>{{ pub.publication }}</em> {{ pub.issue }}</li>
 						{% else %}
-							<li>{{ pub.author }}, "{{ pub.title }}," ({{ pub.date }}), <em>{{ pub.publication }}</em> {{ pub.issue }}</li>
+							<li>{{ pub.author }}, "{{ pub.title }}" ({{ pub.date }}), <em>{{ pub.publication }}</em> {{ pub.issue }}</li>
 					{% endif %}
 				{% endif %}
 
 				{% if pub.type == "url" %}
 					{% if pub.link %}
-						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }},"</a> ({{ pub.date }})</li>
+						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }}"</a> ({{ pub.date }})</li>
 						{% else %}
-							<li>{{ pub.author }}, "{{ pub.title }}," ({{ pub.date }})</li>
+							<li>{{ pub.author }}, "{{ pub.title }}" ({{ pub.date }})</li>
 					{% endif %}
 				{% endif %}
 
@@ -57,6 +57,9 @@
 					{% endif %}
 				{% endif %}
 
+				{% if pub.description %}
+					<p class="description">{{ pub.description}}</p>
+				{% endif %}
 			{% endfor %}
 		</ul>
 	{% endif %}

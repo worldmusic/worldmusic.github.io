@@ -3,97 +3,57 @@ topic: "Virtual fieldwork"
 topic-no-space: "virtual_fieldwork"
 description: "This listing is largely compiled from an email thread on the topic to the Society for Ethnomusicology email list (SEM-L) in the spring of 2020. Thank you to those who suggested resources there and to those who have added to this collection since then."
 resources:
-  - title: "Voices of the Arab Spring: Personal Stories of the Arab Revolutions"
-    author: "Asaad al-Saleh"
-    publication: "Columbia University Press"
-    date: 2015
-    type: "book"
-  - title: "Demystifying the Arab Spring: Parsing the Differences between Tunisia, Egypt, and Libya"
-    author: "Lisa Anderson"
-    date: 2011
-    publication: "Foreign Affairs"
-    issue: 90(3)
-    type: "article"
-  - title: "Understanding the 'Arab Spring': Justice, Dignity, Religion and International Politics"
-    author: "Nurullah Ardic"
-    date: 2012
-    publication: "Afro Eurasian Studies"
-    issue: "1"
-    type: "article"
-  - title: "“Rapping the Revolution"
-    author: "Lauren Bohn"
-    date: 2011
-    publication: "Foreign Policy"
-    issue: "July 22"
-    type: "article"
-  - title: "The Arab Spring: Pathways of Repression and Reform"
-    author: "Jason Brownlee et al."
-    date: 2015
-    publication: "Oxford University Press"
-    type: "book"
-  - title: "Music of Dissent and Revolution"
-    author: "Kerim Bouzouita"
+  - type: "chapter"
+    title: "Virtual Fieldwork: Three Case Studies"
+    author: "Timothy J. Cooley and others"
+    editor: "Gregory F. Barz and Timothy J. Cooley"
+    date: 2008
+    publication: "Shadows in the Field. New Perspectives for Fieldwork in Ethnomusicology"
+    pages: "90-107"
+  - type: "chapter"
+    title: "E-Fieldwork: A Paradigm for the 21st century?"
+    author: "Abigail Wood"
+    date: 2008
+    publication: "The New (Ethno)musicologies"
+    editor: "Henry Stobart"
+    pages: "170-187"
+  - type: "url"
+    title: "Special issue on digital ethnomusicology"
+    author: "SEM{STUDENTNEWS}, Student Concerns Committee"
     date: 2013
-    publication: "Middle East Critique"
-    issue: "22(3)"
-    type: "article"
-  - title: "The New Arab Revolt: What Happened, What It Means, and What Comes Next"
-    author: "Council on Foreign Relations"
-    date: 2011
-    publication: "Council on Foreign Relations"
-    type: "book"
-  - title: "Arab Spring: The Awakening of Civil Society. A General Overview"
-    author: "Franceso Cavatorta"
-    date: 2012
-    link: "http://www.iemed.org/observatori-es/arees-danalisi/arxius-adjunts/anuari/med.2012/Cavatorta_en.pdf"
-    type: "url"
-  - title: "The Arab Spring: A Revolution of the Imagination"
-    author: "Tarik Ahmed Elseewi"
-    date: 2011
-    publication: "International Journal of Communication"
-    issue: "5"
-    type: "article"
-  - title: "Understanding the Revolutions of 2011: Weakness and Resilience in Middle Eastern Autocracies"
-    author: "Jack Goldstone and John Hazel, Jr."
-    date: 2011
-    publication: "Foreign Affairs"
-    issue: "90(3)"
-    type: "article"
-  - title: "Understanding Tahrir Square: What Transitions Elsewhere Can Teach Us About the Prospects for Arab Democracy"
-    author: "Stephen Grand and Cynthia Stock"
-    date: 2014
-    publication: "Brookings Institution Press"
-    type: "book"
-  - title: "Hip Hop and the Arab Spring"
-    author: "Bryan Farrell"
-    date: 2011
-    link: "http://wagingnonviolence.org/2011/07/hip-hop-and-the-arab-spring"
-    type: "url"
-  - title: "Arab Spring, 'Favelas,' Borders, and the Artistic Transnational Migration: Toward a Curriculum for a Global Hip-Hop Nation"
-    author: "Awad Ibrahim"
+    link: "http://www.ethnomusicology.org/resource/resmgr/sem_student_news/sem_student_news_vol_6.pdf"
+  - type: "book"
+    title: "Hybrid Ethnography: Online, Offline, and in Between"
+    author: "Liz Przbylski"
+    date: 2020
+    publication: "Sage Publishing"
+    link: "https://uk.sagepub.com/en-gb/eur/hybrid-ethnography/book260684"
+  - type: "url"
+    title: "Doing fieldwork in a pandemic"
+    date: 2020
+    author: "Deborah Lupton, editor"
+    link: "https://docs.google.com/document/d/1clGjGABB2h2qbduTgfqribHmog9B6P0NvMgVuiHZCl8/edit?ts=5e88ae0a#"
+  - type: "book"
+    title: "Digital Ethnography: Principles and Practice"
+    author: "Sarah Pink et al. (editors)"
+    date: 2016
+    publication: "Sage Publishing"
+    link: "https://uk.sagepub.com/en-gb/eur/digital-ethnography/book243111"
+  - type: "book"
+    title: "The Routledge Companion to Digital Ethnography"
+    author: "Larissa Hjorth et. al. (editors)"
     date: 2017
-    publication: "Curriculum Inquiry"
-    issue: "47(1)"
-    type: "article"
-  - title: "The Arab Spring in North Africa: Origins and Prospects"
-    author: "George Joffé"
-    date: 2011
-    publication: "The Journal of North African Studies"
-    issue: "16(4)"
-    type: "article"
-  - title: "The Use of Social Media from Revolution to Democratic Consolidation: The Arab Spring and the Case of Tunisia"
-    author: "Magdalena Karolak"
-    date: 2017
-    publication: "Journal of Arab & Muslim Media Research"
-    issue: "10(2)"
-    type: "article"
-  - title: "Social Media in Democratic Transitions and Consolidations: What Can We Learn From the Case of Tunisia?"
-    author: "Magdalena Karolak"
+    publication: "Routledge"
+    link: "https://www.routledge.com/The-Routledge-Companion-to-Digital-Ethnography-1st-Edition/Hjorth-Horst-Galloway-Bell/p/book/9780367873585"
+  - type: "book"
+    title: "Singing the Congregation: How Contemporary Worship Music Forms Evangelical Community"
+    author: "Monique M. Ingalls"
     date: 2018
-    publication: "The Journal of North African Studies"
-    issue: "In press"
-    link: "https://www.tandfonline.com/doi/full/10.1080/13629387.2018.1482535"
-    type: "article"
+    publication: "Oxford University Press"
+    link: "https://www.oxfordscholarship.com/view/10.1093/oso/9780190499631.001.0001/oso-9780190499631"
+    description: "This work uses hybrid methodologies to research Evangelical worship practices and includes a chapter titled \"Worship on Screen\" that explores online content as an \"extension of congregations into the virtual realm.\""
+
+
 ---
 
 Cooley, Timothy J. et al. (2008): "Virtual Fieldwork. Three Case Studies." In: Gregory F. Barz und Timothy J. Cooley (eds.): Shadows in the Field. New Perspectives for Fieldwork in Ethnomusicology, 90–107.
@@ -109,6 +69,7 @@ Doing Fieldwork in a Pandemic. Deborah Lupton, crowdsourced document, and recent
 Digital Ethnography: Principles and Practice, ed. Sarah Pink et. al. (2016)
 
 The Routledge Companion to Digital Ethnography, ed. Larissa Hjorth et. al. (2016)
+
 Singing the Congregation: How Contemporary Worship Music Forms Evangelical Community. Monique Ingalls incorporates both in-person and virtual fieldwork for much of her book, but what you're looking for is probably most concentrated in Chapter 5 (Worship on Screen).
 
 autoethnography and designing research "at home" (wherever that may be!). The chapter by Christopher Hale in The Oxford Handbook of Music and World Christianities (edited by Suzel Ana Reily and Jonathan M. Dueck)
