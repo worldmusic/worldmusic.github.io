@@ -1,0 +1,49 @@
+{% if pub.type == "book" %}
+    {% if pub.link %}
+        <p class="hang">{{ pub.author }}, <a href="{{ pub.link }}" target="_blank"><em>{{ pub.title }}</em></a> ({{ pub.date }}), {{ pub.publication }}</p>
+    {% else %}
+        <p class="hang">{{ pub.author }}, <em>{{ pub.title }}</em> ({{ pub.date }}), {{ pub.publication }}</p>
+    {% endif %}
+{% endif %}
+
+{% if pub.type == "article" %}
+    {% if pub.link %}
+        <p class="hang">{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }},"</a> ({{ pub.date }}), <em>{{ pub.publication }}</em> {{ pub.issue }}</p>
+    {% else %}
+        <p class="hang">{{ pub.author }}, "{{ pub.title }}" ({{ pub.date }}), <em>{{ pub.publication }}</em> {{ pub.issue }}</p>
+    {% endif %}
+{% endif %}
+
+{% if pub.type == "url" %}
+    {% if pub.link %}
+        <p class="hang">{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }}"</a> ({{ pub.date }})</p>
+    {% else %}
+        <p class="hang">{{ pub.author }}, "{{ pub.title }}" ({{ pub.date }})</p>
+    {% endif %}
+{% endif %}
+
+{% if pub.type == "chapter" %}
+    {% if pub.link %}
+        <p class="hang">{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }},"</a>
+            ({{ pub.date }}), in <em>{{ pub.publication }}</em>,
+            edited by {{ pub.editor }}
+            {% if pub.pages %}(pages {{ pub.pages }}){% endif %}</p>
+    {% else %}
+        <p class="hang">{{ pub.author }}, "{{ pub.title }},"
+            ({{ pub.date }}), in <em>{{ pub.publication }}</em>,
+            edited by {{ pub.editor }}
+            {% if pub.pages %}(pages {{ pub.pages }}){% endif %}</p>
+
+    {% endif %}
+{% endif %}
+
+{% if pub.description %}
+    <p class="description">{{ pub.description}}</p>
+{% endif %}
+
+{% if pub.tags %}
+    {% assign sorted-tags = (pub.tags | sort) %}
+    {% for tag in sorted-tags %}
+        <span class = 'tag btn'>{{ tag }}</span>
+    {% endfor %}
+{% endif %}

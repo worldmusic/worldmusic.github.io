@@ -3,11 +3,61 @@
 
 @import "jekyll-theme-cayman";
 
+.btn {
+  display: inline-block;
+  margin-bottom: 1rem;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+  text-align: center;
+
+  &:hover {
+    text-decoration: none;
+  }
+
+  + .btn {
+    margin-left: 1rem;
+  }
+
+  @include large {
+    padding: 0.75rem 1rem;
+  }
+
+  @include medium {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
+  }
+
+  @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+
+    + .btn {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
+  }
+}
+
+header .btn {
+  color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.2);
+
+  &:hover {
+    color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.3);
+  }
+}
+
 main .btn {
   color: $section-headings-color;
   background-color: white;
   border-color: $section-headings-color;
-  text-align: center;
 
   &:hover {
     color: $section-headings-color;
@@ -16,11 +66,49 @@ main .btn {
   }
 }
 
-main .tag {
+// for items
+.tag {
   font-size: 0.8rem;
   padding: 0.3rem;
 }
 
+#tagList .tag, .item .tag {
+  margin: 5px;
+  @include small {
+    display: inline-block;
+    width: unset;
+    // padding: 0.75rem;
+    // font-size: 0.9rem;
+  }
+}
+
+.item {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  display: block;
+}
+
+#itemList div {
+  border-top: 1px solid $border-color;
+}
+
+#itemList div:first-child {
+  border-top: 0px;
+}
+
+#tagList .active {
+  color: white;
+  background-color: $section-headings-color;
+  border-color: $section-headings-color;
+}
+
+#tagList .active:hover {
+  color: white;
+  background-color: $section-headings-color;
+  border-color: $border-color;
+}
+
+// forms
 textarea {
   width: 100%;
   display: inline-block;
@@ -76,10 +164,13 @@ input {
   }
 }
 
+// for item formatting
 .page-title {
 }
+
 .page-author {
 }
+
 .author-info {
   color: grey;
 }
@@ -94,30 +185,10 @@ input {
   text-indent: -1.5rem;
 }
 
-// for collections
-.drop-down {
-  font-size: .6em;
-  color: $body-text-color;
-  margin: 4px;
-  padding: 2px 5px 2px 5px;
-//  border: 1px solid $grey-color;
-//  border-radius: 3px;
-}
-
-.collection {
-  border-top: 1px solid $border-color;
-}
-
 .description {
   font-size: .8em;
   font-style: italic;
   padding-left: 36px;
-}
-
-.collection-info {
-  padding-left: 24px;
-  display: none;
-  color: $body-text-color;
 }
 
 .collection-indent {
@@ -125,8 +196,8 @@ input {
 }
 
 .collection-indent>li {
-  padding-left: 36px;
+  border-top: 1px solid $border-color;
   margin-top: 24px;
   margin-bottom: 24px;
-  text-indent: -24px;
+  text-indent: 0px;
 }

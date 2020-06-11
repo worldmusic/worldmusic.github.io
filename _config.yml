@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: World Music Textbook
 author: Maintained by Christopher Witulski
-email: chris.witulski@gmail.com
+email: editors@worldmusictextbook.org
 description: >- # this means to ignore newlines until "baseurl:"
   An online and open resource for
   teaching and learning ethnomusicology and musicology
 timezone: America/New_York
-# baseurl: / # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://worldmusictextbook.org # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll

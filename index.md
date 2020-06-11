@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 The *World Music Textbook* is a new collaborative project that aims to create a free and broadly accessible resource for educators, students, and researchers alike. It will do so by developing and maintaining open collections of scholarly, peer-reviewed writing and multimedia materials that are created with undergraduate students and general readership in mind.
@@ -10,12 +7,10 @@ This project’s vision is the creation of an adaptable free textbook. Its conte
 
 While our project is still in development, we have a sample of the type of undergraduate- and general audience-focused writing that we intend to highlight. We also encourage submissions in other formats, including short documentary videos, interviews and oral histories, or interactive projects that take advantage of the opportunities of online delivery.
 
-The *World Music Textbook* will also include annotated collections of other resources that are available across the web. If you manage or know of a good resource, please contact the editors at [editors@worldmusictextbook.org](mailto:editors@worldmusictextbook.org) for consideration.
+The *World Music Textbook* will also include annotated collections of other resources that are available across the web. If you manage or know of a good resource, please contact the editors at [{{ site.email }}](mailto:{{ site.email }}) for consideration.
 
 <center>
-
-<a href="pages/nielsen/" class="btn">"Communities and Identities in Danza Azteca" by Kristina Nielsen</a>
-
+  <a href="pages/nielsen/" class="btn">"Communities and Identities in Danza Azteca" by Kristina Nielsen</a>
 </center>
 
 ![](assets/images/william-recinos-nola-violin-unsplash.jpg)
@@ -23,7 +18,7 @@ The *World Music Textbook* will also include annotated collections of other reso
 
 ## Editorial team
 
-If you have any questions about this project, using the resources, the submission or review process, or would like to learn how to be involved, please contact the editors at [editors@worldmusictextbook.org](mailto:editors@worldmusictextbook.org).
+If you have any questions about this project, using the resources, the submission or review process, or would like to learn how to be involved, please contact the editors at [{{ site.email }}](mailto:{{ site.email }}).
 
 The World Music Textbook editors are:
 
@@ -58,7 +53,6 @@ With our aim to provide a collaborative and open free resource for instructors a
     <input type = "submit" class="btn" value = "Send">
   </center>
 </form>
-
 
 ![](assets/images/anthony-delanoix-concert-upsplash.jpg)
 <small>*"party fans raised their hands" by Anthony Delanoix on [Upstream](https://unsplash.com/@anthonydelanoix)*</small>
