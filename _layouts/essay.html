@@ -61,9 +61,11 @@
 
       {% if page.tags %}
         {% assign tags = page.tags | sort %}
-        {% for tag in tags %}
-          <span class="btn tag">{{ tag }}</span>
-        {% endfor %}
+        <div id="tagList">
+          {% for tag in tags %}
+            <span class="btn tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
       {% endif %}
 
       {{ content }}
