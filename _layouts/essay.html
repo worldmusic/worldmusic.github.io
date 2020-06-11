@@ -62,7 +62,7 @@
       {% if page.tags %}
         {% assign tags = page.tags | sort %}
         {% for tag in tags %}
-          <a disabled class="button tag">{{ tag }}</a>
+          <span class="btn tag">{{ tag }}</span>
         {% endfor %}
       {% endif %}
 
