@@ -12,7 +12,7 @@ tags:
  - Latin America
  - Mexico
  - Tradition
- - Indegeneity
+ - Indigeneity
  - California
 ---
 
