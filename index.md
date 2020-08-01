@@ -28,13 +28,40 @@ If you have any questions about this project, using the resources, the submissio
 
 The *World Music Textbook* editors are:
 
-* Kristina Nielsen (Southern Methodist University)
-* Jessie Vallejo (Cal Poly Pomona)
-* Christopher Witulski (Bowling Green State University)
+* [Kristina Nielsen](https://www.smu.edu/Meadows/AreasOfStudy/Music/Faculty/NielsenKristina)
+* [Jessie Vallejo](https://www.cpp.edu/~class/music/faculty-staff/jessie%20Vallejo.shtml)
+* [Christopher Witulski](https://www.bgsu.edu/musical-arts/faculty-and-staff/christopher-witulski.html)
 
 The current *World Music Textbook* editorial board:
 
-* To be announced shortly
+* [Christopher Ballengee](https://www.aacc.edu/about/schools-of-study/liberal-arts/performing-arts/christopher-ballengee/)
+* [Christen Blanton](https://vpa.uncg.edu/home/directory/bio-christenblanton/)
+* [Tara Browner](https://schoolofmusic.ucla.edu/people/tara-browner/)
+* [Shihwei Carrasco-Wu](http://www.shihweiwu.com/)
+* [Ganavya Doraiswamy](https://www.ganavya.com)
+* [Ryan Ebright](https://www.bgsu.edu/musical-arts/faculty-and-staff/ryan-ebright.html)
+* [Andrew Gobin](https://tulaliplushootseed.com/andrew-gobin/)
+* [Jennie Gubner](https://cfa.arizona.edu/profile/jgubner/)
+* [Frank Gunderson](https://music.fsu.edu/person/frank-gunderson)
+* [Deonte Harris](https://scholars.duke.edu/person/Deonte.Harris)
+* [Damascus Kafumbe](http://www.middlebury.edu/academics/music/faculty/node/288377)
+* [Peter Kupfer](https://www.smu.edu/Meadows/AreasOfStudy/Music/Faculty/KupferPeter)
+* [David Lewis](https://libguides.bgsu.edu/prf.php?account_id=152381)
+* [Scott Linford](https://ccm.uc.edu/about/directory.html?eid=linforsv&thecomp=uceprof_0)
+* [Scott Marcus](https://music.ucsb.edu/people/scott-marcus)
+* [Yuxin Mei](https://mhte.music.unt.edu/yuxin-mei)
+* [Katherine Meizel](https://www.bgsu.edu/musical-arts/faculty-and-staff/katherine-meizel.html)
+* [Tanya Merchant](https://music.ucsc.edu/faculty/tanya-merchant)
+* [Mark Miyake](https://fairhaven.wwu.edu/users/miyakem/)
+* [Kiran Rajagopalan](http://www.kiranrajagopalan.com)
+* [Megan Rancier](https://www.bgsu.edu/musical-arts/faculty-and-staff/megan-rancier.html)
+* [Anne Rasmussen](https://www.wm.edu/as/music/directory/rasmussen_a.php)
+* [Henry Stobart](https://pure.royalholloway.ac.uk/portal/en/persons/henry-stobart_f947dd36-8cec-4f0e-af22-8bd143b07a9c.html)
+* Ty-Juana Taylor
+* [Kojiro Umezaki](https://kojiroumezaki.com/)
+* [Vivek Virani](https://mhte.music.unt.edu/faculty/vivek-virani)
+* [Zachary Wallmark](https://music.uoregon.edu/people/faculty/zwallmar)
+* [Renata Yazzie](https://renatayazzie.wordpress.com/)
 
 ![](assets/images/paulo-infante-afaia-unsplash.jpg)
 <small>*"Afaia (maracatu drums)" by Paulo Infante on [Unsplash](https://unsplash.com/@pauloinfante)*</small>
