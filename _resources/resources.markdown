@@ -1,7 +1,7 @@
 ---
 topic: "Teaching resources"
 topic-no-space: "teaching-resources"
-description: "The virtual fielddwork listing is largely compiled from an email thread on the topic to the Society for Ethnomusicology email list (SEM-L) in the spring of 2020. Thank you to those who suggested resources there and to those who have added to this collection since then. If you would like to add to or edit any of these suggestions, please contact the editors."
+description: "The virtual field work listing is largely compiled from an email thread on the topic to the Society for Ethnomusicology email list (SEM-L) in the spring of 2020. Thank you to those who suggested resources there and to those who have added to this collection since then. If you would like to add to or edit any of these suggestions, please contact the editors."
 resources:
   - type: "chapter"
     title: "Virtual Fieldwork: Three Case Studies"
@@ -183,13 +183,14 @@ resources:
       - "Ethnomusicology"
       - "Indigeneity"
   - type: "url"
-    title: “The Edge Effect”
+    title: "The Edge Effect"
     author: "Shankar Vedantam"
     date: 2018
     link: "https://www.npr.org/2018/07/02/625426015/the-edge-effect"
     description: "A podcast about the Silk Road Ensemble and cross-cultural collaborations. (I use it in conversation with analysis of the production of the Graceland album drawing on Meintjes’ work)"
     tags: 
       - "Collaboration"
+      - "Global"
   - type: "url"
     title: "Music and Social Justice Resources Project"
     author: "The Society for Ethnomusicology"
@@ -204,6 +205,7 @@ resources:
       - "Immigration"
       - "Sustainability"
       - "Teaching"
+      - "Global"
   - type: "url"
     title: "Rhiannon Giddens' Keynote Address at IBMA Conference: Community and Connection"
     author: "Rhiannon Giddens"
@@ -243,7 +245,7 @@ resources:
     publication: "The Pudding"
     date: 2017
     link: "https://pudding.cool/2017/03/punk/"
-    description: "This artucle uses the example of punk to show how \"genres exist entirely in our heads\""
+    description: "This article uses the example of punk to show how \"genres exist entirely in our heads\""
     tags:
       - "Popular Music"
       - "Musical Terms"
@@ -252,7 +254,7 @@ resources:
     title: "Visualizing hip-hop melodies"
     author: "Ethan Hein"
     date: 2016
-    description: "Using visualiations to show pitch, this article demonstrates the relationship between melody and rhythm as well as the importance of each in style"
+    description: "Using visualizations to show pitch, this article demonstrates the relationship between melody and rhythm as well as the importance of each in style"
     link: "https://www.ethanhein.com/wp/2016/visualizing-hip-hop-melodies/"
     tags:
       - "Musical Terms"
@@ -263,8 +265,103 @@ resources:
     author: "Jennifer Kyker"
     date: 2019
     link: "https://sekuru.org/home/"
-    description: "A digitical humanities project focusing on southern African musical instruments and traditions"
+    description: "A digital humanities project focusing on southern African musical instruments and traditions"
     tags:
       - "Musical Instruments"
       - "Africa"
+  - type: "url"
+    title: "Pentatonic Scales"
+    author: "Imaginary: Open Mathematics"
+    date: 2020
+    link: "https://imaginary.org/program/pentatonic-scales"
+    description: "Move through the “Space of Pentatonic Scales” and create your own impressionistic style music by playing pieces by classical composers with only five notes."
+    tags:
+     - "Musical Terms"
+     - "Interactive"
+  - type: "url"
+    title: "Scale Lab"
+    author: "Imaginary: Open Mathematics"
+    date: 2020
+    link: "https://imaginary.org/program/scale-lab"
+    description: "Scale Lab allows you to explore, measure, create and modify both individual sounds and musical scales. This exhibit covers the fundamentals of sound, perception of consonance and dissonance and the creation of scales from single tones."
+    tags:
+     - "Musical Terms"
+     - "Interactive"
+  - type: "url"
+    title: "Pink Trombone"
+    author: "Imaginary: Open Mathematics"
+    date: 2020
+    link: "https://imaginary.org/program/pink-trombone"
+    description: "Pink trombone is a model of the human vocal tract that synthesizes human voice from scratch, controllable with your fingers."
+    tags:
+     - "Musical Terms"
+     - "Interactive"
+  - type: "url"
+    title: "Clara Rockmore’s 105th Birthday"
+    author: "Google Doodle"
+    date: 2016
+    link: "https://www.google.com/doodles/clara-rockmores-105th-birthday"
+    description: "An interactive theremin celebrating Clara Rockmore, \"the instrument's most well-known performer\"."
+    tags:
+     - "Musical Instruments"
+     - "Interactive"
+  - type: "url"
+    title: "44th Anniversary of the Birth of Hip Hop"
+    author: "Google Doodle"
+    date: 2017
+    link: "https://www.google.com/doodles/44th-anniversary-of-the-birth-of-hip-hop"
+    description: "Interactive turntables on which users can mix samples from legendary tracks, and a serving of Hip Hop history - with an emphasis on its founding pioneers."
+    tags:
+     - "Musical Instruments"
+     - "Interactive"
+     - "Popular Music"
+  - type: "url"
+    title: "Celebrating Mbira"
+    author: "Google Doodle"
+    date: 2020
+    link: "https://www.google.com/doodles/celebrating-mbira"
+    description: "Try your own hand at this instrument that has been played for over 1,000 years, while experiencing a story as told through the lens of a Zimbabwean girl who learns to play the mbira. This post generated some discussion in social media, including <a href =\"https://www.facebook.com/groups/1816866991763616/?post_id=2967179153399055\" target=\"_blank\">this post</a> with some context on its creation and <a href = \"https://www.facebook.com/Tanyaradzwa.T/posts/10222960451183617\" target=\"_blank\">this one</a> that discusses power and race in ethnomusicology. Since these are social media posts, they may not be available to all users."
+    tags: 
+     - "Musical Instruments"
+     - "Interactive"
+     - "Africa"
+  - type: "url"
+    title: "Learning Music"
+    author: "Abelton"
+    date: 2017
+    link: "https://learningmusic.ableton.com"
+    description: "An in-browser interactive series of lessons on rhythm, pitch, and similar concepts that includes a playground. Built by the makers of Abelton Live."
+    tags:
+     - "Musical Instruments"
+     - "Musical Terms"
+     - "Interactive"
+  - type: "url"
+    title: "The Global Jukebox"
+    author: "Association for Cultural Equity"
+    date: 2017
+    link: "https://theglobaljukebox.org/"
+    description: "From the site: The Global Jukebox explores connections between families of expressive style. One can travel the world of song, dance and language through the Wheel Chart and the Map. Thousands of examples of the world’s music, dance and other expressive behavior are available here."
+    tags:
+     - "Interactive"
+     - "Global"
+  - type: "url"
+    title: "Radio Garden"
+    author: "Radio Garden"
+    date: 2016
+    link: "http://radio.garden"
+    description: "An interactive website to listen to live, streaming radio stations from across the world."
+    tags:
+      - "Interactive"
+      - "Global"
+      - "Media"
+  - type: "url"
+    title: "American Clave/Ragtime Country"
+    author: "Wayne Marshall"
+    date: 2020
+    link: "http://wayneandwax.com/?page_id=9315&fbclid=IwAR02xUOhjtC4fw-E6LOTQzcakI4o2IgKlkHmodg5FAbcr3X7qLmz-wS9FXk"
+    description: "An accompaniment to an article that appeared in the <em>Journal of Popular Music Studies</em> that provides examples of rhythmic tropes across American popular music genres"
+    tags:
+      - "Musical Terms"
+      - "Popular Music"
+      - "United States"
 ---
