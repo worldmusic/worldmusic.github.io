@@ -29,11 +29,12 @@ If you have any questions about this project, using the resources, the submissio
 The *World Music Textbook* editors are:
 
 * [Kristina Nielsen](https://www.smu.edu/Meadows/AreasOfStudy/Music/Faculty/NielsenKristina)
-* [Jessie Vallejo](https://www.cpp.edu/~class/music/faculty-staff/jessie%20Vallejo.shtml)
+* [Jessie Vallejo](https://www.cpp.edu/class/music/faculty-staff/jessie-vallejo.shtml)
 * [Christopher Witulski](https://www.bgsu.edu/musical-arts/faculty-and-staff/christopher-witulski.html)
 
 The current *World Music Textbook* editorial board:
 
+* [Guillermo “Willie” Acuña](https://www.santamonicayouthorchestra.org/personnel/willie-acuna)
 * [Christopher Ballengee](https://www.aacc.edu/about/schools-of-study/liberal-arts/performing-arts/christopher-ballengee/)
 * [Christen Blanton](https://vpa.uncg.edu/home/directory/bio-christenblanton/)
 * [Tara Browner](https://schoolofmusic.ucla.edu/people/tara-browner/)
@@ -47,6 +48,7 @@ The current *World Music Textbook* editorial board:
 * [Deonte Harris](https://scholars.duke.edu/person/Deonte.Harris)
 * [Damascus Kafumbe](http://www.middlebury.edu/academics/music/faculty/node/288377)
 * [Peter Kupfer](https://www.smu.edu/Meadows/AreasOfStudy/Music/Faculty/KupferPeter)
+* [Maxi Larrea](https://maximilianolarrea.com)
 * [David Lewis](https://libguides.bgsu.edu/prf.php?account_id=152381)
 * [Scott Linford](https://ccm.uc.edu/about/directory.html?eid=linforsv&thecomp=uceprof_0)
 * [Scott Marcus](https://music.ucsb.edu/people/scott-marcus)
@@ -59,7 +61,7 @@ The current *World Music Textbook* editorial board:
 * [Anne Rasmussen](https://www.wm.edu/as/music/directory/rasmussen_a.php)
 * Ryan Shiotsuki
 * [Henry Stobart](https://pure.royalholloway.ac.uk/portal/en/persons/henry-stobart_f947dd36-8cec-4f0e-af22-8bd143b07a9c.html)
-* Ty-Juana Taylor
+* [Ty-Juana Taylor](http://www.tyjuanataylor.com/)
 * [Kojiro Umezaki](https://kojiroumezaki.com/)
 * [Vivek Virani](https://mhte.music.unt.edu/faculty/vivek-virani)
 * [Zachary Wallmark](https://music.uoregon.edu/people/faculty/zwallmar)
