@@ -364,4 +364,15 @@ resources:
       - "Musical Terms"
       - "Popular Music"
       - "United States"
+  - type: "url"
+    title: "The Sounds of Mariachi: Lessons in Mariachi Performance (DVD)"
+    author: "Nati Cano"
+    date: 2010
+    link: "https://folkways.si.edu/nati-canos-mariachi-los-camperos-chula-vista-jesus-chuy-guzman-mark-fogelquist/sounds-lessons-performance-dvd/latin-music-instruction/video/smithsonian"
+    description: "This Smithsonian Folkways DVD includes lessons about mariachi music from Natividad \"Nati\" Cano, former director of Mariachi Los Camperos de Nati Cano. The website includes a sample video <em>\"Chapter 3: Play bolero style</em>.\""
+    tags:
+     - "Dance"
+     - "Latin America"
+     - "Musical Instruments"
+     - "Popular Music"
 ---
