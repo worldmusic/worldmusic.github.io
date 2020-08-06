@@ -19,7 +19,7 @@ While this project is still in development, we have a sample of the type of unde
 
 The *World Music Textbook* will also present annotated collections of other resources that are available across the web (see the link above for examples). If you manage or know of a resource that warrants consideration for this annotated list, please contact the editors at [{{ site.email}}](mailto:{{ site.email }}) for consideration.
 
-![](assets/images/william-recinos-nola-violin-unsplash.jpg)
+!["Musician busking"](assets/images/william-recinos-nola-violin-unsplash.jpg)
 <small>*"Musician busking" by William Recinos on [Unsplash](https://unsplash.com/@iwillbmm)*</small>
 
 ## Editorial team
@@ -65,7 +65,7 @@ The current *World Music Textbook* editorial board:
 * [Zachary Wallmark](https://music.uoregon.edu/people/faculty/zwallmar)
 * [Renata Yazzie](https://renatayazzie.wordpress.com/)
 
-![](assets/images/paulo-infante-afaia-unsplash.jpg)
+!["Afaia (maracatu drums)"](assets/images/paulo-infante-afaia-unsplash.jpg)
 <small>*"Afaia (maracatu drums)" by Paulo Infante on [Unsplash](https://unsplash.com/@pauloinfante)*</small>
 
 ## What should your ideal world music textbook do?
@@ -91,5 +91,5 @@ With our aim to provide a collaborative and open free resource for instructors a
   </center>
 </form>
 
-![](assets/images/anthony-delanoix-concert-upsplash.jpg)
+!["Party fans raised their hands](assets/images/anthony-delanoix-concert-upsplash.jpg)
 <small>*"party fans raised their hands" by Anthony Delanoix on [Upstream](https://unsplash.com/@anthonydelanoix)*</small>
