@@ -38,6 +38,7 @@ The current *World Music Textbook* editorial board:
 * [Christen Blanton](https://vpa.uncg.edu/home/directory/bio-christenblanton/)
 * [Tara Browner](https://schoolofmusic.ucla.edu/people/tara-browner/)
 * [Shihwei Carrasco-Wu](http://www.shihweiwu.com/)
+* Daniel Castro Pantoja
 * [Ganavya Doraiswamy](https://www.ganavya.com)
 * [Ryan Ebright](https://www.bgsu.edu/musical-arts/faculty-and-staff/ryan-ebright.html)
 * [Andrew Gobin](https://tulaliplushootseed.com/andrew-gobin/)
@@ -56,6 +57,7 @@ The current *World Music Textbook* editorial board:
 * [Kiran Rajagopalan](http://www.kiranrajagopalan.com)
 * [Megan Rancier](https://www.bgsu.edu/musical-arts/faculty-and-staff/megan-rancier.html)
 * [Anne Rasmussen](https://www.wm.edu/as/music/directory/rasmussen_a.php)
+* Ryan Shiotsuki
 * [Henry Stobart](https://pure.royalholloway.ac.uk/portal/en/persons/henry-stobart_f947dd36-8cec-4f0e-af22-8bd143b07a9c.html)
 * Ty-Juana Taylor
 * [Kojiro Umezaki](https://kojiroumezaki.com/)
