@@ -3,6 +3,9 @@ layout: default
 title: Resources
 description: Other useful resources from across the internet
 permalink: /resources/
+nav:
+ - "home"
+ - "call"
 ---
 One of our goals is to provide links to some of the many open and online resources that are related to the teaching and study of world music. These are not exhaustive, but may provide starting points for research or reading. They are not meant to stand alone and, in some cases, require significant introduction and contextualization in the classroom.
 

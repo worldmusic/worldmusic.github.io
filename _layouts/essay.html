@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
 
     <meta charset="UTF-8">
@@ -12,8 +12,9 @@
   </head>
   <body>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+    <header class="page-header turtle" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+      <h2 class="project-tagline">{{ page.author | default: site.description }}</h2>
       <a href="{{ site.baseurl }}/" class="btn">Return to Home</a>
 
     </header>

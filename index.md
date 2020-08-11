@@ -1,5 +1,10 @@
 ---
 layout: default
+title: "World Music Textbook"
+description: "An online and open resource for teaching and <br>learning ethnomusicology and musicology"
+nav:
+ - "call"
+ - "resources"
 ---
 The *World Music Textbook* is a new collaborative effort to create a free and broadly accessible resource for the general public, educators, students, and researchers alike. Its open collections of scholarly, peer-reviewed writing and multimedia materials will focus on increasing access to underrepresented voices, writing styles, and audiences, all with undergraduate students and a broad readership in mind.
 
