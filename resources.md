@@ -7,7 +7,7 @@ nav:
  - "home"
  - "call"
 ---
-One of our goals is to provide links to some of the many open and online resources that are related to the teaching and study of world music. These are not exhaustive, but may provide starting points for research or reading. They are not meant to stand alone and, in some cases, require significant introduction and contextualization in the classroom.
+One of our goals is to provide links to some of the many open and online resources that are related to the teaching and study of music. These are not exhaustive, but may provide starting points for research or reading. They are not meant to stand alone and, in some cases, require significant introduction and contextualization in the classroom.
 
 Items labeled "Teaching" and some others (like "Virtual Fieldwork") are primarily intended for instructors. Others are resources that people have used as assigned reading/watching/listening in their undergraduate classrooms.
 
