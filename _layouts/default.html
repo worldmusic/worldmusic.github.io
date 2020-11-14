@@ -1,51 +1,17 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
+<html lang="{{ site.lang | default: " en-US " }}">
+{% include site-header.html %}
 
-    {% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
-  </head>
-  <body>
+<body>
 
-    <header class="page-header turtle" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-
-      {% for button in page.nav %}
-        {% if button == "home" %}
-          <a href="{{ site.baseurl }}/" class="btn">Home</a>
-        {% endif %}
-        {% if button == "call" %}
-        <a href="{{ site.baseurl }}/call" class="btn">Call for Contributions</a>
-          {% endif %}
-        {% if button == "resources" %}
-          <a href="{{ site.baseurl }}/resources" class="btn">Other Resources</a>
-        {% endif %}
-      {% endfor %}
-
-    </header>
+    {% include page-header.html %}
 
     <main id="content" class="main-content" role="main">
-      {{ content }}
-
-      <footer class="site-footer">
-        <p>
-          <span class="site-footer-owner">Worldmusictextbook.org is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> at <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>.</span>
-        </p>
-        <p>
-          <span class="site-footer-credits">
-            <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0; float:left;margin:0.5rem;" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
-            This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution — Non-Commercial — No Derivatives 4.0 International License</a>.<br />
-          </span>
-        </p>
-      </footer>
+        {{ content }}
     </main>
 
-    <script data-goatcounter="https://worldmusic.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    {% include footer.html %}
 
-  </body>
+</body>
+
 </html>

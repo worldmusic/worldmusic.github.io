@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: World Music Textbook
 repository: worldmusic/worldmusic.github.io
+title: World Music Textbook
 author: Maintained by Christopher Witulski
 email: editors@worldmusictextbook.org
 description: >- # this means to ignore newlines until "baseurl:"
@@ -35,8 +35,8 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 sass:
-  sass_dir: _sass
-
+  sass_dir: /_sass
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

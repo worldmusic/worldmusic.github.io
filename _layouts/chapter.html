@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+{% include site-header.html %}
+
+<body>
+  
+  {% include page-header.html %}
+
+  <main id="content" class="main-content" role="main">
+
+    <h2 class="page-author">{{ page.title }}{% if page.subtitle %}: {{ page.subtitle}}{% endif %}</h2>
+    <h3 class="page-author">{{ page.author }}
+      <small class="author-info">
+        {% if page.job-title %}
+        {{ page.job-title }}
+        {% endif %}
+
+        {% if page.job-title and page.affiliation%}
+        |
+        {% endif %}
+
+        {% if page.affiliation %}
+        {{ page.affiliation }}
+        {% endif %}
+
+        {% if page.date %}
+        {% if page.job-title or page.affiliation %}
+        |
+        {% endif %}
+        Published on
+        {{ page.date | date: '%B %d, %Y' }}
+        {% endif %}
+      </small>
+    </h3>
+    <blockquote class="bio">
+      {% if page.bio %}
+      {{ page.bio }}
+      {% endif %}
+    </blockquote>
+
+    <div id="tagList">
+      {% if page.tags %}
+      {% assign tags = page.tags | sort %}
+        {% for tag in tags %}
+        <span class="btn tag">{{ tag }}</span>
+        {% endfor %}
+        {% endif %}
+      {% if page.geoTags %}
+      {% assign geoTags = page.geoTags | sort %}
+        {% for geoTag in geoTags %}
+        <span class="btn tag geoTag">{{ geoTag }}</span>
+        {% endfor %}
+        {% endif %}
+    </div>
+
+    {{ content }}
+
+  </main>
+  {% include footer.html %}
+</body>
+
+</html>

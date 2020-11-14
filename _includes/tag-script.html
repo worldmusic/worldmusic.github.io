@@ -1,0 +1,93 @@
+<script>
+
+  // collect tags for the filter list
+  var tagElements = document.getElementsByClassName("tag");
+  var tagList = document.getElementById("tagList");
+  var tags = [];
+  var geoTags = [];
+  
+  for (i = 0; i < tagElements.length; i++) {
+      if (tags.indexOf(tagElements[i].innerText) < 0 && geoTags.indexOf(tagElements[i].innerText) < 0) {
+          if (tagElements[i].classList.contains("geoTag")) {
+            geoTags.push(tagElements[i].innerText);
+          }
+          else {
+            tags.push(tagElements[i].innerText);
+          }
+      }
+  }
+  
+  // create buttons for the filter list
+  tags.sort();
+  for (i = 0; i < tags.length; i++) {
+      var button = document.createElement("span");
+      var text = document.createTextNode(tags[i]);
+      button.appendChild(text);
+      button.classList.add("tag");
+      button.classList.add("filter");
+      button.classList.add("btn");
+      tagList.appendChild(button);
+  }
+
+  geoTags.sort();
+  for (i = 0; i < geoTags.length; i++) {
+      var button = document.createElement("span");
+      var text = document.createTextNode(geoTags[i]);
+      button.appendChild(text);
+      button.classList.add("tag");
+      button.classList.add("filter");
+      button.classList.add("btn");
+      button.classList.add("geoTag");
+      tagList.appendChild(button);
+  }
+  
+  // set events for filter list
+  var active = [];
+  
+  var filters = document.getElementsByClassName("filter");
+  var items = document.getElementsByClassName("item");
+  for (i = 0; i < filters.length; i++) {
+      let e = filters[i];
+      e.addEventListener("click", function() {
+  
+          // change button status and create list of active tags
+          if (e.classList.contains("active")) {
+              e.classList.remove("active");
+              active.splice(active.indexOf(e.innerText), 1);
+          }
+          else {
+              e.classList.add("active");
+              active.push(e.innerText);
+          }
+  
+          // hide and show items
+          if (active.length == 0) {
+              for (j = 0; j < items.length; j++) {
+                  items[j].style.display = "block";
+              }
+          }
+          else {
+  
+              // get item tags and check that each one is active
+              for (j = 0; j < items.length; j++) {
+                  let itemTags = items[j].getElementsByTagName("span");
+                  let matches = 0;
+                  for (k = 0; k < itemTags.length; k++) {
+                      if (active.indexOf(itemTags[k].innerText) >= 0) {
+                          matches++;
+                      }
+                  }
+  
+                  // show or hide
+                  if (matches >= active.length) {
+                      items[j].style.display = "block";
+                  }
+                  else {
+                      items[j].style.display = "none";
+                  }
+              }
+          }
+      })
+  }
+  </script>
+  

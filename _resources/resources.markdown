@@ -140,9 +140,10 @@ resources:
     link: "http://projects.aljazeera.com/2014/reservation-radio/index.html"
     description: "Article exploring the continuing significance of radio stations on reservations in the United States."
     tags: 
-      - "Native America"
       - "Indigeneity"
       - "Media"
+    geoTags:
+      - "Native America"
   - type: "url"
     title: "Cumbia: The Musical Backbone of Latin America"
     author: "Jasmine Garsd"
@@ -150,8 +151,9 @@ resources:
     link: "https://www.npr.org/sections/altlatino/2013/09/30/227834004/cumbia-the-musical-backbone-of-latin-america"
     description: "Podcast about cumbia music that describes the history of cumbia and how it developed into a pan-Latin musical style."
     tags: 
-      - "Latin America"
       - "Popular Music"
+    geoTags:
+      - "Latin America"
   - type: "url"
     title: "Afropop Worldwide (Podcasts)"
     author: "NPR and PRI"
@@ -159,10 +161,11 @@ resources:
     link: "https://www.npr.org/podcasts/381444269/pri-afropop-worldwide"
     description: "A series of podcasts dedicated to African music both in Africa and across the diaspora."
     tags: 
-      - "Africa"
+      - "Popular Music"
+    geoTags:
       - "Latin America"
       - "African Diaspora"
-      - "Popular Music"
+      - "Africa"
   - type: "url"
     title: "Tito Puente: ‘El Rey’"
     author: "NPR Music"
@@ -170,8 +173,9 @@ resources:
     link: "https://www.npr.org/2008/12/10/98051981/tito-puente-el-rey"
     description: "A 54-minute podcast about the life and influence of percussionist Tito Puente."
     tags: 
-      - "Latin America"
       - "Jazz"
+    geoTags:
+      - "Latin America"
   - type: "url"
     title: "‘Song Catcher: Frances Densmore of Red Wing’ and ‘Artist Charles Biederman’"
     author: "Stephen Smith"
@@ -179,9 +183,10 @@ resources:
     link: "https://www.mprnews.org/story/2013/05/15/mpr-documentaries-song-catcher-frances-densmore-of-red-wing-and-artist-charles-biederman"
     description: "A podcast in which the first twenty minutes are dedicated to exploring the life and work of Frances Densmore."
     tags: 
-      - "Native America"
       - "Ethnomusicology"
       - "Indigeneity"
+    geoTags:
+      - "Native America"
   - type: "url"
     title: "The Edge Effect"
     author: "Shankar Vedantam"
@@ -190,6 +195,7 @@ resources:
     description: "A podcast about the Silk Road Ensemble and cross-cultural collaborations. (I use it in conversation with analysis of the production of the Graceland album drawing on Meintjes’ work)"
     tags: 
       - "Collaboration"
+    geoTags:
       - "Global"
   - type: "url"
     title: "Music and Social Justice Resources Project"
@@ -205,6 +211,7 @@ resources:
       - "Immigration"
       - "Sustainability"
       - "Teaching"
+    geoTags:
       - "Global"
   - type: "url"
     title: "Rhiannon Giddens' Keynote Address at IBMA Conference: Community and Connection"
@@ -214,10 +221,11 @@ resources:
     description: "The prominent singer, songwriter, and banjo player Rhiannon Giddens shares the relationship between race, the banjo, the music industry, and old time and bluegrass music"
     tags:
       - "Race"
-      - "African Diaspora"
       - "Musical Instruments"
-      - "United States"
       - "Historical Ethnomusicology"
+    geoTags:
+      - "African Diaspora"
+      - "United States"
   - type: "article"
     title: "Are Men Singing Higher in Pop Music?"
     author: "Matt Daniels"
@@ -259,6 +267,7 @@ resources:
     tags:
       - "Musical Terms"
       - "Popular Music"
+    geoTags:
       - "African Diaspora"
   - type: "url"
     title: "Sekuru's Stories"
@@ -268,6 +277,7 @@ resources:
     description: "A digital humanities project focusing on southern African musical instruments and traditions"
     tags:
       - "Musical Instruments"
+    geoTags:
       - "Africa"
   - type: "url"
     title: "Pentatonic Scales"
@@ -324,6 +334,7 @@ resources:
     tags: 
      - "Musical Instruments"
      - "Interactive"
+    geoTags:
      - "Africa"
   - type: "url"
     title: "Learning Music"
@@ -343,6 +354,7 @@ resources:
     description: "From the site: The Global Jukebox explores connections between families of expressive style. One can travel the world of song, dance and language through the Wheel Chart and the Map. Thousands of examples of the world’s music, dance and other expressive behavior are available here."
     tags:
      - "Interactive"
+    geoTags:
      - "Global"
   - type: "url"
     title: "Radio Garden"
@@ -352,8 +364,9 @@ resources:
     description: "An interactive website to listen to live, streaming radio stations from across the world."
     tags:
       - "Interactive"
-      - "Global"
       - "Media"
+    geoTags:
+      - "Global"
   - type: "url"
     title: "American Clave/Ragtime Country"
     author: "Wayne Marshall"
@@ -363,6 +376,7 @@ resources:
     tags:
       - "Musical Terms"
       - "Popular Music"
+    geoTags:
       - "United States"
   - type: "url"
     title: "The Sounds of Mariachi: Lessons in Mariachi Performance (DVD)"
@@ -372,7 +386,8 @@ resources:
     description: "This Smithsonian Folkways DVD includes lessons about mariachi music from Natividad \"Nati\" Cano, former director of Mariachi Los Camperos de Nati Cano. The website includes a sample video <em>\"Chapter 3: Play bolero style</em>.\""
     tags:
      - "Dance"
-     - "Latin America"
      - "Musical Instruments"
      - "Popular Music"
+    geoTags:
+     - "Latin America"
 ---

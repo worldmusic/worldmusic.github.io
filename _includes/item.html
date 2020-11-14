@@ -47,3 +47,9 @@
         <span class = 'tag btn'>{{ tag }}</span>
     {% endfor %}
 {% endif %}
+{% if pub.geoTags %}
+    {% assign sorted-geoTags = (pub.geoTags | sort) %}
+    {% for geoTag in sorted-geoTags %}
+        <span class = 'tag btn geoTag'>{{ geoTag }}</span>
+    {% endfor %}
+{% endif %}
