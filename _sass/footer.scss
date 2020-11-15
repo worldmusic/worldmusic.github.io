@@ -34,13 +34,13 @@
 }
 
 // columns
-.three-column {
+.two-column {
   float: left;
   width: 100%;
   padding: 0 3rem; 
 
   @include large {
-    width: 33.33%;
+    width: 50%;
   } 
 }
 
