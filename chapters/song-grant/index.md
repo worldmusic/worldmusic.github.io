@@ -1,13 +1,11 @@
 ---
 layout: chapter
-author:
- - name: SONG Seng
- - job-title: Heritage Hub Manager
- - affiliation: Cambodian Living Arts (Cambodia)
-author:
- - name: GRANT Catherine
- - job-title: Senior Lecturer in Music Research
- - affiliation: Griffith University (Australia)
+author: SONG Seng
+job-title: Heritage Hub Manager
+affiliation: Cambodian Living Arts (Cambodia)
+author2: GRANT Catherine
+author2-job-title: Senior Lecturer in Music Research
+author2-affiliation: Griffith University (Australia)
 title: "Stories of Cambodian <em>Angkuoch</em>: Documenting a Rare Musical Instrument, its Makers and Players"
 bio: REQUEST FROM AUTHORS.
 date: 2021-01-15

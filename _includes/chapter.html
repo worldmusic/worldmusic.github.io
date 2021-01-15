@@ -1,4 +1,4 @@
-<p class="hang">{{ chapter.author }}, <a href="{{ site.baseurl }}{{ chapter.url }}">"{{ chapter.title }},"</a> ({{ chapter.date | date: "%b %Y" }})</p>
+<p class="hang">{{ chapter.author }}{% if chapter.author2 %}, {{ chapter.author2 }}{% endif %}, <a href="{{ site.baseurl }}{{ chapter.url }}">"{{ chapter.title }},"</a> ({{ chapter.date | date: "%b %Y" }})</p>
 
 {% if chapter.description %}
     <p class="description">{{ chapter.description }}</p>
