@@ -23,6 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <div id = "itemList">
     {% assign chapters = site.pages | where: "layout", "chapter" | sort:'date' | reverse %}
+    {% assign chapters = chapters | where: "name", "index.md" %}
     {% for chapter in chapters limit:3 %}
       <div class = "item">
         {% include chapter.html chapter=chapter %}
