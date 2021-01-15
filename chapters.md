@@ -3,7 +3,7 @@ layout: default
 title: "Chapters"
 description: "An ever-expanding table of contents"
 ---
-Words about the chapters... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The World Music Textbook is comprised of "chapters." These are prepared by scholars, musicians, and others and they go through a blind peer review process. They may be short essays, videos, interactive sites, or they may be in other formats entirely. If you have an idea for a contribution, please reach out or consider submitting. In addition to these chapters, the [resources]({{ site.baseurl }}/resources/) page lists many other useful sites from across the internet.
 
 <center>
   <a href="{{ site.baseurl }}/call/" class="btn">Contribute a chapter</a>
@@ -14,7 +14,7 @@ Words about the chapters... Lorem ipsum dolor sit amet, consectetur adipiscing e
 
 <div id = "tagList"></div>
 
-## Chapters
+## Chapters (by date)
 
 <div id = "itemList">
     {% assign chapters = site.pages | where: "layout", "chapter" | sort:'date' | reverse %}
