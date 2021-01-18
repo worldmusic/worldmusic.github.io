@@ -37,7 +37,7 @@ BIN Song (b. 1942) may be the only living person who still knows how to make the
 
 [^f1]: Khmer names are usually said and written with the family name first and the given name second. In this article, Khmer family names have been written in all capital letters for clarity. It is also common that children use their father's given name as their family name, which is why KRAK Chi's sons are named CHI Chen and CHI Monivong.
 
-![](https://via.placeholder.com/600x400)<br />
+![](Figure1.jpg)<br />
 <small>*Figure 1. BIN Song making angkuoch daek (iron Jew’s harp) (with his wife, standing). Photo: Catherine Grant, 8 January 2020.*</small>
 
 
@@ -59,7 +59,7 @@ When the two boys were growing up, boys and young men often used the angkuoch to
 
 >When I was a bachelor, I went to visit the houses of girls at night. When I reached my lover’s house, if she was already asleep, I played to call her. If I kept calling, she would wake up and come to meet me. And then we sat together. I could call her to meet me wherever I wanted as long as she heard the sound of my angkuoch. 
 
-![](https://via.placeholder.com/600x400)<br />
+![](Figure2.jpg)<br />
 <small>*Figure 2. SON Soeun playing angkuoch daek (iron Jew’s harp), with his childhood friend, instrument-maker BIN Song. Photo: Catherine Grant, 11 January 2020.*</small>
 
 In addition to its role in wooing potential lovers, angkuoch traditionally accompanied "Prern", a genre of folksong that was popular in Siem Reap Province at the time BIN Song and SON Soeun were growing up (Khean et al:2003). An especially popular Prern song was "Santouch." BIN Song recalled its lyrics for us (in part): 
@@ -86,7 +86,7 @@ KRAK Chi remembers an old custom of putting "charming wax" on the instruments to
 
 KRAK Chi’s young son CHI Chen (b. 1988) used to buy angkuoch russey from the famous angkuoch maker MONG Koeuy in the neighbouring Preah Dak village, and then sell them on to tourists by the dozen at the famous Ta Prohm temple near his village Srah Srong. By his teenage years, CHI Chen had become a proficient player and successful seller of the instruments.
 
-![](https://via.placeholder.com/600x400)<br />
+![](Figure4.jpg)<br />
 <small>*Figure 4. KRAK Chi making angkuoch russey (bamboo Jew’s harp). Photo: Catherine Grant, 5 January 2020.*</small>
 
 Watching MONG Koeuy make the instruments, KRAK Chi decided to learn how to make them too. He was motivated partly by the prospect of a modest income from selling the instruments and partly by the desire to keep alive the tradition of his ancestors. At one stage, KRAK Chi could make around 15 angkuoch in a day.
@@ -105,7 +105,7 @@ MONG Koeuy learnt to make angkuoch from his father when he was a child. He sold 
 
 Mong married his second wife LAV Mech (b. 1945) during the Khmer Rouge era. He began selling angkuoch again soon after the fall of the Khmer Rouge, and the income supported their children through school. 
 
-![](https://via.placeholder.com/600x400)<br />
+![](Figure5.jpg)<br />
 <small>*Figure 5. Siblings KOEUY Leakhena and KOEUY Reatha with their mother LAV Mech (seated), wife of angkuoch-maker MONG Koeuy. Photo: Catherine Grant, 17 January 2020.*</small>
 
 MONG Koeuy passed away in his late 70s in 2012. Four of his sons are proud to continue their father’s tradition.
@@ -124,7 +124,7 @@ On request of the family of MONG Koeuy, the project team is working with the Bri
 
 Second, as museums around the world strive to redress past questionable––or simply plain unethical––practices, adding this new information to the catalogue will finally duly acknowledge the likely maker of the object, MONG Koeuy, over 50 years after the British Museum acquired the instrument. Such an acknowledgement is evidently and understandably important to the family of MONG Koeuy. While we as authors hope that this project makes an important contribution to documenting and safeguarding angkuoch, we also believe that acknowledging the knowledge and skills of this historical angkuoch-maker is no less important. 
 
-![](https://via.placeholder.com/600x400)<br />
+![](Figure6.jpg)<br />
 <small>*Figure 6. KOEUY Leakhena with a copy of the British Museum catalogue entry for the angkuoch russey in its collection.*</small>
 
 ## Additional Materials
