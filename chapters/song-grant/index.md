@@ -146,13 +146,6 @@ What ethical considerations arise from housing musical instruments in museums?
 
 ### Recommended Readings
 
-Fox, Leonard. 1988. "Introduction." In Fox, Leonard, ed. The Jew's Harp: A Comprehensive Anthology, 15-44. Lewisburg: Bucknell University Press; London: Associated University Presses. 
-Libin, Laurence. 2014. "Aṅkuoc [angkuoch, kangkuoch]." Grove Music Online. Oxford: Oxford University Press. Accessed 1 October 2020.
-NAROM Keo. 2005. Cambodian Music. Phnom Penh: Reyum. 
-KHEAN Yun, KEO Dorivan, LINA Y., and LENNA Mao, eds. 2003. Traditional Musical Instruments of Cambodia, second edition. Phnom Penh: United Nations Educational, Scientific and Cultural Organization. 
-Miller, Terry E. and Sean Williams, eds. 1998. "Southeast Asia: The Khmer People." In Garland Encyclopedia of World Music Vol. 4, 151-217. New York: Routledge. 
-
-
 {:.hang}
 Murphy, Bernice L., ed. 2016. *Museums, Ethics and Cultural Heritage*. Oxon, UK: Routledge.
 
