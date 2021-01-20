@@ -3,11 +3,14 @@ layout: chapter
 author: SONG Seng
 job-title: Heritage Hub Manager
 affiliation: Cambodian Living Arts (Cambodia)
-author2: GRANT Catherine
-author2-job-title: Senior Lecturer in Music Research
+author2: Catherine GRANT
+author2-job-title: <a target="_blank" href="https://experts.griffith.edu.au/7847-catherine-grant">Senior Lecturer in Music Research</a>
 author2-affiliation: Griffith University (Australia)
 title: "Stories of Cambodian <em>Angkuoch</em>: Documenting a Rare Musical Instrument, its Makers and Players"
-bio: REQUEST FROM AUTHORS.
+bio: |
+  <p>SONG Seng has over 15 years’ experience as a producer, manager, facilitator and arts administrator in Cambodia. As manager of the Heritage Hub of non-government organization Cambodian Living Arts, he led the development of a vibrant arts scene in the town of Siem Reap. Seng has produced festivals, taken artists on international tours, and led regular performance productions in Cambodia. He has served as Cambodia Liaison Officer for the International Council for Traditional Music.</p>
+  
+  <p>Music researcher and educator Catherine GRANT specialises in ethnomusicology and music education. She is author of Music Endangerment (Oxford University Press, 2014) and co-editor of the award-winning Sustainable Futures for Music Cultures (OUP, 2016). From 2016 to 2019, Catherine chaired the Australia-New Zealand Committee of the International Council for Traditional Music. She is recipient of an Australian Future Justice medal for her research, advocacy and activism on cultural sustainability.</p>
 date: 2021-01-15
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 tags:
@@ -53,7 +56,7 @@ The British Museum will keep in its collection the angkuoch daek that BIN Song m
 
 SON Soeun and BIN Song (both born 1942) are lifelong friends. In the 1950s and ‘60s, they grew up together in Preah Ko village in Siem Reap Province, even entering the monkhood together for a time. 
 
-When the young BIN Song began to make and play the angkuoch daek, SON Soeun became intrigued by the instrument too. Over time, SON Soeun learnt to play proficiently. In the local lingo, the instrument was called "angkuoch Bird" on account of its shape. The two boys would often slip an angkuoch Bird in their pockets to play for pleasure whenever they chose. 
+When the young BIN Song began to make and play the angkuoch daek, SON Soeun became intrigued by the instrument too. Over time, SON Soeun learnt to play proficiently. In the local lingo, the instrument was called "angkuoch bird" on account of its shape. The two boys would often slip an angkuoch bird in their pockets to play for pleasure whenever they chose. 
 
 When the two boys were growing up, boys and young men often used the angkuoch to flirt with girls and young women. Words can be "spoken" through the instrument, although it takes some practice to interpret them (Miller & Williams 1998:204). In this way, young people developed a secret language – the language of angkuoch. As youths, Song and Souen would often use the angkuoch for this purpose. SON Soeun recalled:
 
@@ -112,7 +115,9 @@ MONG Koeuy passed away in his late 70s in 2012. Four of his sons are proud to co
 
 ## The Angkuoch in the British Museum
 
-The British Museum has only one angkuoch in its [collection](https://www.britishmuseum.org/collection/object/A_As1966-11-5), an instrument of unknown maker, donated in 1966 by a certain W Hanson Rawles, about whom nothing further is known. Today, museum practices carefully document, wherever possible, the provenance and donation circumstances of items to their collections.
+Until the recent acquisition of two new angkuoch through this project[^update], the British Museum had only one angkuoch in its collection, an instrument of unknown maker, donated in 1966 by a certain W Hanson Rawles, about whom nothing further is known. Today, museum practices carefully document, wherever possible, the provenance and donation circumstances of items to their collections.
+
+[^update]: In December 2020, the British Museum acquired two angkuoch made for this project: an [angkuoch daek](https://www.britishmuseum.org/collection/object/A_2020-3017-2) made by BIN Song and an [angkuoch russey](https://www.britishmuseum.org/collection/object/A_2020-3017-1) made by CHI Monivong.
 
 When the research team showed a photo of the Museum instrument donated by Rawles to the brothers CHI Monivong and CHI Chen and their father KRAK Chi, they all thought that the instrument bore strong resemblance to the unique style of MONG Koeuy, especially in its shape, thickness and length, as well as a characteristic node near the tongue of the instrument. 
 
@@ -131,7 +136,7 @@ Second, as museums around the world strive to redress past questionable––or 
 
 ### Acknowledgements
 
-This project was funded by the British Museum's [*Endangered Material Knowledge Programme*](https://www.emkp.org/documentingcambodianmouthharp/), supported by Arcadia, a charitable fund of Lisbet Rausing and Peter Baldwin. UNESCO (Cambodia) provided additional funding for dissemination of outcomes in Cambodia. We are grateful to the angkuoch makers and players who shared with us their knowledge and skills: BIN Song, SON Soeun, KRAK Chi, CHI Monivong, and CHI Chen. We also acknowledge LAV Mech, KOEUY Leakhena, KOEUY Reatha and the family of MONG Koeuy, whose story we share here with their permission. 
+This project was funded by the British Museum's [*Endangered Material Knowledge Programme*](https://www.emkp.org/documentingcambodianmouthharp/), supported by Arcadia, a charitable fund of Lisbet Rausing and Peter Baldwin. UNESCO (Cambodia) provided additional funding for dissemination of outcomes in Cambodia. We are grateful to the angkuoch makers and players who shared with us their knowledge and skills: BIN Song, SON Soeun, KRAK Chi, CHI Monivong, and CHI Chen. We also acknowledge LAV Mech, KOEUY Leakhena, KOEUY Reatha and the family of MONG Koeuy, whose story we share here with their permission. Finally, thanks to research assistant SAY Tola and videographer THON Dika for their input to the project.
 
 ### Discussion Questions
 
