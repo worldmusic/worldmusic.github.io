@@ -104,9 +104,9 @@ Now Chen and Monivong are in their early thirties with full-time jobs, and they 
 
 At one time, MONG Koeuy (c.1937-2012) was a renowned angkuoch russey maker in Siem Reap province. He lived in Preah Dak village, not far from where KRAK Chi and his sons CHI Monivong and CHI Chen live. It was MONG Koeuy who introduced the angkuoch to the young CHI Chen, and who later taught Chen’s father KRAK Chi how to make the instrument.
 
-MONG Koeuy learnt to make angkuoch from his father when he was a child. He sold the instruments he made to tourists at the nearby temples, along with coconuts and other things. Later, as a young man, Mong also worked as a farmer and a carpenter.
+MONG Koeuy learnt to make angkuoch from his father when he was a child. He sold the instruments he made to tourists at the nearby temples, along with coconuts and other things. Later, as a young man, MONG also worked as a farmer and a carpenter.
 
-Mong married his second wife LAV Mech (b. 1945) during the Khmer Rouge era. He began selling angkuoch again soon after the fall of the Khmer Rouge, and the income supported their children through school. 
+MONG married his second wife LAV Mech (b. 1945) during the Khmer Rouge era. He began selling angkuoch again soon after the fall of the Khmer Rouge, and the income supported their children through school. 
 
 ![](Figure5.jpg)<br />
 <small>*Figure 5. Siblings KOEUY Leakhena and KOEUY Reatha with their mother LAV Mech (seated), wife of angkuoch-maker MONG Koeuy. Photo: Catherine Grant, 17 January 2020.*</small>
