@@ -115,7 +115,7 @@ MONG Koeuy passed away in his late 70s in 2012. Four of his sons are proud to co
 
 ## The Angkuoch in the British Museum
 
-Until the recent acquisition of two new angkuoch through this project[^update], the British Museum had only one angkuoch in its collection, an instrument of unknown maker, donated in 1966 by a certain W Hanson Rawles, about whom nothing further is known. Today, museum practices carefully document, wherever possible, the provenance and donation circumstances of items to their collections.
+Until the recent acquisition of two new angkuoch through this project[^update], the British Museum had only [one angkuoch in its collection](https://www.britishmuseum.org/collection/object/A_As1966-11-5), an instrument of unknown maker, donated in 1966 by a certain W Hanson Rawles, about whom nothing further is known. Today, museum practices carefully document, wherever possible, the provenance and donation circumstances of items to their collections.
 
 [^update]: In December 2020, the British Museum acquired two angkuoch made for this project: an [angkuoch daek](https://www.britishmuseum.org/collection/object/A_2020-3017-2) made by BIN Song and an [angkuoch russey](https://www.britishmuseum.org/collection/object/A_2020-3017-1) made by CHI Monivong.
 
