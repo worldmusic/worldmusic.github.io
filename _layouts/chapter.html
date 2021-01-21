@@ -24,28 +24,27 @@
         {{ page.affiliation }}
         {% endif %}
       </small>
-    </h3>
 
     {% if page.author2 %}
+      <br/>
+      {{ page.author2 }}
+        <small class="author-info">
+          {% if page.author2-job-title %}
+          {{ page.author2-job-title }}
+          {% endif %}
 
-    <h3 class="page-author">{{ page.author2 }}
-      <small class="author-info">
-        {% if page.author2-job-title %}
-        {{ page.author2-job-title }}
-        {% endif %}
+          {% if page.author2-job-title and page.author2-affiliation%}
+          |
+          {% endif %}
 
-        {% if page.author2-job-title and page.author2-affiliation%}
-        |
-        {% endif %}
-
-        {% if page.author2-affiliation %}
-        {{ page.author2-affiliation }}
-        {% endif %}
-      </small>
+          {% if page.author2-affiliation %}
+          {{ page.author2-affiliation }}
+          {% endif %}
+        </small>
+      {% endif %}
     </h3>
 
 
-    {% endif %}
 
     <h3>
       <small>
