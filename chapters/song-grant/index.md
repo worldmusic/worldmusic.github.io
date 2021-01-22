@@ -1,8 +1,8 @@
 ---
 layout: chapter
 author: SONG Seng
-job-title: Heritage Hub Manager
-affiliation: Cambodian Living Arts (Cambodia)
+job-title: Cultural Expert
+affiliation: Cambodia
 author2: Catherine GRANT
 author2-job-title: <a target="_blank" href="https://experts.griffith.edu.au/7847-catherine-grant">Senior Lecturer in Music Research</a>
 author2-affiliation: Griffith University (Australia)
@@ -12,7 +12,7 @@ bio: |
   
   <p>Music researcher and educator Catherine GRANT specialises in ethnomusicology and music education. She is author of Music Endangerment (Oxford University Press, 2014) and co-editor of the award-winning Sustainable Futures for Music Cultures (OUP, 2016). From 2016 to 2019, Catherine chaired the Australia-New Zealand Committee of the International Council for Traditional Music. She is recipient of an Australian Future Justice medal for her research, advocacy and activism on cultural sustainability.</p>
 date: 2021-01-15
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+description: This piece introduces the endangered Cambodian musical instrument Angkuoch, its makers and players, and a project documenting the making process. It also reflects on ethics of instruments in museum collections.
 tags:
  - Instruments
  - Fieldwork
