@@ -1,12 +1,12 @@
 ---
 layout: chapter
-author: Kristina Nielsen
+author: Kristina F. Nielsen
 title: Music and Identity in Danza Azteca
 affiliation: Southern Methodist University
 job-title: Assistant Professor of Musicology
 bio: Kristina F. Nielsen is an assistant professor at Southern Methodist University in Dallas, Texas. Her research explores the roles of music and dance in Indigenous revitalization movements.
 date: 2020-05-15
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+description: This piece considers how music contributes to identities within Aztec dance communities. It explores how different identities are created and sustained through music and dance practices.
 tags:
  - Dance
  - Identity
