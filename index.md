@@ -72,8 +72,8 @@ The current *World Music Textbook* editorial board:
 * [Zachary Wallmark](https://music.uoregon.edu/people/faculty/zwallmar)
 * [Renata Yazzie](https://renatayazzie.wordpress.com/)
 
-!["Afaia (maracatu drums)"](assets/images/paulo-infante-afaia-unsplash.jpg)
-<small>*"Afaia (maracatu drums)" by Paulo Infante on [Unsplash](https://unsplash.com/@pauloinfante)*</small>
+!["Alfaia (maracatu drums)"](assets/images/paulo-infante-alfaia-unsplash.jpg)
+<small>*"Alfaia (maracatu drums)" by Paulo Infante on [Unsplash](https://unsplash.com/@pauloinfante)*</small>
 
 ## What should your ideal world music textbook do?
 
