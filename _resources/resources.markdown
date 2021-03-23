@@ -454,7 +454,7 @@ resources:
     author: "AMAR"
     date: 2009
     link: "https://www.amar-foundation.org"
-    description: "From the site: AMAR is a Lebanese foundation committed to the preservation and dissemination of traditional Arab music. AMAR owns 7,000 records, principally from the “Nahda” era (1903 – 1930s), as well as around 6,000 hours of recordings on reel. The website includes a blog and podcast that are useful resources."
+    description: "From the site: AMAR is a Lebanese foundation committed to the preservation and dissemination of traditional Arab music. AMAR owns 7,000 records, principally from the 'Nahda' era (1903 – 1930s), as well as around 6,000 hours of recordings on reel. The website includes a blog and podcast that are useful resources."
     tags:
      - "Sound"
      - "Popular Music"
