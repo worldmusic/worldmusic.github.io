@@ -1,7 +1,17 @@
 ---
 layout: chapter
-title: Pitch, melody, texture, and timbre
 author: Omitted
+title: Pitch, melody, texture, and timbre
+affiliation: Omitted affiliation
+job-title: Omitted title
+bio: Omitted biography
+date: 2021-03-23
+description: This two-part series introduces concepts and terminology related to pitch and melody.
+tags:
+ - Musical Terms
+ - Sound
+geoTags:
+ - Global
 ---
 
 <link rel="stylesheet" href="styles.css" />
