@@ -1,30 +1,15 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
-<head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <meta name="author" content="Christopher Witulski" />
-  <title>Pitch, melody, texture, and timbre</title>
-  <style>
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
-  </style>
-  <link rel="stylesheet" href="styles.css" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
-</head>
-<body>
-<header id="title-block-header">
-<h1 class="title">Pitch, melody, texture, and timbre</h1>
-<p class="author">Christopher Witulski</p>
-</header>
-<main>
-<p><a href="index.html">Back to contents</a> | <a href="part1.html">Part 1: Notes and pitches</a></p>
+---
+layout: chapter
+title: Pitch, melody, texture, and timbre
+author: Omitted
+---
+
+<link rel="stylesheet" href="styles.css" />
+
+<p><a href="index.html" class="btn">Part 1: Notes and Pitches</a></p>
+
 <h2 id="part-2-melody">Part 2: Melody</h2>
+
 <p>Melodies are often mysterious combinations of sounds that combine to create an idea, something with an identity that a listener will notice and understand as single thing. At their simplest, a melody is a sequence of notes—each of which has some element of pitch and rhythm—that we perceive as a unit. If this sounds vague, that’s because it is. Melody, like so many other parts of music, depend on a composer or improvisor’s innovations and how they relate to listener experience and expectation. Since creativity is all about creating something new and experience is based on the old, an compelling melody achieves a delicate balance. The simplest melodies are some of the most difficult to create: how can you make something that is fresh without pushing the bounds too far? And if you push the bounds further, is it possible to find a different set of listeners—a different audience—for whom your work is perfect?</p>
 <p>Melody, like so much else in music, is therefore dependent on expectation. As sequences of notes, melodies have the additional ability to create and satisfy their own internal expectations. By combining notes in familiar ways, music makers can develop ideas, bringing the listener along. Sometimes, those pathways will be well worn (which is not to say that they are dull). At other times, a composer may turn away from the path. If executed well and aimed toward an audience that has the experience and desire to appreciate the innovation, this can generate huge amounts of tension and satisfaction. If not, though, it can be jarring. The barking dog from part 1’s first example was based firmly within the expectations of western tradition. Note that it may not have felt that way, especially since your listening experiences are not the same as mine. To the contrary, you may have heard it, or any other example, in a way that differs from the labels that I use, which apply to me, my listening, and my experiences. Here is a more jagged melody, something that jumps around more in (potentially) unexpected ways. As it repeats, it may start to feel familiar: that’s something that happens when we hear something again. Our brains begin to make some sense of it. Is it easier or harder than singing along with those dog barks?</p>
 <div id="example4" class="loop">
@@ -98,15 +83,15 @@
 <h2 id="building-textures">Building textures</h2>
 <p>Despite the many overlaps between these ideas and terms, they serve a purpose. They give some names to the things we hear when listening. They also show the importance of relationships between musical ideas. These relationships may be between individual pitches or scales as they unfold over time, or between melodies and musical parts. Perhaps most significantly, the relationships between people themselves, even performers and listeners, help to give meaning to music.</p>
 <p>You are invited to play with some of these ideas yourself using <a href="http://cwitulski.com/loopBuilder/">a sequencer that loops melodies</a>. It will allow you to create different melodic ideas and to listen to how they interact as you make your own changes.</p>
-<p><a href="index.html">Back to contents</a> | <a href="part1.html">Part 1: Notes and pitches</a></p>
-</main>
-<script src="main.js"></script>
-<script data-goatcounter="https://witulski.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+<p><a href="index.html" class="btn">Part 1: Notes and Pitches</a></p>
+
+
 <section class="footnotes" role="doc-endnotes">
 <hr />
 <ol>
 <li id="fn1" role="doc-endnote"><p>Furthermore, these are words that have histories in the analysis of Western classical music. Their etymology in English and Greek (-phony, meaning sound) shows this. I use them here in the broadest possible sense, making them more applicable to non-Western musical styles.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩</a></p></li>
 </ol>
 </section>
-</body>
-</html>
+
+<script src="main.js"></script>
