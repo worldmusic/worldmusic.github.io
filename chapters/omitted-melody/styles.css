@@ -1,0 +1,186 @@
+#playButton {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  border: 2px solid #570E51;
+  border-radius: 5px;
+  background-color: #3A0035;
+  color: white;
+  padding: 1em;
+  margin-bottom: 1em;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
+#playButton:hover {
+  background-color: #74276D;
+}
+
+.loop {
+  border: 2px solid #570E51;
+  border-radius: 5px;
+  color: #3A0035;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+.loop .title {
+  display: inline-block;
+  padding-left: 1em;
+  color: #570E51;
+  font-weight: bold;
+  padding-bottom: 1em;
+}
+@media screen and (max-width: 42em) {
+  .loop .title {
+    padding-left: 0;
+  }
+}
+.loop .btn {
+  color: white;
+  font-weight: bold;
+  background-color: #74276D;
+  border-color: #3A0035;
+}
+.loop .btn:hover {
+  color: white;
+  background-color: #3A0035;
+  border-color: #3A0035;
+}
+@media screen and (max-width: 42em) {
+  .loop .btn {
+    display: inline-block;
+  }
+}
+
+.no-boxes {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 42em) {
+  .btn.no-boxes {
+    margin-bottom: 1em;
+  }
+}
+
+.title.no-boxes {
+  padding-bottom: 0;
+}
+
+.row-label {
+  display: inline-block;
+  color: #AD74A8;
+  font-size: 1em;
+}
+
+.box {
+  margin-left: 0.1em;
+  display: inline-block;
+  padding: 0.6em 0.1em;
+  border-radius: 3px;
+}
+
+.empty-box {
+  background-color: #AD74A8;
+}
+
+.filled-box {
+  background-color: #570E51;
+}
+
+.mark-with-border {
+  padding-top: calc(0.5em - 4px);
+  padding-bottom: calc(0.5em - 4px);
+  border: 4px solid #2875a1;
+}
+
+.mute.btn {
+  margin-top: 1em;
+  margin-bottom: 0em;
+  background-color: #AD74A8;
+}
+
+.hidden {
+  display: none;
+}
+
+.video-embed {
+  width: 640px;
+  height: 480px;
+}
+@media screen and (max-width: 42em) {
+  .video-embed {
+    width: 100%;
+  }
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 5px;
+  padding: 0;
+  background: #AD74A8;
+}
+
+.slider-container {
+  padding: 1em;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #570E51;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #570E51;
+  cursor: pointer;
+}
+
+.button-container {
+  padding: 1em;
+  padding-bottom: 0em;
+}
+.button-container .btn {
+  margin-left: 1em;
+}
+.button-container .active {
+  border: 1px solid #570E51;
+  background-color: #3A0035;
+  color: white;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
+
+.effects {
+  border: 2px solid #570E51;
+  border-radius: 5px;
+  color: #3A0035;
+  background-color: #AD74A8;
+  margin-bottom: 1em;
+  height: 15em;
+}
+.effects .title {
+  display: inline-block;
+  padding-left: 1em;
+  color: #570E51;
+  font-weight: bold;
+  padding-bottom: 1em;
+}
+@media screen and (max-width: 42em) {
+  .effects .title {
+    padding-left: 0;
+  }
+}
+
+.handle {
+  display: inline-block;
+  border: 2px solid white;
+  border-radius: 100%;
+  padding: 1em;
+}
+
+/*# sourceMappingURL=styles.css.map */
