@@ -16,6 +16,16 @@
 \fancyhead[RE]{\sffamily\small Nielsen: Music and Identity in Danza Azteca \quad \textbf{\thepage}}
 \fancyfoot{}
 
+% flush left title
+\makeatletter
+\renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
+\begin{flushleft}
+  \textbf{\@title}
+  \@author
+\end{flushleft}\egroup
+}
+\makeatother
+
 % for keywords
 % Keywords command
 \providecommand{\keywords}[1]
