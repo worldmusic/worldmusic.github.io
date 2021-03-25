@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  25 MAR 2021 10:25
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  25 MAR 2021 10:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -212,73 +212,65 @@ Package caption Info: Standard document class detected.
 \c@continuedfloat=\count184
 Package caption Info: hyperref package is loaded.
 )
-(/usr/local/texlive/2020/texmf-dist/tex/latex/preprint/authblk.sty
-Package: authblk 2001/02/27 1.3 (PWD)
-\affilsep=\skip50
-\@affilsep=\skip51
-\c@Maxaffil=\count185
-\c@authors=\count186
-\c@affil=\count187
-)
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hanging/hanging.sty
 Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
-\h@ngcommawd=\skip52
-\h@ngfstopwd=\skip53
-\h@ngquotewd=\skip54
-\h@ngdquotewd=\skip55
-\h@ngquerywd=\skip56
-\h@ngexclwd=\skip57
-\h@ngcolonwd=\skip58
-\h@ngscolonwd=\skip59
+\h@ngcommawd=\skip50
+\h@ngfstopwd=\skip51
+\h@ngquotewd=\skip52
+\h@ngdquotewd=\skip53
+\h@ngquerywd=\skip54
+\h@ngexclwd=\skip55
+\h@ngcolonwd=\skip56
+\h@ngscolonwd=\skip57
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip60
-\f@nch@O@elh=\skip61
-\f@nch@O@erh=\skip62
-\f@nch@O@olh=\skip63
-\f@nch@O@orh=\skip64
-\f@nch@O@elf=\skip65
-\f@nch@O@erf=\skip66
-\f@nch@O@olf=\skip67
-\f@nch@O@orf=\skip68
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
 File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
-\g__graphics_track_int=\count188
+\g__graphics_track_int=\count185
 \l__pdf_internal_box=\box46
-\g__pdf_backend_object_int=\count189
-\g__pdf_backend_annotation_int=\count190
+\g__pdf_backend_object_int=\count186
+\g__pdf_backend_annotation_int=\count187
 ) (./nielsen-body.aux)
 \openout1 = `nielsen-body.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+8.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 \AtBeginShipoutBox=\box47
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
@@ -289,7 +281,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: xetex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 36.
+Package hyperref Info: Link coloring ON on input line 48.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -301,11 +293,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count191
+\c@section@level=\count188
 )
-LaTeX Info: Redefining \ref on input line 36.
-LaTeX Info: Redefining \pageref on input line 36.
-LaTeX Info: Redefining \nameref on input line 36.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
  (./nielsen-body.out) (./nielsen-body.out)
 \@outlinefile=\write3
 \openout3 = `nielsen-body.out'.
@@ -314,16 +306,6 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 File: nielsen-fig1.jpg Graphic file (type bmp)
 <nielsen-fig1.jpg>
-File: nielsen-fig2.jpg Graphic file (type bmp)
-<nielsen-fig2.jpg>
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 86.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 86.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 92.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 92.
 
 (/usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
@@ -332,8 +314,18 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 [1
 
 ]
+File: nielsen-fig2.jpg Graphic file (type bmp)
+<nielsen-fig2.jpg>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 102.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 102.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 108.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 108.
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-37.
+29.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [2] [3]
@@ -346,27 +338,27 @@ File: nielsen-fig3.jpg Graphic file (type bmp)
  [5]
 File: play-video.png Graphic file (type bmp)
 <play-video.png>
- [6] [7]
+ [6]
 File: play-video.png Graphic file (type bmp)
 <play-video.png>
- [8] [9] [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 500.
- [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 500.
+ [7] [8] [9]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 516.
+ [10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 516.
  (./nielsen-body.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 500.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 500.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 516.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 516.
 Package rerunfilecheck Info: File `nielsen-body.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 500.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 516.
  ) 
 Here is how much of TeX's memory you used:
- 9808 strings out of 479418
- 147087 string characters out of 5884586
- 397998 words of memory out of 5000000
- 27207 multiletter control sequences out of 15000+600000
- 584727 words of font info for 49 fonts, out of 8000000 for 9000
+ 9735 strings out of 479418
+ 146264 string characters out of 5884586
+ 395028 words of memory out of 5000000
+ 27138 multiletter control sequences out of 15000+600000
+ 587725 words of font info for 50 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 41i,12n,45p,264b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,45p,264b,380s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on nielsen-body.pdf (11 pages).
+Output written on nielsen-body.pdf (10 pages).

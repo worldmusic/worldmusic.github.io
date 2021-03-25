@@ -4,12 +4,13 @@
 \usepackage{graphicx}
 \usepackage[colorlinks]{hyperref}
 \usepackage{caption} % unnumbered video examples
-\usepackage{authblk} % author affiliations
+% \usepackage{authblk} % author affiliations
 \usepackage{hanging} % hanging indents
 
 % headers
 \usepackage{fancyhdr}
-\pagestyle{fancy}
+\thispagestyle{plain} % remove header from first page
+\pagestyle{fancy}     % add headers in other pages
 \renewcommand{\headrulewidth}{0pt}
 % \fancyhead[RE,RO]{\normalfont\scriptsize\thepage}
 \fancyhead[LO]{\sffamily\small \textbf{\thepage} \quad World Music Textbook}
@@ -20,8 +21,9 @@
 \makeatletter
 \renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
 \begin{flushleft}
-  \textbf{\@title}
-  \@author
+  \huge{\textbf{\@title}}
+
+  \large{\@author}
 \end{flushleft}\egroup
 }
 \makeatother
@@ -36,9 +38,8 @@
 
 % metadata
 \title{Music and Identity in Danza Azteca}
-
-\author{Kristina F. Nielsen}
-\affil{Assistant Professor of Musicology\\Southern Methodist University}
+\author{Kristina F. Nielsen | Southern Methodist University}
+% \affil{}
 
 \date{}
 
@@ -49,7 +50,11 @@
 \paragraph{Abstract:}
   This piece considers how music contributes to identities within Aztec dance communities. It explores how different identities are created and sustained through music and dance practices.\keywords{one, two, three, four}
 
-\section*{Introduction}
+
+\noindent\hfil\rule{0.5\textwidth}{0.4pt}\hfil
+
+\smallskip
+
 In March 2016, I traveled from my home in Los Angeles, California, to
 the annual Mexica New Year Celebration in San Jose, located about an
 hour south of San Francisco. From the edge of the roped off circle, I
@@ -64,7 +69,7 @@ the sounds of rattles on their legs, known as \emph{ayoyotes}, that are
 made out of seedpods. As they dance, copal---a fragrant, ceremonial tree
 sap---drifts through the air.
 
-\begin{figure}
+\begin{figure}[hbp]
   \includegraphics[width=\textwidth]{nielsen-fig1.jpg}
   \caption{Mexica New Year Ceremony in San Jose, California in March 2016}
 \end{figure}
