@@ -19,8 +19,9 @@ Problems with figures/captions
 * Fill in info (including author affiliations with `author`)
 * Get body tex file with `pandoc ../chapters/nielsen/index.md -o nielsen-body.tex --resource-path=../chapters/nielsen/`
 * add headers
+* Add author info and abstract/tags
 * remove tightlist
-* remove `sub` from each `section` to level it up one
+* remove `sub` from each `section` to level it up one and add `*` to remove section numbering
 * Change figures to
 
 ```
@@ -41,8 +42,6 @@ Problems with figures/captions
 ## Next steps
 
 * Remove indents from resources/readings/etc or change formatting
-* Remove section numbering
 * Fix bibliography hanging
-* Add author info and abstract/tags
 * Add headings
 * Add branding, ISSN, DOI
