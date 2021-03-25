@@ -16,6 +16,7 @@ Problems with figures/captions
 
 ## Try getting just the body
 
+* Fill in info (including author affiliations with `author`)
 * Get body tex file with `pandoc ../chapters/nielsen/index.md -o nielsen-body.tex --resource-path=../chapters/nielsen/`
 * add headers
 * remove tightlist
