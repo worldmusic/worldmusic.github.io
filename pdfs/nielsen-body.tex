@@ -1,10 +1,18 @@
-\documentclass{scrartcl}
+\documentclass{article}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage[colorlinks]{hyperref}
 \usepackage{caption}
 \usepackage{authblk}
+
+% for keywords
+% Keywords command
+\providecommand{\keywords}[1]
+{
+  \newline
+  \textbf{Keywords:} #1
+}
 
 % metadata
 \title{Music and Identity in Danza Azteca}
@@ -18,10 +26,10 @@
 \begin{document}
 \maketitle
 
-\begin{abstract}
-  This piece considers how music contributes to identities within Aztec dance communities. It explores how different identities are created and sustained through music and dance practices.
-\end{abstract}
+\paragraph{Abstract:}
+  This piece considers how music contributes to identities within Aztec dance communities. It explores how different identities are created and sustained through music and dance practices.\keywords{one, two, three, four}
 
+\section{Introduction}
 In March 2016, I traveled from my home in Los Angeles, California, to
 the annual Mexica New Year Celebration in San Jose, located about an
 hour south of San Francisco. From the edge of the roped off circle, I
