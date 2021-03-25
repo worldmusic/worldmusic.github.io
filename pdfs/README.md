@@ -21,7 +21,7 @@ Problems with figures/captions
 * add headers
 * Edit relevant info
   * Title, author, affiliation
-  * Date, DOI
+  * Date, DOI, any changes to copyright
   * Abstract, keywords, URL
 * remove tightlist
 * remove `sub` from each `section` to level it up one and add `*` to remove section numbering
