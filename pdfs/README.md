@@ -39,9 +39,12 @@ Problems with figures/captions
   Ceremony in San Jose, California hosted by Calpulli Tonalehqueh}
 \end{figure}
 
+* Replace `\{:.hang\}` with ``
+* Enclose bibliography in `\begin{hangparas}{15pt}{1}`
+* Use `\hangpara{15pt}{1}` with other hanging needs so that the spacing before other sections does not get mixed up
+
 ## Next steps
 
 * Remove indents from resources/readings/etc or change formatting
-* Fix bibliography hanging
 * Add headings
 * Add branding, ISSN, DOI
