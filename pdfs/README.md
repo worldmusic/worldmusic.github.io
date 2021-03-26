@@ -30,13 +30,24 @@ Change figures to follow this format:
 \end{figure}
 ```
 
-Change videos to follow this format (note `caption*`):
+Change videos to follow this format (note `caption*` and the `\wmturlcaption` command):
 
 ```tex
 \begin{figure}
   \includegraphics[width=\textwidth]{play-video.png}
   \caption*{Video Example 1. Example of a dance from the 2016 Mexica New Year
-  Ceremony in San Jose, California hosted by Calpulli Tonalehqueh}
+  Ceremony in San Jose, California hosted by Calpulli Tonalehqueh. \wmturlcaption}
+\end{figure}
+```
+
+If we use QR codes instead:
+
+```
+\begin{figure}
+  \centering
+  \includegraphics[height=4cm]{qr-rick.png}
+  \caption*{Video Example 1. Example of a dance from the 2016 Mexica New Year
+  Ceremony in San Jose, California hosted by Calpulli Tonalehqueh. \wmturlcaption}
 \end{figure}
 ```
 
