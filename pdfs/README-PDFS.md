@@ -12,7 +12,7 @@ Remove any unnecessary items like buttons or trailing headings (`## Notes`). The
 
   * Title, author, affiliation
   * Date, DOI, any changes to copyright
-  * Abstract, keywords, URL
+  * Abstract, keywords, URL in href
 
 ## General edits to the tex file
 

@@ -4,6 +4,11 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage[colorlinks]{hyperref}
+\hypersetup{
+  colorlinks,
+  urlcolor=blue,
+  linkcolor=black
+}
 \usepackage{caption} % unnumbered video examples
 % \usepackage{authblk} % author affiliations
 \usepackage{hanging} % hanging indents
@@ -50,7 +55,7 @@
 }
 
 % for link
-\providecommand{\wmturl}{https://worldmusictextbook.org/nielsen}
+\providecommand{\wmturl}{\href{https://worldmusictextbook.org/nielsen}{https://worldmusictextbook.org/nielsen}}
 \providecommand{\wmturltext}{
   \noindent\emph{The online version of this chapter includes all embedded content and is avaialble at \wmturl.}
 }
