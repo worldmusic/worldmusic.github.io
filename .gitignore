@@ -35,4 +35,4 @@ pdfs/*.fls
 pdfs/*.out
 pdfs/*.xdv
 pdfs/*.jpg
-
+pdfs/*.log
