@@ -29,10 +29,10 @@ tags
 [._]*.un~
 
 # For LaTeX
-pdfs/*.aux
-pdfs/*latexmk
-pdfs/*.fls
-pdfs/*.out
-pdfs/*.xdv
-pdfs/*.jpg
-pdfs/*.log
+pdfs/*/*.aux
+pdfs/*/*latexmk
+pdfs/*/*.fls
+pdfs/*/*.out
+pdfs/*/*.xdv
+pdfs/*/*.jpg
+pdfs/*/*.log
