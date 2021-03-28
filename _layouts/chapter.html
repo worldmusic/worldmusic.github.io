@@ -44,13 +44,18 @@
       {% endif %}
     </h3>
 
-
-
     <h3>
       <small>
       {% if page.date %}
       Published on
       {{ page.date | date: '%B %d, %Y' }}
+      {% endif %}
+
+      {% if page.pdfurl %}
+      | 
+      <a href="{{ page.pdfurl }}" target="_blank">
+        Download as PDF
+      </a>
       {% endif %}
       </small>
     </h3>

@@ -7,6 +7,7 @@ job-title: Assistant Professor of Musicology
 bio: Kristina F. Nielsen is an assistant professor at Southern Methodist University in Dallas, Texas. Her research explores the roles of music and dance in Indigenous revitalization movements.
 date: 2020-05-15
 description: This piece considers how music contributes to identities within Aztec dance communities. It explores how different identities are created and sustained through music and dance practices.
+pdfurl: /pdfs/nielsen/nielsen.pdf
 tags:
  - Dance
  - Identity
