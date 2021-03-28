@@ -1,8 +1,0 @@
-osascript -e 'tell app "Terminal"
-    do script "cd /Users/cwituls/Documents/worldmusictext"
-end tell'
-osascript -e 'tell app "Terminal"
-    do script "cd /Users/cwituls/Documents/worldmusictext && bundle exec jekyll serve"
-end tell'
-/usr/bin/open -a "/Applications/Firefox.app/Contents/MacOS/firefox" 'http://localhost:4000/'
-code /Users/cwituls/Documents/worldmusictext
