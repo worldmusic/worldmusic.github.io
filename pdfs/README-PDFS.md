@@ -5,7 +5,7 @@
 Get tex conversion from the markdown file:
 
 ```
-pandoc ../chapters/nielsen/index.md -o nielsen-body.tex --resource-path=../chapters/nielsen/
+pandoc ../../chapters/nielsen/index.md -o nielsen-body.tex --resource-path=../chapters/nielsen/
 ```
 
 Remove any unnecessary items like buttons or trailing headings (`## Notes`). Then copy the tex headers from the template file, then update the metadata:
@@ -17,7 +17,7 @@ Remove any unnecessary items like buttons or trailing headings (`## Notes`). The
 ## General edits to the tex file
 
 1. Remove tightlist
-2. emove `sub` from each `section` to level it up one and add `*` to remove section numbering
+2. Remove `sub` from each `section` to level it up one and add `*` to remove section numbering
 
 ## Figures
 
