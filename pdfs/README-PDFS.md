@@ -42,10 +42,14 @@ Change videos to follow this format (note `caption*` and the `\wmturlcaption` co
 
 If we use QR codes instead:
 
+* Create redirect page (fix YouTube link from `embed` to `watch=`)
+* Use screen shot from this page to create the QR codes: [QR Code generator library](https://www.nayuki.io/page/qr-code-generator-library)
+* Set to create vector image  with a border of 1, then get a screen shot
+
 ```
 \begin{figure}
   \centering
-  \includegraphics[height=4cm]{qr-rick.png}
+  \includegraphics[height=4cm]{qr-code.png}
   \caption*{Video Example 1. Example of a dance from the 2016 Mexica New Year
   Ceremony in San Jose, California hosted by Calpulli Tonalehqueh. \wmturlcaption}
 \end{figure}
