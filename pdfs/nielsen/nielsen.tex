@@ -47,7 +47,14 @@
 }
 \makeatother
 
-% for keywords
+% for keywords and abstract
+
+\providecommand{\abstracttext}[1]
+{
+  \noindent
+  \textbf{Abstract:} #1
+}
+
 \providecommand{\keywords}[1]
 {
   \newline
@@ -75,8 +82,8 @@
 \suppressfloats % prevent float above title
 \maketitle
 
-\paragraph{Abstract:}
-  This piece considers how music contributes to identities within Aztec dance communities. It explores how different identities are created and sustained through music and dance practices.\keywords{dance, indigeneity, identity, tradition, Latin America, Native America, United States}
+\abstracttext{This piece considers how music contributes to identities within Aztec dance communities. It explores how different identities are created and sustained through music and dance practices.}
+\keywords{dance, indigeneity, identity, tradition, Latin America, Native America, United States}
 
 \smallskip
 
