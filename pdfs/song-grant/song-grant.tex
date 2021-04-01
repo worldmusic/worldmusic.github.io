@@ -47,7 +47,13 @@
 }
 \makeatother
 
-% for keywords
+% for keywords and abstract
+\providecommand{\abstracttext}[1]
+{
+  \noindent
+  \textbf{Abstract:} #1
+}
+
 \providecommand{\keywords}[1]
 {
   \newline
@@ -65,7 +71,7 @@
 
 % metadata
 \title{Stories of Cambodian \emph{Angkuoch}: Documenting a Rare Musical Instrument, its Makers and Players}
-\author{SONG Seng Cultural Expert | Cambodia\\Catherine GRANT Senior Lecturer in Music Research | Griffith University (Australia)}
+\author{SONG Seng | Cambodia\\Catherine GRANT | Griffith University (Australia)}
 % \affil{}
 
 \date{}
@@ -75,8 +81,8 @@
 \suppressfloats % prevent float above title
 \maketitle
 
-\paragraph{Abstract:}
-This piece introduces the endangered Cambodian musical instrument Angkuoch, its makers and players, and a project documenting the making process. It also reflects on ethics of instruments in museum collections.\keywords{fieldwork, heritage, instruments, preservation, safeguarding, tradition, Cambodia, Southeast Asia}
+\abstracttext{This piece introduces the endangered Cambodian musical instrument Angkuoch, its makers and players, and a project documenting the making process. It also reflects on ethics of instruments in museum collections.}
+\keywords{fieldwork, heritage, instruments, preservation, safeguarding, tradition, Cambodia, Southeast Asia}
 
 \smallskip
 
@@ -240,7 +246,8 @@ lived close to Sras Srong lake, they brought it to play around there.
 \end{quote}
 
 \begin{figure}
-  \includegraphics[width=\textwidth]{../play-video.png}
+  \centering
+  \includegraphics[height=4cm]{song-grant-video-1.png}
   \caption{KRAK Chi playing angkuoch russey (bamboo Jew's harp). Video: THON Dika, 5 January 2020. \wmturlcaption}
 \end{figure}
 
