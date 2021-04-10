@@ -390,4 +390,102 @@ resources:
      - "Popular Music"
     geoTags:
      - "Latin America"
+  - type: "url"
+    title: "Learning Synths"
+    author: "Abelton"
+    date: 2021
+    link: "https://learningsynths.ableton.com/en/playground"
+    description: "This module from Abelton covers the construction of synthesized sound through text and interactives. The Playground (linked here) allows the user to create their own sounds through experimentation."
+    tags:
+     - "Musical Instruments"
+     - "Interactive"
+  - type: "url"
+    title: "A Black History Month Sound Collage"
+    author: "Smithsonian Folkways and Maya Cunningham"
+    date: 2021
+    link: "https://folkways.si.edu/news-and-press/a-black-history-sound-collage-playlist"
+    description: "This is a set of annotated playlists from Maya Cunningham and Smithsonian Folkways that foregrounds music, poetry, and spoken word over three time periods."
+    tags:
+     - "Jazz"
+     - "Politics"
+     - "Popular Music"
+     - "Race"
+     - "Sound"
+    geoTags:
+     - "Africa"
+     - "United States"
+  - type: "url"
+    title: "SoundLore podcast"
+    author: "Indiana University Ethnomusicology"
+    date: 2021
+    link: "https://folklore.indiana.edu/research/soundlore/index.html?fbclid=IwAR3YT-30-NgrUebBLUlpwPpzEZL469HmzrT0MET3CmOwJ1k0JdUuvySDahQ"
+    description: "From the site: SoundLore's episodes venture into the research, practices, and projects of folklore and ethnomusicology. Our podcast guests include current and emeritus faculty, students, and alumni from the department, extending the conversation beyond the classroom."
+    tags:
+     - "Ethnomusicology"
+     - "Public Musicology"
+  - type: "url"
+    title: "Expanding the music theory canon"
+    author: "Paula Maust"
+    date: 2021
+    link: "https://www.expandingthemusictheorycanon.com"
+    description: "From the AMS email  list: A collection of music theory examples by women and BIPoC composers. Examples are geared to the undergraduate core sequence. Each example contains a PDF of an excerpt for classroom use, a link to a public domain full score, a recording (when available), and a detailed composer biography."
+    tags:
+     - "Public Musicology"
+     - "Race"
+     - "Teaching"
+  - type: "url"
+    title: "Teaching music history"
+    author: "AMS Pedagogy Study Group"
+    date: 2021
+    link: "https://www.teachingmusichistory.com"
+    description: "From the AMS email list: Our website has a resources page that includes links to digital collections, sample syllabi and assignments, and other teaching materials. In the coming weeks we’ll be adding new materials to the website, so circle back early and often."
+    tags:
+     - "Teaching"
+  - type: "url"
+    title: "Smithsonian Open Access"
+    author: "Smithsonian"
+    date: 2021
+    link: "https://www.si.edu/openaccess"
+    description: "An open online repository of audio/visual (mostly 2D and 3D visual) materials from the Smithsonian collection."
+    tags:
+     - "Teaching"
+  - type: "url"
+    title: "Foundation for Arab Music Archiving and Research"
+    author: "AMAR"
+    date: 2009
+    link: "https://www.amar-foundation.org"
+    description: "From the site: AMAR is a Lebanese foundation committed to the preservation and dissemination of traditional Arab music. AMAR owns 7,000 records, principally from the 'Nahda' era (1903 – 1930s), as well as around 6,000 hours of recordings on reel. The website includes a blog and podcast that are useful resources."
+    tags:
+     - "Sound"
+     - "Popular Music"
+     - "Race"
+     - "Public Musicology"
+    geoTags:
+     - "Middle East"
+  - type: "url"
+    title: "Midwest Mahjar: The Recorded Sounds of the Greater Syrian Diaspora in the United States at 78 RPM"
+    author: "Richard M. Breaux"
+    date: 2018
+    link: "http://syrianlebanesediasporasound.blogspot.com"
+    description: "A blog maintained by Ethnic Studies scholar Richard Breaux focused on the stories of individuals and sound recordings within Arab American history."
+    tags:
+     - "Sound"
+     - "Immigration"
+     - "Race"
+     - "Public Musicology"
+    geoTags:
+     - "Middle East"
+     - "United States"
+  - type: "url"
+    title: "What might decolonial futures sound like?: Exploring ethnomusicology's colonialist legacies and moving beyond them"
+    author: "Jennifer Fraser"
+    date: 2020
+    link: "http://scalar.oberlincollegelibrary.org/decolonizing-ethnomusicology/index"
+    description: "From the website introduction: We tell some of this story [of 'artifacts' and collections] and present entries on colonialist legacies and strategies to move us towards sounding decolonial futures. We tell the stories of some of the individuals connected to the social history of these transcriptions, along with stories of others doing remarkably similar work in the collection of ethnological material of Indigenous practices in the late 19th and early 20th century."
+    tags:
+     - "Ethnomusicology"
+     - "Historical Ethnomusicology"
+     - "Activism"
+     - "Collaboration"
+     - "Race"
 ---
