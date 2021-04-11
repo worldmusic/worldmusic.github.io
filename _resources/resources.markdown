@@ -430,7 +430,7 @@ resources:
     link: "https://www.expandingthemusictheorycanon.com"
     description: "From the AMS email  list: A collection of music theory examples by women and BIPoC composers. Examples are geared to the undergraduate core sequence. Each example contains a PDF of an excerpt for classroom use, a link to a public domain full score, a recording (when available), and a detailed composer biography."
     tags:
-     - "Public Musicology"
+     - "Musicology"
      - "Race"
      - "Teaching"
   - type: "url"
@@ -507,6 +507,7 @@ resources:
     tags: 
       - "Teaching"
       - "Activism"
+      - "Musicology"
       - "Sustainability"
   - type: "url"
     title: "Erasing colorasure in American music theory, and confronting demons from our past"
@@ -520,7 +521,7 @@ resources:
      - "Historical Ethnomusicology"
      - "Race"
   - type: "url"
-    title: "Erasing colorasure in American music theory, and confronting demons from our past"
+    title: "The Lomax Digital Archive"
     author: "The Association for Cultural Equity"
     date: 2021
     link: "https://archive.culturalequity.org/collections"
@@ -528,6 +529,85 @@ resources:
     tags:
      - "Teaching"
      - "Historical Ethnomusicology"
+    geoTags:
      - "United States"
      - "Global"
+  - type: "url"
+    title: "Protocols for Native American Archival Materials"
+    author: "First Archivist Circle"
+    date: 2007
+    link: "https://www2.nau.edu/libnap-p/protocols.html"
+    description: "From the website introduction (edited): The Protocols build upon numerous professional ethical codes; a number of significant international declarations recognizing Indigenous rights, including several now issued by the United Nations; and the ground-breaking Aboriginal and Torres Strait Islander Protocols for Libraries, Archives, and Information Services. The proposed standards and goals articulated in Protocols for Native American Archival Materials are meant to inspire and to foster mutual respect and reciprocity."
+    tags:
+     - "Teaching"
+     - "Sustainability"
+    geoTags:
+     - "United States"
+     - "Native America"
+  - type: "url"
+    title: "Blob Opera"
+    author: "David Li, Google Arts & Culture"
+    date: 2020
+    link: "https://www2.nau.edu/libnap-p/protocols.html"
+    description: "From the website: Create your own opera inspired song with Blob Opera - no music skills required ! A machine learning experiment by David Li in collaboration with Google Arts & Culture"
+    tags:
+     - "Musical Terms"
+     - "Interactive"
+  - type: "url"
+    title: "Pitchgarden"
+    author: "zlliu"
+    date: 2021
+    link: "https://pitchgarden.com"
+    description: "An online ear training tool focused on identifying relative pitch relationships."
+    tags:
+     - "Musical Terms"
+     - "Interactive"
+  - type: "url"
+    title: "Maqam Lessons"
+    author: "Sami Abu Shumays"
+    date: 2020
+    link: "https://www.youtube.com/watch?v=xN7E1pc8Y2Y"
+    description: "A YouTube playlist of short lessons developed by Sami Abu Shumays that introduces different Arab maqamat, their structures and melodic development, and emphasizes ear training."
+    tags:
+     - "Musical Terms"
+     - "Interactive"
+    geoTags:
+     - "Middle East"
+  - type: "book"
+    title: "Open Access Musicology, Volume 1"
+    author: "Daniel Barolsky and Louis Epstein"
+    date: 2020
+    publication: "Lever Press"
+    link: "https://www.fulcrum.org/concern/monographs/bv73c232s"
+    description: "This open volume is the first release from Open Access Musicology and features chapters aimed at an undergraduate readership."
+    tags: 
+      - "Teaching"
+      - "Musicology"
+      - "Historical Ethnomusicology"
+  - type: "article"
+    title: "Eurovision and the Making of Queer (Counter-)Cultural Diplomacy"
+    author: "J. Y. Chua"
+    publication: "The Yale Review of International Studies"
+    date: 2016
+    link: "http://yris.yira.org/essays/1650"
+    description: "From the introduction: While Eurovision has facilitated the enfranchisement of queers in the project of cultural diplomacy, nations have simultaneously exploited the queerness of Eurovision for their public diplomacy agendas. As such, this paper aims to address the strategic and ethical dilemmas raised by queer diplomacy."
+    tags: 
+      - "Media"
+      - "Politics"
+      - "Popular Music"
+    geoTags:
+      - "Europe"
+  - type: "article"
+    title: "How does ‘Hamilton,’ the non stop, hip-hop Broadway sensation tap rap's master rhymes to blur musical lines?"
+    author: "Joel Eastwood and Erik Hinton"
+    publication: "The Wall Street Journal"
+    date: 2016
+    link: "http://graphics.wsj.com/hamilton/"
+    description: "A data visualization tool highlights internal rhythmic structures and patterns in the texts of Lin Manuel Miranda's Hamilton and other influential hip hop pieces."
+    tags: 
+      - "Popular Music"
+      - "Interactive"
+      - "Musical Terms"
+    geoTags:
+      - "United States"
 ---
