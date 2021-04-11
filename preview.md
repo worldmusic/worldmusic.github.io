@@ -1,6 +1,6 @@
 ---
 # permalink: /preview
-redirect: https://601da9a482a0b9000733b325--worldmusictextbook.netlify.app
+redirect: https://60725f487db269000878c0bf--worldmusictextbook.netlify.app
 layout: redirect
 title: Forwarding to the preview
 ---
