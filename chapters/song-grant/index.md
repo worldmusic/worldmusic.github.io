@@ -14,14 +14,11 @@ bio: |
 date: 2021-01-15
 description: This piece introduces the endangered Cambodian musical instrument Angkuoch, its makers and players, and a project documenting the making process. It also reflects on ethics of instruments in museum collections.
 tags:
- - Instruments
- - Fieldwork
+ - Musical Instruments
  - Heritage
- - Preservation
- - Safeguarding
- - Tradition
+ - Sustainability
+ - Public Musicology
 geoTags:
- - Cambodia
  - Southeast Asia
 ---
 The musical instrument popularly known as the "Jew’s Harp" (also jaw’s harp, mouth harp, trump or *guimbarde*) is found in many countries around the world. The origin of the name, and of the instrument itself, remains unclear to scholars, though it is believed it is an ‘extremely ancient instrument’ that may have originated in Asia, perhaps China (Fox 1988:22, 49). 

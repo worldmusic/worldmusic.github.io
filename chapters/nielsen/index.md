@@ -14,7 +14,6 @@ tags:
  - Tradition
  - Indigeneity
 geoTags:
- - Mexico
  - Native America
  - Latin America
  - United States
