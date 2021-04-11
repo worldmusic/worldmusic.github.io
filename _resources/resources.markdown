@@ -348,7 +348,7 @@ resources:
      - "Interactive"
   - type: "url"
     title: "The Global Jukebox"
-    author: "Association for Cultural Equity"
+    author: "The Association for Cultural Equity"
     date: 2017
     link: "https://theglobaljukebox.org/"
     description: "From the site: The Global Jukebox explores connections between families of expressive style. One can travel the world of song, dance and language through the Wheel Chart and the Map. Thousands of examples of the world’s music, dance and other expressive behavior are available here."
@@ -488,4 +488,46 @@ resources:
      - "Activism"
      - "Collaboration"
      - "Race"
+  - type: "url"
+    title: "GroovePizza"
+    author: "NYU Music Experience Design Lab"
+    date: 2017
+    link: "https://apps.musedlab.org/groovepizza/?museid=1Cp0OuRLF&"
+    description: "From the website introduction: Groove Pizza is a circular rhythm app for creative music making and learning! It’s also a playful tool for creating grooves using math concepts like shapes, angles and patterns. More information at <a href='https://musedlab.org/groovepizza/' target='_blank'>https://musedlab.org/groovepizza/</a>."
+    tags:
+     - "Musical Instruments"
+     - "Interactive"
+  - type: "book"
+    title: "Intersections Vol. 39, No. 1"
+    author: "Robin Attas and Margaret E. Walker"
+    date: 2019
+    publication: "MusCan"
+    link: "https://muscan.org/en/publications/intersections/1357-intersections-vol-39-no-1"
+    description: "This special issue focuses on decolonizing musicology, building sustainable relationships and communities, and essentialism in music teaching."
+    tags: 
+      - "Teaching"
+      - "Activism"
+      - "Sustainability"
+  - type: "url"
+    title: "Erasing colorasure in American music theory, and confronting demons from our past"
+    author: "Philip Ewell"
+    date: 2021
+    link: "https://bibliolore.org/2021/03/25/philip-ewell-erasing-colorasure-in-american-music-theory-and-confronting-demons-from-our-past/"
+    description: "From the website introduction (lightly edited): Dr. Philip Ewell posted a series of daily tweets during Black History Month (February 2021) providing information on some under-researched Black composers and musicians under the rubric \"Colorased.\" These tweets contain names and basic information about each neglected figure. We wanted to preserve and share these tweets along with some text framing his project, here on RILM’s blog."
+    tags:
+     - "Activism"
+     - "Teaching"
+     - "Historical Ethnomusicology"
+     - "Race"
+  - type: "url"
+    title: "Erasing colorasure in American music theory, and confronting demons from our past"
+    author: "The Association for Cultural Equity"
+    date: 2021
+    link: "https://archive.culturalequity.org/collections"
+    description: "From the website introduction: The Lomax Digital Archive provides free access to audio/visual collections compiled across seven decades by folklorist Alan Lomax (1915–2002) and his father John A. Lomax (1867–1948)."
+    tags:
+     - "Teaching"
+     - "Historical Ethnomusicology"
+     - "United States"
+     - "Global"
 ---
