@@ -12,9 +12,9 @@ The *World Music Textbook* is a new collaborative effort to create a free and br
 
 ## News and updates
 
-About recent articles, news, and so on.
+We are proud to share [our first contributions]({{ site.baseurl }}/chapters/) and an [extended resource listing]({{ site.baseurl }}/resources/). We invite scholars, musicians, and community members to submit materials for inclusion and continue to accept contributions on a rolling basis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+You can follow us on [Twitter](https://twitter.com/music_textbook) and [Facebook](https://www.facebook.com/WorldMusicTextbook) for updates on the project and to learn about newly published contributions.
 
 !["Musician busking"](assets/images/william-recinos-nola-violin-unsplash.jpg)
 <small>*"Musician busking" by William Recinos on [Unsplash](https://unsplash.com/@iwillbmm)*</small>
