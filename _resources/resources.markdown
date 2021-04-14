@@ -225,7 +225,7 @@ resources:
       - "Historical Ethnomusicology"
     geoTags:
       - "African Diaspora"
-      - "United States"
+      - "North America"
   - type: "article"
     title: "Are Men Singing Higher in Pop Music?"
     author: "Matt Daniels"
@@ -377,7 +377,7 @@ resources:
       - "Musical Terms"
       - "Popular Music"
     geoTags:
-      - "United States"
+      - "North America"
   - type: "url"
     title: "The Sounds of Mariachi: Lessons in Mariachi Performance (DVD)"
     author: "Nati Cano"
@@ -413,7 +413,7 @@ resources:
      - "Sound"
     geoTags:
      - "Africa"
-     - "United States"
+     - "North America"
   - type: "url"
     title: "SoundLore podcast"
     author: "Indiana University Ethnomusicology"
@@ -475,7 +475,7 @@ resources:
      - "Public Musicology"
     geoTags:
      - "Middle East"
-     - "United States"
+     - "North America"
   - type: "url"
     title: "What might decolonial futures sound like?: Exploring ethnomusicology's colonialist legacies and moving beyond them"
     author: "Jennifer Fraser"
@@ -530,7 +530,7 @@ resources:
      - "Teaching"
      - "Historical Ethnomusicology"
     geoTags:
-     - "United States"
+     - "North America"
      - "Global"
   - type: "url"
     title: "Protocols for Native American Archival Materials"
@@ -542,7 +542,7 @@ resources:
      - "Teaching"
      - "Sustainability"
     geoTags:
-     - "United States"
+     - "North America"
      - "Native America"
   - type: "url"
     title: "Blob Opera"
@@ -609,5 +609,5 @@ resources:
       - "Interactive"
       - "Musical Terms"
     geoTags:
-      - "United States"
+      - "North America"
 ---

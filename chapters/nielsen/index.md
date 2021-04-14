@@ -14,9 +14,9 @@ tags:
  - Tradition
  - Indigeneity
 geoTags:
- - Native America
  - Latin America
- - United States
+ - Native America
+ - North America
 ---
 
 In March 2016, I traveled from my home in Los Angeles, California, to the annual Mexica New Year Celebration in San Jose, located about an hour south of San Francisco. From the edge of the roped off circle, I watched as my friends from Southern California danced to the reverberating beats of the Aztec log drums, joining hundreds of other dancers from across the United States. Together, they danced around the drums in colorful regalia. While the New Year's celebration is a highly social event with vendors and food, the dancing is also a form of ceremony and offering, and danzantes sacrifice their bodily comfort through hours of continuous dance. Each movement is accentuated through the sounds of rattles on their legs, known as *ayoyotes*, that are made out of seedpods. As they dance, copal—a fragrant, ceremonial tree sap—drifts through the air.
