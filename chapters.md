@@ -20,10 +20,11 @@ description: "An ever-expanding table of contents"
 </div>
 
 <div class="top-border"></div>
-<h2>About WMT Chapters</h2>
-<p>
+
+## About WMT Chapters
+
 The World Music Textbook is comprised of "chapters." These are prepared by scholars, musicians, and others and they go through a blind peer review process. They may be short essays, videos, interactive sites, or they may be in other formats entirely. If you have an idea for a contribution, please reach out or consider submitting. In addition to these chapters, the [resources]({{ site.baseurl }}/resources/) page lists many other useful sites from across the internet.
-</p>
+
 <p>
 <center>
   <a href="{{ site.baseurl }}/call/" class="btn">Contribute a chapter</a>
