@@ -1,10 +1,110 @@
 <script>
 
     /*
-     * Tagging
+     * Create an array of items to work with
      */
 
-    // collect tags for the filter list
+    // TODO: Add author, title, tags, date for sorting later
+    var items = Array.from(document.getElementsByClassName("item"))
+    items = items.map((x, i) => {
+        let itemObject = {
+            textString: x.innerText,
+            htmlObject: x,
+            author: "",
+            title: "",
+            date: 0,
+            tags: [],
+            geoTags: [],
+            show: true,
+            i: i
+        }
+        return itemObject;
+    })
+
+    // get tags
+    for (let i = 0; i < items.length; i++) {
+        let itemTagSpans = items[i].htmlObject.getElementsByTagName("span");
+        let itemTags = []
+        let itemGeoTags = []
+        for (let j = 0; j < itemTagSpans.length; j++) {
+            if (itemTagSpans[j].classList.contains("geoTag")) {
+                itemGeoTags.push(itemTagSpans[j].innerText)
+            } else {
+                itemTags.push(itemTagSpans[j].innerText)
+            }
+        }
+        items[i].tags = itemTags;
+        items[i].geoTags = itemGeoTags;
+    }
+
+    console.log(items)
+
+
+    /*
+     * Update listing callback
+     */
+
+    function updateListing(active, searchText) {
+        console.log("Updating with", active, searchText)
+        // // from tags
+        // // hide and show items
+        // if (active.length == 0) {
+        //     for (j = 0; j < items.length; j++) {
+        //         items[j].style.display = "block";
+        //     }
+        // }
+        // else {
+
+        //     // get item tags and check that each one is active
+        //     for (j = 0; j < items.length; j++) {
+        //         let itemTags = items[j].getElementsByTagName("span");
+        //         let matches = 0;
+        //         for (k = 0; k < itemTags.length; k++) {
+        //             if (active.indexOf(itemTags[k].innerText) >= 0) {
+        //                 matches++;
+        //             }
+        //         }
+
+        //         // show or hide
+        //         if (matches >= active.length) {
+        //             items[j].style.display = "block";
+        //         }
+        //         else {
+        //             items[j].style.display = "none";
+        //         }
+        //     }
+        // }
+
+        // // check for search text in item strings
+        // if (searchText.length != 0) {
+        //     for (i = 0; i < items.length; i++) {
+        //         for (j = 0; j < searchText.length; j++) {
+
+        //             // check for text and tags
+        //             let includesSearchText = items[i].textString.toLowerCase().includes(searchText[j].toLowerCase());
+        //             let includesTags = true;    // TODO: add tag check
+
+        //             // adjust display
+        //             if (includesSearchText && includesTags) {
+        //                 console.log(items[i].htmlObject);
+        //                 items[i].show = true;
+        //                 items[i].htmlObject.style.display = "block";
+        //             }
+        //             else {
+        //                 items[i].show = false;
+        //                 items[i].htmlObject.style.display = "none";
+        //             }
+        //         }
+        //     }
+        // }
+
+    }
+
+    /*
+     * Create tag filter buttons
+     */
+
+    // collect all tags for the filter list
     var tagElements = document.getElementsByClassName("tag");
     var tagList = document.getElementById("tagList");
     var tags = [];
@@ -46,20 +146,40 @@
     }
 
     /*
-     * Searching
-     */
+    * Searching
+    */
 
+    var searchBar = document.getElementById("searchBar");
+    var searchText = [];
+
+    searchBar.addEventListener("input", function (e) {
+        searchText = e.target.value;
+
+        // remove punctuation and split text into array of words
+        searchText = searchText.split(/[^a-zA-Z\d]/);
+        searchText = searchText.filter(function (string) { return string != "" })
+        console.log(searchText);
+
+        updateListing(active, searchText);
+    })
+
+
+    /*
+     * Add listeners to filter buttons
+     */
 
     // set events for filter list
     var active = [];
 
     var filters = document.getElementsByClassName("filter");
     var items = document.getElementsByClassName("item");
+
+    // add listener to each filter button
     for (i = 0; i < filters.length; i++) {
         let e = filters[i];
         e.addEventListener("click", function () {
 
-            // change button status and create list of active tags
+            // change button status and update active list
             if (e.classList.contains("active")) {
                 e.classList.remove("active");
                 active.splice(active.indexOf(e.innerText), 1);
@@ -68,101 +188,17 @@
                 e.classList.add("active");
                 active.push(e.innerText);
             }
-
-            // hide and show items
-            if (active.length == 0) {
-                for (j = 0; j < items.length; j++) {
-                    items[j].style.display = "block";
-                }
-            }
-            else {
-
-                // get item tags and check that each one is active
-                for (j = 0; j < items.length; j++) {
-                    let itemTags = items[j].getElementsByTagName("span");
-                    let matches = 0;
-                    for (k = 0; k < itemTags.length; k++) {
-                        if (active.indexOf(itemTags[k].innerText) >= 0) {
-                            matches++;
-                        }
-                    }
-
-                    // show or hide
-                    if (matches >= active.length) {
-                        items[j].style.display = "block";
-                    }
-                    else {
-                        items[j].style.display = "none";
-                    }
-                }
-            }
+            updateListing(active, searchText);
         })
     }
 
-    /*
-     * Get all items
-     */
-
-    // TODO: Add author, title, tags, date for sorting later
-    var items = Array.from(document.getElementsByClassName("item"))
-    items = items.map((x, i) => {
-        let itemObject = {
-            textString: x.innerText,
-            htmlString: x.innerHTML,
-            htmlObject: x,
-            author: "",
-            title: "",
-            date: 0,
-            tags: [],
-            show: true,
-            i: i}
-        return itemObject;
-    })
-    console.log(items)
 
     /*
-     * Searching
-     */
-
-    var searchBar = document.getElementById("searchBar");
-    searchBar.addEventListener("input", function(e) {
-        var searchText = e.target.value;
-
-        // remove punctuation and split text into array of words
-        searchText = searchText.split(/[^a-zA-Z\d]/);
-        searchText = searchText.filter(function(string) {return string != ""})
-        console.log(searchText);
-
-        // check for search text in item strings
-        if (searchText.length != 0) {
-            for (i = 0; i < items.length; i++) {
-                for (j = 0; j < searchText.length; j++) {
-
-                    // check for text and tags
-                    let includesSearchText = items[i].textString.toLowerCase().includes(searchText[j].toLowerCase());
-                    let includesTags = true;    // TODO: add tag check
-                    
-                    // adjust display
-                    if (includesSearchText && includesTags) {
-                        console.log(items[i].htmlObject);
-                        items[i].show = true;
-                        items[i].htmlObject.style.display = "block";
-                    }
-                    else {
-                        items[i].show = false;
-                        items[i].htmlObject.style.display = "none";
-                    }
-                }
-            }
-        }
-    })
-
-    /*  
-    TODO: 
-        Check for tags, 
+    TODO:
+        Check for tags,
         incorporate tag functionality into the new search code
         reorganize into functions
-        get author/title/date for item listing, 
+        get author/title/date for item listing,
         rename the file and update links elsewhere
      */
 
