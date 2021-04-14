@@ -13,6 +13,19 @@ Please note that these items do not go through the same review process as *World
 
 <div id = "tagList"></div>
 
+<div id="search-and-sort">
+    <div style="overflow:hidden;">
+        <input name="searchBar" id="searchBar" placeholder="Search"/>
+    </div>
+    <div class="btn-group">
+        <span class="btn sorting">Sort by Most Recent</span>
+        <span class="btn">Oldest</span>
+        <span class="btn">Author</span>
+        <span class="btn">Title</span>
+    </div>
+    <div style="clear:both;"></div>
+</div>
+
 ## Resources
 
 <div id = "itemList">
