@@ -37,67 +37,38 @@
         items[i].geoTags = itemGeoTags;
     }
 
-    console.log(items)
-
-
     /*
      * Update listing callback
      */
 
     function updateListing(active, searchText) {
-        console.log("Updating with", active, searchText)
-        // // from tags
-        // // hide and show items
-        // if (active.length == 0) {
-        //     for (j = 0; j < items.length; j++) {
-        //         items[j].style.display = "block";
-        //     }
-        // }
-        // else {
 
-        //     // get item tags and check that each one is active
-        //     for (j = 0; j < items.length; j++) {
-        //         let itemTags = items[j].getElementsByTagName("span");
-        //         let matches = 0;
-        //         for (k = 0; k < itemTags.length; k++) {
-        //             if (active.indexOf(itemTags[k].innerText) >= 0) {
-        //                 matches++;
-        //             }
-        //         }
+        // if no search text or active filters, set values to true
 
-        //         // show or hide
-        //         if (matches >= active.length) {
-        //             items[j].style.display = "block";
-        //         }
-        //         else {
-        //             items[j].style.display = "none";
-        //         }
-        //     }
-        // }
+        for (i = 0; i < items.length; i++) {
+            let hasSearchText = true;
+            let hasTags = true;
 
-        // // check for search text in item strings
-        // if (searchText.length != 0) {
-        //     for (i = 0; i < items.length; i++) {
-        //         for (j = 0; j < searchText.length; j++) {
+            // check for search text
+            if (searchText.length > 0) {
+                hasSearchText = searchText.every(x => items[i].textString.toLowerCase().includes(x.toLowerCase()))
+            }
 
-        //             // check for text and tags
-        //             let includesSearchText = items[i].textString.toLowerCase().includes(searchText[j].toLowerCase());
-        //             let includesTags = true;    // TODO: add tag check
+            // do the same for tags (will have to check two arrays against each other)
+            if (active.length > 0) {
+                let combinedTagList = items[i].tags.concat(items[i].geoTags)
+                hasTags = active.every(x => combinedTagList.includes(x))
+            }
 
-        //             // adjust display
-        //             if (includesSearchText && includesTags) {
-        //                 console.log(items[i].htmlObject);
-        //                 items[i].show = true;
-        //                 items[i].htmlObject.style.display = "block";
-        //             }
-        //             else {
-        //                 items[i].show = false;
-        //                 items[i].htmlObject.style.display = "none";
-        //             }
-        //         }
-        //     }
-        // }
-
+            // show or hide
+            if (hasSearchText && hasTags) {
+                items[i].show = true;
+                items[i].htmlObject.style.display = "block";
+            } else {
+                items[i].show = false;
+                items[i].htmlObject.style.display = "none";
+            }
+        }
     }
 
     /*
@@ -158,7 +129,6 @@
         // remove punctuation and split text into array of words
         searchText = searchText.split(/[^a-zA-Z\d]/);
         searchText = searchText.filter(function (string) { return string != "" })
-        console.log(searchText);
 
         updateListing(active, searchText);
     })
@@ -172,7 +142,6 @@
     var active = [];
 
     var filters = document.getElementsByClassName("filter");
-    var items = document.getElementsByClassName("item");
 
     // add listener to each filter button
     for (i = 0; i < filters.length; i++) {
@@ -195,8 +164,6 @@
 
     /*
     TODO:
-        Check for tags,
-        incorporate tag functionality into the new search code
         reorganize into functions
         get author/title/date for item listing,
         rename the file and update links elsewhere
