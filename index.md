@@ -56,6 +56,7 @@ The current *World Music Textbook* editorial board:
 * [Maxi Larrea](https://maximilianolarrea.com)
 * [David Lewis](https://libguides.bgsu.edu/prf.php?account_id=152381)
 * [Scott Linford](https://ccm.uc.edu/about/directory.html?eid=linforsv&thecomp=uceprof_0)
+* [Dominic D.B. Makwa](https://theconversation.com/profiles/dominic-d-b-makwa-906211)
 * [Scott Marcus](https://music.ucsb.edu/people/scott-marcus)
 * [Yuxin Mei](https://mhte.music.unt.edu/yuxin-mei)
 * [Katherine Meizel](https://www.bgsu.edu/musical-arts/faculty-and-staff/katherine-meizel.html)
