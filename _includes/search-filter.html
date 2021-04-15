@@ -187,14 +187,14 @@
     sortRecent.addEventListener("click", function(e) {
         sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
         e.target.classList.add("sorting")
-        items.sort((a, b) => (b.date.getTime() - a.date.getTime()))
+        items.sort((a, b) => (a.date > b.date ? 1 : -1))
         showItems()
     })
 
     sortOldest.addEventListener("click", function(e) {
         sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
         e.target.classList.add("sorting")
-        items.sort((a, b) => (a.date.getTime() - b.date.getTime()))
+        items.sort((a, b) => (b.date > a.date ? 1 : -1))
         showItems()
     })
 
