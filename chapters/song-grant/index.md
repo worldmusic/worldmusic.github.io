@@ -11,7 +11,7 @@ bio: |
   <p>SONG Seng has over 15 years’ experience as a producer, manager, facilitator and arts administrator in Cambodia. As manager of the Heritage Hub of non-government organization Cambodian Living Arts, he led the development of a vibrant arts scene in the town of Siem Reap. Seng has produced festivals, taken artists on international tours, and led regular performance productions in Cambodia. He has served as Cambodia Liaison Officer for the International Council for Traditional Music.</p>
   
   <p>Music researcher and educator Catherine GRANT specialises in ethnomusicology and music education. She is author of Music Endangerment (Oxford University Press, 2014) and co-editor of the award-winning Sustainable Futures for Music Cultures (OUP, 2016). From 2016 to 2019, Catherine chaired the Australia-New Zealand Committee of the International Council for Traditional Music. She is recipient of an Australian Future Justice medal for her research, advocacy and activism on cultural sustainability.</p>
-date: 2021-01-15
+date: 2021-01-22
 description: This piece introduces the endangered Cambodian musical instrument Angkuoch, its makers and players, and a project documenting the making process. It also reflects on ethics of instruments in museum collections.
 tags:
  - Musical Instruments
