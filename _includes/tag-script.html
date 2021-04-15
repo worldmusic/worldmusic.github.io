@@ -41,6 +41,16 @@
      * Update listing callback
      */
 
+    function showItems() {
+        var itemListBody = document.getElementById("itemList");
+        itemListBody.innerHTML = ""
+        for (let i = 0; i < items.length; i++) {
+            if (items[i].show) {
+                itemListBody.appendChild(items[i].htmlObject)
+            }
+        }
+    }
+
     function updateListing(active, searchText) {
 
         // if no search text or active filters, set values to true
@@ -69,6 +79,8 @@
                 items[i].htmlObject.style.display = "none";
             }
         }
+
+        showItems();
     }
 
     /*
