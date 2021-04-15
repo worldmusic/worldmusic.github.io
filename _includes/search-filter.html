@@ -12,12 +12,13 @@
             htmlObject: x,
             author: x.querySelector("#metadata-author").innerText,
             title: x.querySelector("#metadata-title").innerText,
-            date: Number(x.querySelector("#metadata-date").innerText),
+            date: new Date(x.querySelector("#metadata-date").innerText.replaceAll("-",",")),
             tags: [],
             geoTags: [],
             show: true,
             i: i
         }
+
         return itemObject;
     })
 
@@ -186,14 +187,14 @@
     sortRecent.addEventListener("click", function(e) {
         sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
         e.target.classList.add("sorting")
-        items.sort((a, b) => (a.date < b.date) ? 1 : -1)
+        items.sort((a, b) => (b.date.getTime() - a.date.getTime()))
         showItems()
     })
 
     sortOldest.addEventListener("click", function(e) {
         sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
         e.target.classList.add("sorting")
-        items.sort((a, b) => (a.date > b.date) ? 1 : -1)
+        items.sort((a, b) => (a.date.getTime() - b.date.getTime()))
         showItems()
     })
 
