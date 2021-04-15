@@ -10,9 +10,9 @@
         let itemObject = {
             textString: x.innerText,
             htmlObject: x,
-            author: "",
-            title: "",
-            date: 0,
+            author: x.querySelector("#metadata-author").innerText,
+            title: x.querySelector("#metadata-title").innerText,
+            date: Number(x.querySelector("#metadata-date").innerText),
             tags: [],
             geoTags: [],
             show: true,
@@ -176,7 +176,6 @@
 
     /*
     TODO:
-        reorganize into functions
         get author/title/date for item listing,
         rename the file and update links elsewhere
      */
