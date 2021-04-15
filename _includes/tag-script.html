@@ -173,17 +173,47 @@
         })
     }
 
+    /*
+    * Sorting
+    */
+
+    var sortRecent = document.getElementById("sortRecent")
+    var sortOldest = document.getElementById("sortOldest")
+    var sortAuthor = document.getElementById("sortAuthor")
+    var sortTitle = document.getElementById("sortTitle")
+    var sortButtons = [sortRecent, sortOldest, sortAuthor, sortTitle]
+
+    sortRecent.addEventListener("click", function(e) {
+        sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
+        e.target.classList.add("sorting")
+        items.sort((a, b) => (a.date < b.date) ? 1 : -1)
+        showItems()
+    })
+
+    sortOldest.addEventListener("click", function(e) {
+        sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
+        e.target.classList.add("sorting")
+        items.sort((a, b) => (a.date > b.date) ? 1 : -1)
+        showItems()
+    })
+
+    sortAuthor.addEventListener("click", function(e) {
+        sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
+        e.target.classList.add("sorting")
+        items.sort((a, b) => (a.author > b.author) ? 1 : -1)
+        showItems()
+    })
+
+    sortTitle.addEventListener("click", function(e) {
+        sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
+        e.target.classList.add("sorting")
+        items.sort((a, b) => (a.title > b.title) ? 1 : -1)
+        showItems()
+    })
 
     /*
     TODO:
-        get author/title/date for item listing,
         rename the file and update links elsewhere
      */
-
-    /*
-     * Sorting
-     */
-
-    // Use item listing for sorting    
 
 </script>

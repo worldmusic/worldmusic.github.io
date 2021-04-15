@@ -18,10 +18,10 @@ Please note that these items do not go through the same review process as *World
         <input name="searchBar" id="searchBar" placeholder="Search"/>
     </div>
     <div class="btn-group">
-        <span class="btn sorting">Sort by Most Recent</span>
-        <span class="btn">Oldest</span>
-        <span class="btn">Author</span>
-        <span class="btn">Title</span>
+        <span id="sortRecent" class="btn sorting">Sort by Most Recent</span>
+        <span id="sortOldest" class="btn">Oldest</span>
+        <span id="sortAuthor" class="btn">Author</span>
+        <span id="sortTitle" class="btn">Title</span>
     </div>
     <div style="clear:both;"></div>
 </div>
