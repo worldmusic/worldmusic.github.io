@@ -29,12 +29,18 @@ Please note that these items do not go through the same review process as *World
 ## Resources
 
 <div id = "itemList">
-    {% for bib in site.resources %}
-        {% assign sorted-pubs = (bib.resources | sort:'date' | reverse) %}
-        {% for pub in sorted-pubs %}
-            <div class = "item">
-                {% include item.html pub=pub %}
-            </div>
+    {% for bib in site.resources %}        
+        {% assign pubsByYear = bib.resources | group_by: 'date' | sort: 'name' | reverse %}
+
+        {% for year in pubsByYear %}
+            {% assign sorted-pubs = year.items | sort: 'author' %}
+
+            {% for pub in sorted-pubs %}
+                <div class = "item">
+                    {% include item.html pub=pub %}
+                </div>
+
+            {% endfor %}
         {% endfor %}
     {% endfor %}
 </div>
