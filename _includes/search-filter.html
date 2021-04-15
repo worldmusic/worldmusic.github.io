@@ -7,12 +7,17 @@
     // TODO: Add author, title, tags, date for sorting later
     var items = Array.from(document.getElementsByClassName("item"))
     items = items.map((x, i) => {
+
+        // set up date object info
+        let dateString = x.querySelector("#metadata-date").innerText
+        dateString = dateString.replace(/-/g, "/")
+
         let itemObject = {
             textString: x.innerText,
             htmlObject: x,
             author: x.querySelector("#metadata-author").innerText,
             title: x.querySelector("#metadata-title").innerText,
-            date: new Date(x.querySelector("#metadata-date").innerText.replaceAll("-",",")),
+            date: new Date(dateString),
             tags: [],
             geoTags: [],
             show: true,
@@ -187,21 +192,36 @@
     sortRecent.addEventListener("click", function(e) {
         sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
         e.target.classList.add("sorting")
-        items.sort((a, b) => (a.date > b.date ? 1 : -1))
+        items.sort((a, b) => {
+            if (b.date.getTime() === a.date.getTime()) {
+                return (a.author > b.author) ? 1 : -1
+            }
+            return b.date > a.date ? 1 : -1
+        })
         showItems()
     })
 
     sortOldest.addEventListener("click", function(e) {
         sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
         e.target.classList.add("sorting")
-        items.sort((a, b) => (b.date > a.date ? 1 : -1))
+        items.sort((a, b) => {
+            if (b.date.getTime() === a.date.getTime()) {
+                return (a.author > b.author) ? 1 : -1
+            }
+            return a.date > b.date ? 1 : -1
+        })
         showItems()
     })
 
     sortAuthor.addEventListener("click", function(e) {
         sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
         e.target.classList.add("sorting")
-        items.sort((a, b) => (a.author > b.author) ? 1 : -1)
+        items.sort((a, b) => {
+            if (a.author === b.author) {
+                return b.date > a.date ? 1 : -1
+            }
+            return a.author > b.author ? 1 : -1
+        })
         showItems()
     })
 
