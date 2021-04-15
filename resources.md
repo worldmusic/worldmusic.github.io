@@ -39,4 +39,4 @@ Please note that these items do not go through the same review process as *World
     {% endfor %}
 </div>
 
-{% include tag-script.html %}
+{% include search-filter.html %}

@@ -33,4 +33,4 @@ The World Music Textbook is comprised of "chapters." These are prepared by schol
 </center>
 </p>
 
-{% include tag-script.html %}
+{% include search-filter.html %}
