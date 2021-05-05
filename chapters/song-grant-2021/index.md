@@ -12,6 +12,7 @@ bio: |
   
   <p>Music researcher and educator Catherine GRANT specialises in ethnomusicology and music education. She is author of Music Endangerment (Oxford University Press, 2014) and co-editor of the award-winning Sustainable Futures for Music Cultures (OUP, 2016). From 2016 to 2019, Catherine chaired the Australia-New Zealand Committee of the International Council for Traditional Music. She is recipient of an Australian Future Justice medal for her research, advocacy and activism on cultural sustainability.</p>
 date: 2021-01-22
+pdfurl: /pdfs/song-grant-2021/song-grant-2021.pdf
 description: This piece introduces the endangered Cambodian musical instrument Angkuoch, its makers and players, and a project documenting the making process. It also reflects on ethics of instruments in museum collections.
 tags:
  - Musical Instruments
