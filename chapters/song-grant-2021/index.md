@@ -22,11 +22,11 @@ tags:
 geoTags:
  - Southeast Asia
 ---
-The musical instrument popularly known as the "Jew’s Harp" (also jaw’s harp, mouth harp, trump or *guimbarde*) is found in many countries around the world. The origin of the name, and of the instrument itself, remains unclear to scholars, though it is believed it is an ‘extremely ancient instrument’ that may have originated in Asia, perhaps China (Fox 1988:22, 49). 
+The musical instrument popularly known as the "Jew’s Harp" (also jaw’s harp, mouth harp, trump or *guimbarde*) is found in many countries around the world. The origin of the name, and of the instrument itself, remains unclear to scholars, though it is believed it is an ‘extremely ancient instrument’ that may have originated in Asia, perhaps China (Fox 1988, 22, 49). 
 
 The Cambodian version of the instrument is unique. Called *angkuoch* in Khmer, it is a precious part of Cambodia’s living cultural heritage (Libin 2014; Narom 2005). 
 
-Nowadays, angkuoch and its associated practices are in need of urgent safeguarding. Social and cultural shifts in Cambodia over the last half-century, including the devastation of the Khmer Rouge era in the 1970s, mean that only a few people still know how to make and play angkuoch (Miller & Williams 1998:204). 
+Nowadays, angkuoch and its associated practices are in need of urgent safeguarding. Social and cultural shifts in Cambodia over the last half-century, including the devastation of the Khmer Rouge era in the 1970s, mean that only a few people still know how to make and play angkuoch (Miller & Williams 1998, 204). 
   
 Supported by the *Endangered Material Knowledge Program* of the British Museum (UK) and by UNESCO (Cambodia), in early 2020 we (the authors) led a team documenting angkuoch and angkuoch-making as it is practised in Siem Reap Province in northern Cambodia. Our aim was to help preserve knowledge about angkuoch for present and future generations.
 
@@ -56,14 +56,14 @@ SON Soeun and BIN Song (both born 1942) are lifelong friends. In the 1950s and �
 
 When the young BIN Song began to make and play the angkuoch daek, SON Soeun became intrigued by the instrument too. Over time, SON Soeun learnt to play proficiently. In the local lingo, the instrument was called "angkuoch bird" on account of its shape. The two boys would often slip an angkuoch bird in their pockets to play for pleasure whenever they chose. 
 
-When the two boys were growing up, boys and young men often used the angkuoch to flirt with girls and young women. Words can be "spoken" through the instrument, although it takes some practice to interpret them (Miller & Williams 1998:204). In this way, young people developed a secret language – the language of angkuoch. As youths, Song and Souen would often use the angkuoch for this purpose. SON Soeun recalled:
+When the two boys were growing up, boys and young men often used the angkuoch to flirt with girls and young women. Words can be "spoken" through the instrument, although it takes some practice to interpret them (Miller & Williams 1998, 204). In this way, young people developed a secret language – the language of angkuoch. As youths, Song and Souen would often use the angkuoch for this purpose. SON Soeun recalled:
 
 >When I was a bachelor, I went to visit the houses of girls at night. When I reached my lover’s house, if she was already asleep, I played to call her. If I kept calling, she would wake up and come to meet me. And then we sat together. I could call her to meet me wherever I wanted as long as she heard the sound of my angkuoch. 
 
 ![](Figure2.jpg)<br />
 <small>*Figure 2. SON Soeun playing angkuoch daek (iron Jew’s harp), with his childhood friend, instrument-maker BIN Song. Photo: Catherine Grant, 11 January 2020.*</small>
 
-In addition to its role in wooing potential lovers, angkuoch traditionally accompanied "Prern", a genre of folksong that was popular in Siem Reap Province at the time BIN Song and SON Soeun were growing up (Khean et al:2003). An especially popular Prern song was "Santouch." BIN Song recalled its lyrics for us (in part): 
+In addition to its role in wooing potential lovers, angkuoch traditionally accompanied "Prern", a genre of folksong that was popular in Siem Reap Province at the time BIN Song and SON Soeun were growing up (Khean et al. 2003). An especially popular Prern song was "Santouch." BIN Song recalled its lyrics for us (in part): 
 
 >Standing near the water pond, if your share with me your rice wine, I will dance for you to see, my dear. 
 
@@ -113,7 +113,7 @@ MONG Koeuy passed away in his late 70s in 2012. Four of his sons are proud to co
 
 ## The Angkuoch in the British Museum
 
-Until the recent acquisition of two new angkuoch through this project[^update], the British Museum had only [one angkuoch in its collection](https://www.britishmuseum.org/collection/object/A_As1966-11-5), an instrument of unknown maker, donated in 1966 by a certain W Hanson Rawles, about whom nothing further is known. Today, museum practices carefully document, wherever possible, the provenance and donation circumstances of items to their collections.
+Until the recent acquisition of two new angkuoch through this project,[^update] the British Museum had only [one angkuoch in its collection](https://www.britishmuseum.org/collection/object/A_As1966-11-5), an instrument of unknown maker, donated in 1966 by a certain W Hanson Rawles, about whom nothing further is known. Today, museum practices carefully document, wherever possible, the provenance and donation circumstances of items to their collections.
 
 [^update]: In December 2020, the British Museum acquired two angkuoch made for this project: an [angkuoch daek](https://www.britishmuseum.org/collection/object/A_2020-3017-2) made by BIN Song and an [angkuoch russey](https://www.britishmuseum.org/collection/object/A_2020-3017-1) made by CHI Monivong.
 
