@@ -7,7 +7,7 @@ job-title: Assistant Teaching Professor of Ethnomusicology
 bio: "Christopher Witulski is an assistant teaching professor at Bowling Green State University. He is the author of two books about Moroccan music (<a href='https://iupress.org/9780253036759/the-gnawa-lions/'>The Gnawa Lions: Authenticity and Opportunity in a Ritual Music</a> and <a href='https://www.routledge.com/Focus-Music-and-Religion-of-Morocco/Witulski/p/book/9781138094581'>Focus: Music and Religion of Morocco</a>)."
 date: 2021-01-15
 description: This four-part series explores the relationship between rhythm, expectation, and experience. It describes musical terms and central concepts while using specific examples from Morocco to problematize western-centric binaries.
-pdfurl: /pdfs/witulski-2021/witulski-2021.pdf
+pdfurl: https://doi.org/10.25035/wmt.2021.003
 tags:
  - Musical Terms
  - Sound
