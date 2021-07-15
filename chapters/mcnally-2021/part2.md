@@ -37,7 +37,7 @@ Despite the military regime's restrictions on political speech, popular song con
 
 [^9]: As in many countries in Latin America, not all individuals of African heritage in Brazil have historically self-identified as Black. For this reason, when referring to all people of African descent, I follow the Brazilian norm and employ the term "Afro-descendent," while reserving the term "Black" solely for those who self-identify as such.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sq_8Ot8T180" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wyaCWQvOLYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <small>*Video 5. Tim Maia performing "Gostava Tanto de Você" in 1989*</small>
 
 ![Maria Fumaça](fig6-maria-fumaca.jpg)<br />
