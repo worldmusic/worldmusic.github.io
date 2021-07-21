@@ -12,9 +12,15 @@ The *World Music Textbook* is a new collaborative effort to create a free and br
 
 ## News and updates
 
+### And we're off!
+
 We are proud to share [our first contributions]({{ site.baseurl }}/chapters/) and an [extended resource listing]({{ site.baseurl }}/resources/). We invite scholars, musicians, and community members to submit materials for inclusion and continue to accept contributions on a rolling basis.
 
 You can follow us on [Twitter](https://twitter.com/music_textbook) and [Facebook](https://www.facebook.com/WorldMusicTextbook) for updates on the project and to learn about newly published contributions.
+
+### Honoraria
+
+Thanks to generous support from the California State University Affordable Learning Solutions initiative, we are able to offer $200 honoraria for contributors to this project. Please see the [call for contributions]({{ site.baseurl }}/call) for more details.
 
 !["Musician busking"](assets/images/william-recinos-nola-violin-unsplash.jpg)
 <small>*"Musician busking" by William Recinos on [Unsplash](https://unsplash.com/@iwillbmm)*</small>
