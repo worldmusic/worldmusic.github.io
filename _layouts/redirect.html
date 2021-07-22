@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: " en-US " }}">
+  {% include site-header.html %}
   
 <meta charset="utf-8">
 <title>Redirecting&hellip;</title>
@@ -9,12 +10,14 @@
 <meta name="robots" content="noindex">
 
 <body>
+  {% include page-header.html %}
 
   <main id="content" class="main-content" role="main">
     <h1>Redirecting&hellip;</h1>
     <a href="{{ page.redirect }}">Click here if you are not redirected.</a>
   </main>
   
+  {% include footer.html %}
 </body>
 
 </html>

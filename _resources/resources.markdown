@@ -140,9 +140,10 @@ resources:
     link: "http://projects.aljazeera.com/2014/reservation-radio/index.html"
     description: "Article exploring the continuing significance of radio stations on reservations in the United States."
     tags: 
-      - "Native America"
       - "Indigeneity"
       - "Media"
+    geoTags:
+      - "Native America"
   - type: "url"
     title: "Cumbia: The Musical Backbone of Latin America"
     author: "Jasmine Garsd"
@@ -150,8 +151,9 @@ resources:
     link: "https://www.npr.org/sections/altlatino/2013/09/30/227834004/cumbia-the-musical-backbone-of-latin-america"
     description: "Podcast about cumbia music that describes the history of cumbia and how it developed into a pan-Latin musical style."
     tags: 
-      - "Latin America"
       - "Popular Music"
+    geoTags:
+      - "Latin America"
   - type: "url"
     title: "Afropop Worldwide (Podcasts)"
     author: "NPR and PRI"
@@ -159,10 +161,11 @@ resources:
     link: "https://www.npr.org/podcasts/381444269/pri-afropop-worldwide"
     description: "A series of podcasts dedicated to African music both in Africa and across the diaspora."
     tags: 
-      - "Africa"
+      - "Popular Music"
+    geoTags:
       - "Latin America"
       - "African Diaspora"
-      - "Popular Music"
+      - "Africa"
   - type: "url"
     title: "Tito Puente: ‘El Rey’"
     author: "NPR Music"
@@ -170,8 +173,9 @@ resources:
     link: "https://www.npr.org/2008/12/10/98051981/tito-puente-el-rey"
     description: "A 54-minute podcast about the life and influence of percussionist Tito Puente."
     tags: 
-      - "Latin America"
       - "Jazz"
+    geoTags:
+      - "Latin America"
   - type: "url"
     title: "‘Song Catcher: Frances Densmore of Red Wing’ and ‘Artist Charles Biederman’"
     author: "Stephen Smith"
@@ -179,9 +183,10 @@ resources:
     link: "https://www.mprnews.org/story/2013/05/15/mpr-documentaries-song-catcher-frances-densmore-of-red-wing-and-artist-charles-biederman"
     description: "A podcast in which the first twenty minutes are dedicated to exploring the life and work of Frances Densmore."
     tags: 
-      - "Native America"
       - "Ethnomusicology"
       - "Indigeneity"
+    geoTags:
+      - "Native America"
   - type: "url"
     title: "The Edge Effect"
     author: "Shankar Vedantam"
@@ -190,6 +195,7 @@ resources:
     description: "A podcast about the Silk Road Ensemble and cross-cultural collaborations. (I use it in conversation with analysis of the production of the Graceland album drawing on Meintjes’ work)"
     tags: 
       - "Collaboration"
+    geoTags:
       - "Global"
   - type: "url"
     title: "Music and Social Justice Resources Project"
@@ -205,6 +211,7 @@ resources:
       - "Immigration"
       - "Sustainability"
       - "Teaching"
+    geoTags:
       - "Global"
   - type: "url"
     title: "Rhiannon Giddens' Keynote Address at IBMA Conference: Community and Connection"
@@ -214,10 +221,11 @@ resources:
     description: "The prominent singer, songwriter, and banjo player Rhiannon Giddens shares the relationship between race, the banjo, the music industry, and old time and bluegrass music"
     tags:
       - "Race"
-      - "African Diaspora"
       - "Musical Instruments"
-      - "United States"
       - "Historical Ethnomusicology"
+    geoTags:
+      - "African Diaspora"
+      - "North America"
   - type: "article"
     title: "Are Men Singing Higher in Pop Music?"
     author: "Matt Daniels"
@@ -259,6 +267,7 @@ resources:
     tags:
       - "Musical Terms"
       - "Popular Music"
+    geoTags:
       - "African Diaspora"
   - type: "url"
     title: "Sekuru's Stories"
@@ -268,6 +277,7 @@ resources:
     description: "A digital humanities project focusing on southern African musical instruments and traditions"
     tags:
       - "Musical Instruments"
+    geoTags:
       - "Africa"
   - type: "url"
     title: "Pentatonic Scales"
@@ -324,6 +334,7 @@ resources:
     tags: 
      - "Musical Instruments"
      - "Interactive"
+    geoTags:
      - "Africa"
   - type: "url"
     title: "Learning Music"
@@ -337,12 +348,13 @@ resources:
      - "Interactive"
   - type: "url"
     title: "The Global Jukebox"
-    author: "Association for Cultural Equity"
+    author: "The Association for Cultural Equity"
     date: 2017
     link: "https://theglobaljukebox.org/"
     description: "From the site: The Global Jukebox explores connections between families of expressive style. One can travel the world of song, dance and language through the Wheel Chart and the Map. Thousands of examples of the world’s music, dance and other expressive behavior are available here."
     tags:
      - "Interactive"
+    geoTags:
      - "Global"
   - type: "url"
     title: "Radio Garden"
@@ -352,8 +364,9 @@ resources:
     description: "An interactive website to listen to live, streaming radio stations from across the world."
     tags:
       - "Interactive"
-      - "Global"
       - "Media"
+    geoTags:
+      - "Global"
   - type: "url"
     title: "American Clave/Ragtime Country"
     author: "Wayne Marshall"
@@ -363,7 +376,8 @@ resources:
     tags:
       - "Musical Terms"
       - "Popular Music"
-      - "United States"
+    geoTags:
+      - "North America"
   - type: "url"
     title: "The Sounds of Mariachi: Lessons in Mariachi Performance (DVD)"
     author: "Nati Cano"
@@ -372,7 +386,228 @@ resources:
     description: "This Smithsonian Folkways DVD includes lessons about mariachi music from Natividad \"Nati\" Cano, former director of Mariachi Los Camperos de Nati Cano. The website includes a sample video <em>\"Chapter 3: Play bolero style</em>.\""
     tags:
      - "Dance"
-     - "Latin America"
      - "Musical Instruments"
      - "Popular Music"
+    geoTags:
+     - "Latin America"
+  - type: "url"
+    title: "Learning Synths"
+    author: "Abelton"
+    date: 2021
+    link: "https://learningsynths.ableton.com/en/playground"
+    description: "This module from Abelton covers the construction of synthesized sound through text and interactives. The Playground (linked here) allows the user to create their own sounds through experimentation."
+    tags:
+     - "Musical Instruments"
+     - "Interactive"
+  - type: "url"
+    title: "A Black History Month Sound Collage"
+    author: "Smithsonian Folkways and Maya Cunningham"
+    date: 2021
+    link: "https://folkways.si.edu/news-and-press/a-black-history-sound-collage-playlist"
+    description: "This is a set of annotated playlists from Maya Cunningham and Smithsonian Folkways that foregrounds music, poetry, and spoken word over three time periods."
+    tags:
+     - "Jazz"
+     - "Politics"
+     - "Popular Music"
+     - "Race"
+     - "Sound"
+    geoTags:
+     - "Africa"
+     - "North America"
+  - type: "url"
+    title: "SoundLore podcast"
+    author: "Indiana University Ethnomusicology"
+    date: 2021
+    link: "https://folklore.indiana.edu/research/soundlore/index.html?fbclid=IwAR3YT-30-NgrUebBLUlpwPpzEZL469HmzrT0MET3CmOwJ1k0JdUuvySDahQ"
+    description: "From the site: SoundLore's episodes venture into the research, practices, and projects of folklore and ethnomusicology. Our podcast guests include current and emeritus faculty, students, and alumni from the department, extending the conversation beyond the classroom."
+    tags:
+     - "Ethnomusicology"
+     - "Public Musicology"
+  - type: "url"
+    title: "Expanding the music theory canon"
+    author: "Paula Maust"
+    date: 2021
+    link: "https://www.expandingthemusictheorycanon.com"
+    description: "From the AMS email  list: A collection of music theory examples by women and BIPoC composers. Examples are geared to the undergraduate core sequence. Each example contains a PDF of an excerpt for classroom use, a link to a public domain full score, a recording (when available), and a detailed composer biography."
+    tags:
+     - "Musicology"
+     - "Race"
+     - "Teaching"
+  - type: "url"
+    title: "Teaching music history"
+    author: "AMS Pedagogy Study Group"
+    date: 2021
+    link: "https://www.teachingmusichistory.com"
+    description: "From the AMS email list: Our website has a resources page that includes links to digital collections, sample syllabi and assignments, and other teaching materials. In the coming weeks we’ll be adding new materials to the website, so circle back early and often."
+    tags:
+     - "Teaching"
+  - type: "url"
+    title: "Smithsonian Open Access"
+    author: "Smithsonian"
+    date: 2021
+    link: "https://www.si.edu/openaccess"
+    description: "An open online repository of audio/visual (mostly 2D and 3D visual) materials from the Smithsonian collection."
+    tags:
+     - "Teaching"
+  - type: "url"
+    title: "Foundation for Arab Music Archiving and Research"
+    author: "AMAR"
+    date: 2009
+    link: "https://www.amar-foundation.org"
+    description: "From the site: AMAR is a Lebanese foundation committed to the preservation and dissemination of traditional Arab music. AMAR owns 7,000 records, principally from the 'Nahda' era (1903 – 1930s), as well as around 6,000 hours of recordings on reel. The website includes a blog and podcast that are useful resources."
+    tags:
+     - "Sound"
+     - "Popular Music"
+     - "Race"
+     - "Public Musicology"
+    geoTags:
+     - "Middle East"
+  - type: "url"
+    title: "Midwest Mahjar: The Recorded Sounds of the Greater Syrian Diaspora in the United States at 78 RPM"
+    author: "Richard M. Breaux"
+    date: 2018
+    link: "http://syrianlebanesediasporasound.blogspot.com"
+    description: "A blog maintained by Ethnic Studies scholar Richard Breaux focused on the stories of individuals and sound recordings within Arab American history."
+    tags:
+     - "Sound"
+     - "Immigration"
+     - "Race"
+     - "Public Musicology"
+    geoTags:
+     - "Middle East"
+     - "North America"
+  - type: "url"
+    title: "What might decolonial futures sound like?: Exploring ethnomusicology's colonialist legacies and moving beyond them"
+    author: "Jennifer Fraser"
+    date: 2020
+    link: "http://scalar.oberlincollegelibrary.org/decolonizing-ethnomusicology/index"
+    description: "From the website introduction: We tell some of this story [of 'artifacts' and collections] and present entries on colonialist legacies and strategies to move us towards sounding decolonial futures. We tell the stories of some of the individuals connected to the social history of these transcriptions, along with stories of others doing remarkably similar work in the collection of ethnological material of Indigenous practices in the late 19th and early 20th century."
+    tags:
+     - "Ethnomusicology"
+     - "Historical Ethnomusicology"
+     - "Activism"
+     - "Collaboration"
+     - "Race"
+  - type: "url"
+    title: "GroovePizza"
+    author: "NYU Music Experience Design Lab"
+    date: 2017
+    link: "https://apps.musedlab.org/groovepizza/?museid=1Cp0OuRLF&"
+    description: "From the website introduction: Groove Pizza is a circular rhythm app for creative music making and learning! It’s also a playful tool for creating grooves using math concepts like shapes, angles and patterns. More information at <a href='https://musedlab.org/groovepizza/' target='_blank'>https://musedlab.org/groovepizza/</a>."
+    tags:
+     - "Musical Instruments"
+     - "Interactive"
+  - type: "book"
+    title: "Intersections Vol. 39, No. 1"
+    author: "Robin Attas and Margaret E. Walker"
+    date: 2019
+    publication: "MusCan"
+    link: "https://muscan.org/en/publications/intersections/1357-intersections-vol-39-no-1"
+    description: "This special issue focuses on decolonizing musicology, building sustainable relationships and communities, and essentialism in music teaching."
+    tags: 
+      - "Teaching"
+      - "Activism"
+      - "Musicology"
+      - "Sustainability"
+  - type: "url"
+    title: "Erasing colorasure in American music theory, and confronting demons from our past"
+    author: "Philip Ewell"
+    date: 2021
+    link: "https://bibliolore.org/2021/03/25/philip-ewell-erasing-colorasure-in-american-music-theory-and-confronting-demons-from-our-past/"
+    description: "From the website introduction (lightly edited): Dr. Philip Ewell posted a series of daily tweets during Black History Month (February 2021) providing information on some under-researched Black composers and musicians under the rubric \"Colorased.\" These tweets contain names and basic information about each neglected figure. We wanted to preserve and share these tweets along with some text framing his project, here on RILM’s blog."
+    tags:
+     - "Activism"
+     - "Teaching"
+     - "Historical Ethnomusicology"
+     - "Race"
+  - type: "url"
+    title: "The Lomax Digital Archive"
+    author: "The Association for Cultural Equity"
+    date: 2021
+    link: "https://archive.culturalequity.org/collections"
+    description: "From the website introduction: The Lomax Digital Archive provides free access to audio/visual collections compiled across seven decades by folklorist Alan Lomax (1915–2002) and his father John A. Lomax (1867–1948)."
+    tags:
+     - "Teaching"
+     - "Historical Ethnomusicology"
+    geoTags:
+     - "North America"
+     - "Global"
+  - type: "url"
+    title: "Protocols for Native American Archival Materials"
+    author: "First Archivist Circle"
+    date: 2007
+    link: "https://www2.nau.edu/libnap-p/protocols.html"
+    description: "From the website introduction (edited): The Protocols build upon numerous professional ethical codes; a number of significant international declarations recognizing Indigenous rights, including several now issued by the United Nations; and the ground-breaking Aboriginal and Torres Strait Islander Protocols for Libraries, Archives, and Information Services. The proposed standards and goals articulated in Protocols for Native American Archival Materials are meant to inspire and to foster mutual respect and reciprocity."
+    tags:
+     - "Teaching"
+     - "Sustainability"
+    geoTags:
+     - "North America"
+     - "Native America"
+  - type: "url"
+    title: "Blob Opera"
+    author: "David Li, Google Arts & Culture"
+    date: 2020
+    link: "https://www2.nau.edu/libnap-p/protocols.html"
+    description: "From the website: Create your own opera inspired song with Blob Opera - no music skills required ! A machine learning experiment by David Li in collaboration with Google Arts & Culture"
+    tags:
+     - "Musical Terms"
+     - "Interactive"
+  - type: "url"
+    title: "Pitchgarden"
+    author: "zlliu"
+    date: 2021
+    link: "https://pitchgarden.com"
+    description: "An online ear training tool focused on identifying relative pitch relationships."
+    tags:
+     - "Musical Terms"
+     - "Interactive"
+  - type: "url"
+    title: "Maqam Lessons"
+    author: "Sami Abu Shumays"
+    date: 2020
+    link: "https://www.youtube.com/watch?v=xN7E1pc8Y2Y"
+    description: "A YouTube playlist of short lessons developed by Sami Abu Shumays that introduces different Arab maqamat, their structures and melodic development, and emphasizes ear training."
+    tags:
+     - "Musical Terms"
+     - "Interactive"
+    geoTags:
+     - "Middle East"
+  - type: "book"
+    title: "Open Access Musicology, Volume 1"
+    author: "Daniel Barolsky and Louis Epstein"
+    date: 2020
+    publication: "Lever Press"
+    link: "https://www.fulcrum.org/concern/monographs/bv73c232s"
+    description: "This open volume is the first release from Open Access Musicology and features chapters aimed at an undergraduate readership."
+    tags: 
+      - "Teaching"
+      - "Musicology"
+      - "Historical Ethnomusicology"
+  - type: "article"
+    title: "Eurovision and the Making of Queer (Counter-)Cultural Diplomacy"
+    author: "J. Y. Chua"
+    publication: "The Yale Review of International Studies"
+    date: 2016
+    link: "http://yris.yira.org/essays/1650"
+    description: "From the introduction: While Eurovision has facilitated the enfranchisement of queers in the project of cultural diplomacy, nations have simultaneously exploited the queerness of Eurovision for their public diplomacy agendas. As such, this paper aims to address the strategic and ethical dilemmas raised by queer diplomacy."
+    tags: 
+      - "Media"
+      - "Politics"
+      - "Popular Music"
+    geoTags:
+      - "Europe"
+  - type: "article"
+    title: "How does ‘Hamilton,’ the non stop, hip-hop Broadway sensation tap rap's master rhymes to blur musical lines?"
+    author: "Joel Eastwood and Erik Hinton"
+    publication: "The Wall Street Journal"
+    date: 2016
+    link: "http://graphics.wsj.com/hamilton/"
+    description: "A data visualization tool highlights internal rhythmic structures and patterns in the texts of Lin Manuel Miranda's Hamilton and other influential hip hop pieces."
+    tags: 
+      - "Popular Music"
+      - "Interactive"
+      - "Musical Terms"
+    geoTags:
+      - "North America"
 ---

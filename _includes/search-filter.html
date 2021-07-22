@@ -1,0 +1,235 @@
+<script>
+
+    /*
+     * Create an array of items to work with
+     */
+
+    // TODO: Add author, title, tags, date for sorting later
+    var items = Array.from(document.getElementsByClassName("item"))
+    items = items.map((x, i) => {
+
+        // set up date object info
+        let dateString = x.querySelector("#metadata-date").innerText
+        dateString = dateString.replace(/-/g, "/")
+
+        let itemObject = {
+            textString: x.innerText,
+            htmlObject: x,
+            author: x.querySelector("#metadata-author").innerText,
+            title: x.querySelector("#metadata-title").innerText,
+            date: new Date(dateString),
+            tags: [],
+            geoTags: [],
+            show: true,
+            i: i
+        }
+
+        return itemObject;
+    })
+
+    // get tags
+    for (let i = 0; i < items.length; i++) {
+        let itemTagSpans = items[i].htmlObject.getElementsByTagName("span");
+        let itemTags = []
+        let itemGeoTags = []
+        for (let j = 0; j < itemTagSpans.length; j++) {
+            if (itemTagSpans[j].classList.contains("geoTag")) {
+                itemGeoTags.push(itemTagSpans[j].innerText)
+            } else {
+                itemTags.push(itemTagSpans[j].innerText)
+            }
+        }
+        items[i].tags = itemTags;
+        items[i].geoTags = itemGeoTags;
+    }
+
+    /*
+     * Update listing callback
+     */
+
+    function showItems() {
+        var itemListBody = document.getElementById("itemList");
+        itemListBody.innerHTML = ""
+        for (let i = 0; i < items.length; i++) {
+            if (items[i].show) {
+                itemListBody.appendChild(items[i].htmlObject)
+            }
+        }
+    }
+
+    function updateListing(active, searchText) {
+
+        // if no search text or active filters, set values to true
+
+        for (i = 0; i < items.length; i++) {
+            let hasSearchText = true;
+            let hasTags = true;
+
+            // check for search text
+            if (searchText.length > 0) {
+                hasSearchText = searchText.every(x => items[i].textString.toLowerCase().includes(x.toLowerCase()))
+            }
+
+            // do the same for tags (will have to check two arrays against each other)
+            if (active.length > 0) {
+                let combinedTagList = items[i].tags.concat(items[i].geoTags)
+                hasTags = active.every(x => combinedTagList.includes(x))
+            }
+
+            // show or hide
+            if (hasSearchText && hasTags) {
+                items[i].show = true;
+                items[i].htmlObject.style.display = "block";
+            } else {
+                items[i].show = false;
+                items[i].htmlObject.style.display = "none";
+            }
+        }
+
+        showItems();
+    }
+
+    /*
+     * Create tag filter buttons
+     */
+
+    // collect all tags for the filter list
+    var tagElements = document.getElementsByClassName("tag");
+    var tagList = document.getElementById("tagList");
+    var tags = [];
+    var geoTags = [];
+
+    for (i = 0; i < tagElements.length; i++) {
+        if (tags.indexOf(tagElements[i].innerText) < 0 && geoTags.indexOf(tagElements[i].innerText) < 0) {
+            if (tagElements[i].classList.contains("geoTag")) {
+                geoTags.push(tagElements[i].innerText);
+            }
+            else {
+                tags.push(tagElements[i].innerText);
+            }
+        }
+    }
+
+    // create buttons for the filter list
+    tags.sort();
+    for (i = 0; i < tags.length; i++) {
+        var button = document.createElement("span");
+        var text = document.createTextNode(tags[i]);
+        button.appendChild(text);
+        button.classList.add("tag");
+        button.classList.add("filter");
+        button.classList.add("btn");
+        tagList.appendChild(button);
+    }
+
+    geoTags.sort();
+    for (i = 0; i < geoTags.length; i++) {
+        var button = document.createElement("span");
+        var text = document.createTextNode(geoTags[i]);
+        button.appendChild(text);
+        button.classList.add("tag");
+        button.classList.add("filter");
+        button.classList.add("btn");
+        button.classList.add("geoTag");
+        tagList.appendChild(button);
+    }
+
+    /*
+    * Searching
+    */
+
+    var searchBar = document.getElementById("searchBar");
+    var searchText = [];
+
+    searchBar.addEventListener("input", function (e) {
+        searchText = e.target.value;
+
+        // remove punctuation and split text into array of words
+        searchText = searchText.split(/[^a-zA-Z\d]/);
+        searchText = searchText.filter(function (string) { return string != "" })
+
+        updateListing(active, searchText);
+    })
+
+
+    /*
+     * Add listeners to filter buttons
+     */
+
+    // set events for filter list
+    var active = [];
+
+    var filters = document.getElementsByClassName("filter");
+
+    // add listener to each filter button
+    for (i = 0; i < filters.length; i++) {
+        let e = filters[i];
+        e.addEventListener("click", function () {
+
+            // change button status and update active list
+            if (e.classList.contains("active")) {
+                e.classList.remove("active");
+                active.splice(active.indexOf(e.innerText), 1);
+            }
+            else {
+                e.classList.add("active");
+                active.push(e.innerText);
+            }
+            updateListing(active, searchText);
+        })
+    }
+
+    /*
+    * Sorting
+    */
+
+    var sortRecent = document.getElementById("sortRecent")
+    var sortOldest = document.getElementById("sortOldest")
+    var sortAuthor = document.getElementById("sortAuthor")
+    var sortTitle = document.getElementById("sortTitle")
+    var sortButtons = [sortRecent, sortOldest, sortAuthor, sortTitle]
+
+    sortRecent.addEventListener("click", function(e) {
+        sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
+        e.target.classList.add("sorting")
+        items.sort((a, b) => {
+            if (b.date.getTime() === a.date.getTime()) {
+                return (a.author > b.author) ? 1 : -1
+            }
+            return b.date > a.date ? 1 : -1
+        })
+        showItems()
+    })
+
+    sortOldest.addEventListener("click", function(e) {
+        sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
+        e.target.classList.add("sorting")
+        items.sort((a, b) => {
+            if (b.date.getTime() === a.date.getTime()) {
+                return (a.author > b.author) ? 1 : -1
+            }
+            return a.date > b.date ? 1 : -1
+        })
+        showItems()
+    })
+
+    sortAuthor.addEventListener("click", function(e) {
+        sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
+        e.target.classList.add("sorting")
+        items.sort((a, b) => {
+            if (a.author === b.author) {
+                return b.date > a.date ? 1 : -1
+            }
+            return a.author > b.author ? 1 : -1
+        })
+        showItems()
+    })
+
+    sortTitle.addEventListener("click", function(e) {
+        sortButtons.forEach(function(btn) {btn.classList.remove("sorting")})
+        e.target.classList.add("sorting")
+        items.sort((a, b) => (a.title > b.title) ? 1 : -1)
+        showItems()
+    })
+
+</script>

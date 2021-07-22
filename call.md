@@ -10,9 +10,11 @@ nav:
 
 You are invited to contribute to a new open world music textbook. While the *World Music Textbook* aims to assemble a collection of original writing and multimedia resources for use in musicology and ethnomusicology classrooms, we also intend for this project to serve the wider public.
 
+**Honoraria:** Thanks to generous support from the California State University Affordable Learning Solutions initiative, we are currently able to offer honoraria for contributors in the range of $200 (USD). If you have questions about this or ideas for collaborative projects with multiple contributors, please reach out to us at [{{ site.email }}](mailto:{{ site.email }}).
+
 ## Scope and style
 
-The  materials developed for the *World Music Textbook* will be:
+Materials developed for the *World Music Textbook* should be:
 
 * Free and open to all
 * Short, accessible, and aimed toward an audience of undergraduate students or general readership
@@ -26,32 +28,7 @@ The included materials will draw on a broad range of approaches to music scholar
 
 The *World Music Textbook* is in an open format and lives exclusively online. It will serve as an adaptable educational resource capable of meeting a variety of needs ranging from those of introductory music or world music courses to those that focus on thematic historical or region-specific subject matter. To meet these various needs, the *World Music Textbook* will use a tag system to link and filter contributions geographically, historically, and thematically.
 
-Examples of themes include (but are not limited to):
-
-* Analysis
-* Archives and preservation
-* Dance
-* Diaspora
-* Environment
-* Ethics
-* Ethnicity
-* Fieldwork and analysis methods
-* History, heritage, and tradition
-* Identity
-* Ideology
-* Indigeneity
-* Industries
-* Gender
-* Globalization
-* Government
-* Medicine and health
-* Memory and nostalgia
-* Modernity
-* Power
-* Race
-* Religion
-* Representation
-* Technology
+Examples of themes include (but are not limited to): Analysis; Archives and preservation; Dance; Diaspora; Environment; Ethics; Ethnicity; Fieldwork and analysis methods; History, heritage, and tradition; Identity; Ideology; Indigeneity; Industries; Gender; Globalization; Government; Medicine and health; Memory and nostalgia; Modernity; Power; Race; Religion; Representation; or Technology.
 
 ## Submission information and the editorial process
 

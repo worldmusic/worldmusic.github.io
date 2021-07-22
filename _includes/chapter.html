@@ -1,0 +1,22 @@
+<p class="hang">{{ chapter.author }}{% if chapter.author2 %}, {{ chapter.author2 }}{% endif %}, <a href="{{ site.baseurl }}{{ chapter.url }}">"{{ chapter.title }},"</a> ({{ chapter.date | date: "%b %Y" }})</p>
+
+{% if chapter.description %}
+    <p class="description">{{ chapter.description }}</p>
+{% endif %}
+
+{% if chapter.tags %}
+    {% assign sorted-tags = (chapter.tags | sort) %}
+    {% for tag in sorted-tags %}
+        <span class = 'tag btn'>{{ tag }}</span>
+    {% endfor %}
+{% endif %}
+{% if chapter.geoTags %}
+    {% assign sorted-geoTags = (chapter.geoTags | sort) %}
+    {% for geoTag in sorted-geoTags %}
+        <span class = 'tag btn geoTag'>{{ geoTag }}</span>
+    {% endfor %}
+{% endif %}
+
+<div style="display:none;" id="metadata-date">{{ chapter.date }}</div>
+<div style="display:none;" id="metadata-author">{{ chapter.author }}</div>
+<div style="display:none;" id="metadata-title">{{ chapter.title }}</div>

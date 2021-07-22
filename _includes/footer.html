@@ -1,0 +1,67 @@
+<footer id="content" class="site-footer">
+  <div class="row">
+    <div class="two-column">
+      <h3>Comments, mailing list</h2>
+      <p>
+        With our aim to provide a collaborative and open free resource for instructors and students alike, we invite you to share any ideas about what you wish you had available for your students.
+      </p>
+      <form method="POST" netlify>
+
+        <textarea name="suggestions" rows="4" placeholder = "I have some thoughts"></textarea>
+
+        <p>
+          If you would like to be involved, please contact the editors. For updates, join our mailing list by entering your email below. We will not sell or share your responses without your permission.
+        </p>
+
+        <center>
+          <input type="text" name="name" placeholder="Your name (optional)" size = "50">
+          <input type="text" name="email" placeholder="Your email (optional)" size = "50">
+          <br />
+
+          <input type = "submit" class="btn" value = "Send">
+        </center>
+      </form>
+    </div>
+
+    <div class="two-column">
+      <h3>General Editors</h3>
+      <ul>
+        <li><a href="https://www.smu.edu/Meadows/AreasOfStudy/Music/Faculty/NielsenKristina" target="_blank">Kristina Nielsen</a></li>
+        <li><a href="https://www.cpp.edu/class/music/faculty-staff/jessie-vallejo.shtml" target="_blank">Jessie Vallejo</a></li>
+        <li><a href="https://www.bgsu.edu/musical-arts/faculty-and-staff/christopher-witulski.html" target="_blank">Christopher Witulski</a></li>
+      </ul>
+      <h3>Special thank you for support from</h3>
+      <ul>
+        <li><a href="https://als.calstate.edu" target="_blank">The California State University Affordable Learning Solutions Project</a></li>
+        <li><a href="https://www.cpp.edu/library/index.shtml" target="_blank">The California State Polytechnic University, Pomona University Library</a></li>
+        <li><a href="https://www.bgsu.edu/library.html" target="_blank">The University Libraries at Bowling Green State University</a></li>
+      </ul>
+      <h3>Get in touch</h3>
+        <ul>
+          <li><a href="mailto:{{site.email}}" target="_blank">E-mail</a></li>
+          <li><a href="https://www.facebook.com/{{site.facebook_username}}" target="_blank">Facebook</a></li>
+          <li><a href="https://twitter.com/{{site.twitter_username}}" target="_blank">Twitter</a></li>
+        </ul>
+      <h3>Site Map</h3>
+      <ul>
+        <li><a href="{{ site.baseurl }}/">Site homepage</a></li>
+        <li><a href="{{ site.baseurl }}/chapters">Chapters</a></li>
+        <li><a href="{{ site.baseurl }}/resources">Other open resources</a></li>
+        <li><a href="{{ site.baseurl }}/call">Call for contributions</a></li>
+        <li><a href="{{ site.baseurl }}/about">About the project</a></li>
+      </ul>
+      <h3>License and development</h3>
+      <p>
+        Worldmusictextbook.org is open source and is maintained at <a href="{{ site.github.repository_url }}" target="_blank">{{ site.github.repository_name }}</a>.
+      </p>    
+      <p>
+        This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution — Non-Commercial — No Derivatives 4.0 International License</a>.<br />
+      </p>
+      <center>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0; margin:0.5rem;" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+      </center>
+    </div>
+  </div>
+
+  <script data-goatcounter="https://worldmusic.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</footer>
