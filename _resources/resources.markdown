@@ -610,4 +610,18 @@ resources:
       - "Musical Terms"
     geoTags:
       - "North America"
+  - type: "url"
+    title: "Nigerian Christian Songs: A Digital Interactive Songbook"
+    author: "Monique M. Ingalls"
+    date: 2021
+    link: "https://sites.baylor.edu/nigerianchristiansongs/"
+    description: "Prepared by doctoral students at the Nigerian Baptist Theological Seminary (Ogbomoso, Nigeria) and Baylor University (Waco, TX), this digital resource focuses on Nigerian church music. The site includes a rich variety of material collected from their own hybrid ethnographic research, including Zoom interviews, surveys, and various digitized primary source documents, largely from Nigerian doctoral students."
+    tags:
+     - "Collaboration"
+     - "Ethnomusicology"
+     - "Indigeneity"
+     - "Public Musicology"
+     - "Sustainability"
+    geoTags:
+     - "Africa"
 ---
