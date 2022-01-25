@@ -48,6 +48,10 @@ Contributions that are suitable for the project (either upon submission or follo
 
 Our goal is to support the development and dissemination of written and multimedia materials that reflect the many fruitful approaches to the study of music by practitioners and academics alike. We strive to center marginalized voices into curricula while simultaneously responding to the significant gap in publicly available musical research.
 
+## *Music Notes* Series
+ 
+The *Music Notes* Series offers broad overviews of important themes explored within the *World Music Textbook*. These pieces come from experts within their respective fields and include resources for classroom instruction and lesson planning. If you are interested in contributing to the *Music Notes* Series, please contact the editors. Pieces are reviewed by the editors and accepted on a rolling basis.
+
 ## Ownership and licensing
 
 Contributors to this project will retain ownership of their materials. If you end up publishing something in the future, we will not charge any licensing fees, for example. Contributions can be removed at any time. Because of the project’s license (described below), some publications may have already been shared by others (for non-commercial purposes, unchanged, and with attribution) in ways that we do not control. This may include, among other things, downloaded copies in circulation in parts of the world where internet access is an issue.
