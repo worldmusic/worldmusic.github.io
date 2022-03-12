@@ -6,14 +6,14 @@ affiliation: Southern Methodist University
 author2: Jessie Vallejo
 author2-job-title: Associate Professor of Ethnomusicology
 author2-affiliation: Cal Poly Pomona
-title: Music and Nationalism
+title: "Music and Nationalism"
 bio: |
-  <p>Kristina Nielsen received her Ph.D. in ethnomusicology from the University of California, Los Angeles in 2017. Her research focuses on how music and dance in Aztec revitalization movements shape community histories and identities. Nielsen’s research is highly interdisciplinary and draws on ethnographic research methods, anthropology and area studies, particularly Indigenous and Latin American studies.</p>
+  <p>Kristina F. Nielsen is an assistant professor at Southern Methodist University in Dallas, Texas. Her research explores the roles of music and dance in Indigenous revitalization movements.</p>
   
-  <p>Dr. Jessie M. Vallejo is currently an Associate Professor of Ethnomusicology and Director of Mariachi Ensembles in Cal Poly Pomona’s Music Department. Dr. Vallejo’s primary research focuses on a hemispheric approach to Amerindian studies, which draws from her work with Kichwa-Otavaleño and Kanien'kehá:ka musicians. Her secondary research areas examine issues related to mariachi music and integrating ethnomusicological approaches in K-12 music education programs.</p>
+  <p>Dr. Jessie M. Vallejo is currently an Associate Professor of Ethnomusicology and Director of Mariachi Ensembles in Cal Poly Pomona’s Music Department. Dr. Vallejo’s primary research focuses on a hemispheric approach to Native American and Indigenous studies, which draws from her work with Kichwa Otavaleño and Kanien'kehá:ka musicians. Her secondary research areas examine issues related to mariachi music and integrating ethnomusicological approaches in K-12 music education programs.</p>
 date: 2022-03-10
 # pdfurl: https://doi.org/10.25035/wmt.2021.002
-description: "Nationalism: The concept that people, lands, and cultures are divided into nations that provide a central component of its citizen’s identities."
+description: This article offers an overview of musical nationalism. It considers how states have used music as a political tool as well as the ways in which communities have employed music to reject national identities and challenge nation-states.
 tags:
  - Music Notes
  - Nationalism
@@ -23,9 +23,7 @@ tags:
 geoTags:
  - Global
 ---
-**Nationalism:** *The concept that people, lands, and cultures are
-divided into nations that provide a central component of its citizen's
-identities.*
+**Nationalism:** *The concept that people, lands, and cultures are divided into nations that provide a central component of citizens’ identities.*
 
 Modern nationalism developed in Western Europe in the revolutionary
 atmosphere of the late eighteenth century. During this time, the
@@ -52,7 +50,7 @@ heritage or folk culture. In many cases, these projects claimed to
 traditions in written forms, effectively freezing them into one single
 "official" version. Music books and media, such as radio, recordings and
 film, aided the dissemination of a shared national culture that sought
-to cultivate national identity as a dominant force in citizen's lives
+to cultivate national identity as a dominant force in citizens’ lives
 (See Anderson 1983; Boyes 2010).
 
 In formerly-colonized lands, nationalism reflects a complicated
@@ -67,7 +65,7 @@ preserving older strata of culture, many countries have appropriated
 these musics as sources of national music heritage. In countries like
 Mexico, Peru, and Ecuador, the music of Indigenous communities---many
 of whom remain wary of state governments because of histories of
-genocide---has been co-opted into indigenismo nation building projects
+genocide---has been co-opted into indigenismo nation-building projects
 in the twentieth century.[^2] One famous example is "El Cóndor
 Pasa," a piece from the eponymous zarzuela (operetta) composed in 1913
 by Peruvian composer and ethnomusicologist Daniel Alomía Robles. Similar
@@ -107,7 +105,7 @@ recognition, finding spaces for marginalized identities to be viewed and
 heard as part of a national heritage. This approach might be observed
 when the lyrics of a national anthem includes several languages; for
 instance, South Africa changed their national anthem following apartheid
-to better reflect the inclusive ideals of a new era. Research and
+to better reflect the inclusive ideals of a new era (see example below). Research and
 scholarship have also played an important role in amending histories
 that have marginalized communities (See Hay 2003; Flemons 2018; Our
 Native Daughters 2019). Another example is mariachi music, which has
@@ -116,6 +114,8 @@ in the United States and public-school music curricula. At the same
 time, it can also be understood as a vital U.S. American music given its
 significance within the United States today (See Salazar 2011; Sheehy
 2006).
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1dYsgxHHPKyMsnSrKTzPCg?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 In other cases, various racial, ethnic, and economic social groups
 within a nation may disagree, redefine, or create their own definitions
@@ -385,18 +385,18 @@ Wong, Ketty. 2012. *Whose National Music?: Identity, Mestizaje, and Migration in
 
 ### Discussion Questions
 
-1. In the passage above, it is mentioned that "In many cases, these projects claimed to 'save' or 'preserve' culture, often by documenting or freezing versions of oral traditions in written forms." In many cases, however, there are multiple versions of songs, meaning that decisions must be made about which versions to preserve or make "official" by publishing. What problems might arise in this process? Who should get to make these decisions about which songs join folk music canons and which ones are left out? What might be some consequences of these choices?
+1. In the passage above, it is mentioned that folklore projects "claimed to 'save' or 'preserve' culture, often by documenting or freezing versions of oral traditions in written forms." In many cases, however, there are multiple versions of songs, meaning that decisions must be made about which versions to preserve or make "official" by publishing. What problems might arise in this process? Who should get to make these decisions about which songs join folk music canons and which ones are left out? What might be some consequences of these choices?
 
-2. Are people able to claim an identity or membership within a nation or political grouping even if they are not recognized as a member from the nation or political grouping? Why or why not? What are some of the identity issues that arise when one\'s claims to membership may or may not be recognized by a larger group? Are there any musical practices related to people addressing or confronting these issues?
+2. Are people able to claim an identity or membership within a nation or political grouping even if they are not recognized as a member from the nation or political grouping? Why or why not? What are some of the identity issues that arise when one\'s claims to membership may or may not be recognized by a larger group? How might these discrepancies impact musical performance?
 
-3. Make a list of rights or benefits that are awarded to someone who is able to claim citizenship to a nation state. After, consider what is at stake for someone who is denied citizenship to a nation state.
+3. Make a list of rights or benefits that are awarded to someone who is able to claim citizenship to a nation state. Then consider what is at stake for someone who is denied citizenship to a nation state.
 
 4. Conduct an internet search using Google or a database like JSTOR to read about plurinationalism. Find an example of how this is practiced in a given nation state or country. What are some of the social challenge of this political structure? How does music relate to the ways this plurinational state is represented?
 
 ### Recommended Readings
 
 {:.hang}
-*Black Music Research Journal volume 23, no. 1/2, Spring - Autumn, 2003* special issue on Affrilachian music <https://www.jstor.org/stable/i369762>
+*Black Music Research Journal.* 2003. Special issue on Affrilachian music 23(1). <https://www.jstor.org/stable/i369762>.
 
 {:.hang}
 Bohlman, Philip V. 2010. *Focus: Music, Nationalism, and the Making of the New Europe: Music, Nationalism, and the Making of the New Europe*, Second Edition. New York: Routledge.
@@ -447,7 +447,7 @@ Agawu, Kofi. 2003. *Representing African Music: Postcolonial Notes,
 Queries, Positions*. New York: Routledge.
 
 {:.hang}
-Beckerman, Michael. 1986. "In Search of Czechness." *19^th^-Century
+Beckerman, Michael. 1986. "In Search of Czechness." *19<sup>th</sup>-Century
 Music* 10(1):61-73.
 
 {:.hang}
