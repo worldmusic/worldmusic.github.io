@@ -1,4 +1,9 @@
-<p class="hang">{{ chapter.author }}{% if chapter.author2 %}, {{ chapter.author2 }}{% endif %}, <a href="{{ site.baseurl }}{{ chapter.url }}">"{{ chapter.title }},"</a> ({{ chapter.date | date: "%b %Y" }})</p>
+<p class="hang">
+    {% if chapter.tags contains 'Playlist'%}<span class="badge">Playlist</span>{% endif %}
+    {% if chapter.tags contains 'Music Notes'%}<span class="badge">Music Notes</span>{% endif %}
+    {{ chapter.author }}{% if chapter.author2 %}, {{ chapter.author2 }}{% endif %}, <a href="{{ site.baseurl }}{{ chapter.url }}">"{{ chapter.title }},"</a> 
+    ({{ chapter.date | date: "%b %Y" }})
+</p>
 
 {% if chapter.description %}
     <p class="description">{{ chapter.description }}</p>
