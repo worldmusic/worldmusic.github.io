@@ -93,7 +93,7 @@ racist music histories.
 Sitting around the campfire, the American Western movie *Lone Star
 Midnight* (1946), features actor Ken Curtis crooning the song "Home on
 the Range." Among the songs most associated with cowboy culture, the
-song invokes the emblem of today's quintessential American cowboy----a
+song invokes the emblem of today's quintessential American cowboy---a
 figure who is nearly always depicted as white. Despite this popular
 portrayal cemented through U.S. popular media there were many Black,
 Mexican, and Native American cowboys. The song "Home on the Range" was
@@ -138,8 +138,8 @@ left-handed ukulele playing. He formed the Kahauana Lake Trio with
 bassist Tommy Lake (his brother) and guitarist Al Machida. Kahauana
 Lake's music was influential in creating a contemporary Hawai'ian style.
 During the second Hawai'ian Renaissance Movement in the 1960s and 1970s,
-Lake, his bandmates, and Ma'iki Aiu Lake----an eminent hula dancer,
-teacher and his wife----inspired a new generation of Hawai\'ian hula
+Lake, his bandmates, and Ma'iki Aiu Lake---an eminent hula dancer,
+teacher and his wife---inspired a new generation of Hawai\'ian hula
 dancers and musicians who resisted colonialism and American imperialism
 by promoting traditional Hawai'ian music and dance as well as singing
 contemporary music in the Hawai'ian language (Hula Records 2013;
@@ -166,7 +166,7 @@ until 6:32 in this recording).
 Borodin was among a cohort of Russian composers, known as The Mighty
 Five, who sought to create what they perceived as a truly "Russian"
 sound in the late nineteenth century. Borodin sought to paint a sonic
-landscape, connecting music to geography----in this case Central Asian
+landscape, connecting music to geography---in this case Central Asian
 territories that Russia had recently seized in a climate of European
 imperialism. The piece draws on musical exoticism, or the portraying
 other peoples and places distant from the composer (Locke 2001). 
@@ -194,7 +194,7 @@ and Gray 1979:17). 
 
 ### "The First House in Connaught/The Copper Plate Reel" by Séamus Ennis
 
-This reel----a traditional Irish dance form in a quick duple meter----is
+This reel---a traditional Irish dance form in a quick duple meter---is
 among those collected and performed by Séamus Ennis. Ennis collected
 thousands of Irish tunes and he performed on the uilleann pipe that is
 featured in this example. Ennis gathered music from across Ireland for
