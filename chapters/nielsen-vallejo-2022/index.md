@@ -12,7 +12,7 @@ bio: |
   
   <p>Dr. Jessie M. Vallejo is currently an Associate Professor of Ethnomusicology and Director of Mariachi Ensembles in Cal Poly Pomona’s Music Department. Dr. Vallejo’s primary research focuses on a hemispheric approach to Native American and Indigenous studies, which draws from her work with Kichwa Otavaleño and Kanien'kehá:ka musicians. Her secondary research areas examine issues related to mariachi music and integrating ethnomusicological approaches in K-12 music education programs.</p>
 date: 2022-03-10
-# pdfurl: https://doi.org/10.25035/wmt.2021.002
+pdfurl: /pdfs/nielsen-vallejo-2022/nielsen-vallejo-2022.pdf
 description: This article offers an overview of musical nationalism. It considers how states have used music as a political tool as well as the ways in which communities have employed music to reject national identities and challenge nation-states.
 tags:
  - Music Notes
