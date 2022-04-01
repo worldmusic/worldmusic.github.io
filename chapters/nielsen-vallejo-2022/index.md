@@ -142,7 +142,7 @@ and practices all together.
 
 [^1]: A nation-state is defined as an entity in which a majority of citizens identify with each other culturally. It retains autonomy over the corresponding land inhabited by those who identify as its citizens.
 
-[^2]: A political strategy to co-opt Indigenous culture int nation-states while excluding Indigenous people.
+[^2]: A political strategy to co-opt Indigenous culture into nation-states while excluding Indigenous people.
 
 ## Additional Materials
 
