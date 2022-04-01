@@ -83,7 +83,7 @@ Foster's songs alongside those of other composers that he deemed
 representative of the country's Anglo musical heritage. A nazi
 sympathizer, he sought to distribute and promote music from the
 countryside that he saw as culturally and morally superior to other
-popular musics (Warnock 2009) The history of this song and others rooted
+popular musics (Warnock 2009). The history of this song and others rooted
 in minstrel shows have come under renewed scrutiny in places like music
 classrooms, where national ideals of inclusivity increasingly confront
 racist music histories.

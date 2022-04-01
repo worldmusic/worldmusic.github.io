@@ -37,7 +37,7 @@ a perceived national unity.
 
 Nationalist movements in the 1800s sought to create musics to reflect
 the desired ideals of nations. This imperative emerged as European
-nations increasingly sought to define themselves in opposition to each
+nations increasingly defined themselves in opposition to each
 other and the growing number of colonies. European nationalist composers
 often drew on melodic or rhythmic traits considered particularly
 indicative of national styles. Because music is a symbolic medium, the
