@@ -156,7 +156,7 @@ and practices all together.
 
 3. Make a list of rights or benefits that are awarded to someone who is able to claim citizenship to a nation state. Then consider what is at stake for someone who is denied citizenship to a nation state.
 
-4. Conduct an internet search using Google or a database like JSTOR to read about plurinationalism. Find an example of how this is practiced in a given nation state or country. What are some of the social challenge of this political structure? How does music relate to the ways this plurinational state is represented?
+4. Conduct an internet search using Google or a database like JSTOR to read about plurinationalism. Find an example of how this is practiced in a given nation state or country. What are some of the social challenges of this political structure? How does music relate to the ways this plurinational state is represented?
 
 ### Recommended Readings
 
