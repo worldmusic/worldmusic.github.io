@@ -4,21 +4,21 @@ title: Call for Contributions
 description: Contribute to an open and accessible resource
 permalink: /call/
 nav:
- - "home"
- - "resources"
+  - "home"
+  - "resources"
 ---
 
-You are invited to contribute to a new open world music textbook. While the *World Music Textbook* aims to assemble a collection of original writing and multimedia resources for use in musicology and ethnomusicology classrooms, we also intend for this project to serve the wider public.
+You are invited to contribute to a new open world music textbook. While the _World Music Textbook_ aims to assemble a collection of original writing and multimedia resources for use in musicology and ethnomusicology classrooms, we also intend for this project to serve the wider public.
 
 **Honoraria:** Thanks to generous support from the California State University Affordable Learning Solutions initiative, we are currently able to offer honoraria for contributors in the range of $200 (USD). If you have questions about this or ideas for collaborative projects with multiple contributors, please reach out to us at [{{ site.email }}](mailto:{{ site.email }}).
 
 ## Scope and style
 
-Materials developed for the *World Music Textbook* should be:
+Materials developed for the _World Music Textbook_ should be:
 
-* Free and open to all
-* Short, accessible, and aimed toward an audience of undergraduate students or general readership
-* Flexible to allow instructors to draw thematic connections between a variety of geographic and historical contexts
+- Free and open to all
+- Short, accessible, and aimed toward an audience of undergraduate students or general readership
+- Flexible to allow instructors to draw thematic connections between a variety of geographic and historical contexts
 
 We welcome writing of roughly 500 to 2,000 words or films and multimedia projects of a similar scope. We are interested in all types of content that are accessible to general audiences.
 
@@ -26,21 +26,21 @@ The included materials will draw on a broad range of approaches to music scholar
 
 ## Organization
 
-The *World Music Textbook* is in an open format and lives exclusively online. It will serve as an adaptable educational resource capable of meeting a variety of needs ranging from those of introductory music or world music courses to those that focus on thematic historical or region-specific subject matter. To meet these various needs, the *World Music Textbook* will use a tag system to link and filter contributions geographically, historically, and thematically.
+The _World Music Textbook_ is in an open format and lives exclusively online. It will serve as an adaptable educational resource capable of meeting a variety of needs ranging from those of introductory music or world music courses to those that focus on thematic historical or region-specific subject matter. To meet these various needs, the _World Music Textbook_ will use a tag system to link and filter contributions geographically, historically, and thematically.
 
 Examples of themes include (but are not limited to): Analysis; Archives and preservation; Dance; Diaspora; Environment; Ethics; Ethnicity; Fieldwork and analysis methods; History, heritage, and tradition; Identity; Ideology; Indigeneity; Industries; Gender; Globalization; Government; Medicine and health; Memory and nostalgia; Modernity; Power; Race; Religion; Representation; or Technology.
 
 ## Submission information and the editorial process
 
-Please contact the editors at [{{ site.email}}](mailto:{{ site.email }}) with any questions about the *World Music Textbook*, whether a potential contribution is suitable, or how your submission can make use of this project’s online delivery.
+Please contact the editors at [{{ site.email}}](mailto:{{ site.email }}) with any questions about the _World Music Textbook_, whether a potential contribution is suitable, or how your submission can make use of this project’s online delivery.
 
 Submissions should be roughly in line with the word counts listed above, or of a similar scope (a documentary short, for example, instead of a feature length film). Submit writing via email in a standard rich text format (RTF, Microsoft Word, or similar) and send any attachments (images, videos, etc.) as separate files along with a document that includes captions. Email the editors with any questions or for information about submitting code or developing ideas for interactive contributions.
 
-*World Music Textbook* has a multi-step editorial process. First, the editors will review a submission. The primary focus at this stage is the submission’s suitability for the project and tone. We are looking to see whether:
+_World Music Textbook_ has a multi-step editorial process. First, the editors will review a submission. The primary focus at this stage is the submission’s suitability for the project and tone. We are looking to see whether:
 
-* it is prepared for a broad audience that includes people who have no previous experience on the topic and is appropriate to assign in an undergraduate course;
-* it makes use of narrative, personal experience, primary documents, or otherwise engages its audience in compelling ways;
-* and it meets a level of writing or production that will exceed the expectations of blind peer reviewers. (This includes the use of appropriate and recent scholarship, writing style, or production quality where relevant.)
+- it is prepared for a broad audience that includes people who have no previous experience on the topic and is appropriate to assign in an undergraduate course;
+- it makes use of narrative, personal experience, primary documents, or otherwise engages its audience in compelling ways;
+- and it meets a level of writing or production that will exceed the expectations of blind peer reviewers. (This includes the use of appropriate and recent scholarship, writing style, or production quality where relevant.)
 
 If concerns arise, editors or editorial mentors will collaborate closely with contributors to discuss and address them. This is an open process that is intentionally distinct from the norms of the academic publication system, in part because this site is not limited by page counts or publication cycles. It is our hope that every submission makes it through the peer review process successfully.
 
@@ -48,9 +48,9 @@ Contributions that are suitable for the project (either upon submission or follo
 
 Our goal is to support the development and dissemination of written and multimedia materials that reflect the many fruitful approaches to the study of music by practitioners and academics alike. We strive to center marginalized voices into curricula while simultaneously responding to the significant gap in publicly available musical research.
 
-## *Music Notes* Series
- 
-The *Music Notes* Series offers broad overviews of important themes explored within the *World Music Textbook*. These pieces come from experts within their respective fields and include resources for classroom instruction and lesson planning. If you are interested in contributing to the *Music Notes* Series, please contact the editors. Pieces are reviewed by the editors and accepted on a rolling basis.
+## _Music Notes_ Series
+
+The _Music Notes_ Series offers broad overviews of important themes explored within the _World Music Textbook_. These pieces come from experts within their respective fields and include resources for classroom instruction and lesson planning. If you are interested in contributing to the _Music Notes_ Series, please contact the editors. Pieces are reviewed by the editors and accepted on a rolling basis.
 
 ## Ownership and licensing
 
